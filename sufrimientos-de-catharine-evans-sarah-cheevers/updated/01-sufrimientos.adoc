@@ -1,4 +1,4 @@
-== Los Sufrimientos de Catharine Evans Y Sarah Cheevers
+== Los Sufrimientos de Catharine Evans y Sarah Cheevers
 
 En el año de 1658, Catharine Evans y Sarah Cheevers,
 habiendo sido persuadidas en sus mentes de viajar a Alejandría,
@@ -999,7 +999,7 @@ A lo que ellas respondieron:
 "`¡¿Qué? ¿Qué profesemos un Cristo del que tendríamos que avergonzarnos?!`" Algunos
 de los que venían a verlas las compadecían por no convertirse en católicas,
 pero otros les mostraban su odio al gritar que ellas debían ser quemadas, o vociferar:
-"`Fuoco, fuoco.`"
+"`_Fuoco, fuoco._`"
 (Fuego, fuego)
 
 Mientras permanecían separadas una de la otra,
@@ -1218,111 +1218,76 @@ y Sara comenzó a hablar con gran celo en contra de la superstición
 e idolatría. Cuando el tiempo de su ayunó acabó,
 Catharine compuso lo siguiente:
 
-Himno para Dios
+[.centered]
+=== Himno para Dios
 
+[verse]
+____
 ¡Toda alabanza a Aquel que no me ha dejado,
-
 ni de Su mente me ha sacado,
-
 ni Su misericordia de mí ha cerrado,
-
 hasta donde he hallado!
 
 ¡Infinita gloria, loor y alabanzas,
-
 sean dadas a Su nombre,
-
 Quien ha dado a conocer en nuestras jornadas,
-
 su fuerza y noble renombre!
 
 ¡Oh, nadie es al Cordero semejante,
-
 del que resplandece brillante Su belleza!
-
 ¡Oh, que Su santo nombre se exalte,
-
 Su majestad y fuerza!
 
 ¡Al único Dios mi alma alaba,
-
 a la fuente pura y clara,
-
 cuya corriente cristalina el exterior alcanza,
-
 y lejos y cerca lava!
 
 ¡Los manantiales de eternidad,
-
 muy puros y dulces son,
-
 brotan sin cesar,
-
 para a mi novio encontrar!
 
 ¡Mi dulce y querido Amado,
-
 Su voz es para mí,
-
 más que toda la gloria del mundo,
-
 o que los tesoros que pueda descubrir!
 
 ¡Él es la gloria de mi vida,
-
 mi gozo y mi placer.
-
 Dentro del seno de Su amor,
-
 me cercó de día y hasta el anochecer!
 
 ¡Él me preserva limpia y pura,
-
 dentro de Su habitación,
-
 donde yo con Él estoy segura,
-
 y salva de toda equivocación!
 
 ¡Qué mi alma te alabe Señor!
-
 ¡Qué te alabe con gozo y paz!
-
 ¡Qué mi espíritu y mi mente día y noche,
-
 te alaben sin cesar!
 
 ¡Oh, magnifiquen Su majestad,
-
 Su fama y renombre,
-
 Cuya morada es alta en Sión,
-
 la gloria de Su corona!
 
 ¡Oh, alabanzas, alabanzas a nuestro Dios!
-
 ¡Canten alabanzas a nuestro Rey!
-
 ¡Oh, enseñen a la gente en el extranjero,
-
 Sus alabanzas cantar!
 
 ¡Una canción brillante de gloria a Sión,
-
 una que muy claro brille.
-
 Oh, manifiéstenla ante la visión,
-
 de las naciones lejos y cerca!
 
 ¡Qué Dios tenga Su debida gloria,
-
 Su honor y Su fama
-
 Qué todos Sus santos canten de nuevo,
-
 las alabanzas a Su nombre!
+____
 
 Después de que Catharine cantó esto gozosamente,
 se fue al pozo del patio y tomó mucha agua a la vista de los prisioneros,
@@ -1631,17 +1596,21 @@ Ella también escribió una carta de exhortación al inquisidor papista en Malta
 al fraile Malaquías. Entre las cartas que ella les escribió a su esposo e hijos,
 cuento la siguiente como realmente digna de ser entregada a la posteridad:
 
-"`Para las manos de John Evans, mi querido y precioso esposo, y a mis tiernos hijos,
-quienes son más queridos y preciosos para mí que la niña de mis ojos.
+[.embedded-content-document.letter]
+--
 
-"`Muy querido y fiel esposo, amigo y hermano,
+[.salutation]
+Para las manos de John Evans, mi querido y precioso esposo, y a mis tiernos hijos,
+quienes son más queridos y preciosos para mí que la niña de mis ojos:
+
+Muy querido y fiel esposo, amigo y hermano,
 engendrado por mi Padre eterno de la Semilla inmortal, del pacto de luz,
 vida y bienaventuranza.
 Tengo unidad y comunión contigo día y noche, para mi gran refrigerio y continuo consuelo.
 ¡Alabanzas, alabanzas sean dadas a nuestro Dios para siempre,
 quien nos ha unido en lo que ni el mar ni la tierra pueden separar o dividir!
 
-"`Mi querido corazón,
+Mi querido corazón,
 mi alma te saluda sinceramente a ti y a mis queridos y preciosos hijos,
 quienes son queridos y preciosos en la luz del Señor,
 para tu gozo infinito y mi eterno consuelo.
@@ -1669,14 +1638,14 @@ listos para entrar a la recámara y cenar con el Cordero,
 y ser alimentados en el banquete de manjares suculentos, donde sus almas son nutridas,
 refrescadas, consoladas y satisfechas, y nunca tienen hambre de nuevo!
 
-"`Mis queridos corazones, ustedes no carecen de enseñanza;
+Mis queridos corazones, ustedes no carecen de enseñanza;
 ustedes están en la tierra de bendición, en la que fluye leche y miel,
 entre los mayordomos fieles, cuyas bocas están abiertas para justicia,
 para declarar los misterios eternos del reino perpetuo,
 de las alegrías interminables y de la gloria eterna.
 Donde entrará y será bendecido para siempre todo el que esté dispuesto y es obediente.
 
-"`Mis queridos corazones, las promesas del Señor son grandes,
+Mis queridos corazones, las promesas del Señor son grandes,
 y todas son Sí y Amén para los que temen Su nombre.
 Él consolará a los dolientes en Sión y hará que los abatidos se regocijen en Jerusalén,
 a causa de las buenas nuevas.
@@ -1692,7 +1661,7 @@ tanto espiritual como temporal.
 y cuyos arroyos cristalinos nunca dejan de correr hacia toda alma
 sedienta que respira en pos de los manantiales de vida y salvación!
 
-"`En nuestra más profunda aflicción, cuando creía que cada respiración fuera la última,
+En nuestra más profunda aflicción, cuando creía que cada respiración fuera la última,
 no podía desear no haber venido,
 porque yo sabía que había sido llevada por la voluntad de mi Padre para probarme,
 con mi querida y fiel amiga.
@@ -1726,7 +1695,7 @@ nuestra confianza y nuestro regocijo,
 a quien servimos aceptablemente con reverencia y piadoso temor;
 porque nuestro Dios es fuego consumidor!
 
-"`Oh, mi querido esposo y mis preciosos hijos,
+Oh, mi querido esposo y mis preciosos hijos,
 ustedes pueden experimentar las emisiones de amor y vida
 que fluyen como un río hacia cada una de sus almas,
 desde un corazón que está completamente unido a la fuente.
@@ -1743,25 +1712,35 @@ sobrelleven los unos las cargas de los otros por
 el bien de la Semilla y cumplan así la ley de Dios.
 Esta es la palabra del Señor para ustedes, mis amados.
 
-"`Amados corazones, los encomiendo a las manos del Todopoderoso, quien habita en lo alto,
+Amados corazones, los encomiendo a las manos del Todopoderoso, quien habita en lo alto,
 y a la Palabra de Su gracia en ustedes,
 quien es capaz de edificarlos para vida y eterna salvación. Por mí,
 quien soy tu amada y preciosa esposa y cónyuge, en el matrimonio del Cordero,
 en el lecho sin mancilla,
 
+[.signed-section-signature]
 C+++.+++ E.
 
-"`Mi amada compañera de yugo en la obra de nuestro Dios, cariñosamente te saluda.
+[.signed-section-context-close]
+Escrito en la Inquisición en Malta, en el mes 11, del año 1661
+
+[.postscript]
+Mi amada compañera de yugo en la obra de nuestro Dios, cariñosamente te saluda.
 Saluda con cariño a nuestros preciosos amigos en todo lugar.
-Creo que veré sus rostros de nuevo con gozo.`"
+Creo que veré sus rostros de nuevo con gozo.
 
-Esto fue escrito en la Inquisición en Malta
-En el mes 11, del año 1661
+--
 
+[.offset]
 La siguiente carta fue escrita por Sara a su esposo, Henry Cheevers y a sus hijos.
 
-"`Mi querido esposo,
-mi amor y mi vida están rendidos al servicio del
+[.embedded-content-document.letter]
+--
+
+[.salutation]
+Mi querido esposo,
+
+Mi amor y mi vida están rendidos al servicio del
 Dios vivo y a la obediencia de Su llamado puro,
 en la medida de la manifestación de Su amor, luz, vida y Espíritu de Cristo Jesús,
 Su unigénito Hijo.
@@ -1779,7 +1758,7 @@ ante poderosos hombres de la tierra.
 Mi lengua no puede expresar, ni ha entrado en el corazón del hombre,
 concebir las cosas que Dios ha guardado para los que le temen.
 
-"`Por tanto, mi alma respira anhelante a mi Dios por ti y por mis hijos,
+Por tanto, mi alma respira anhelante a mi Dios por ti y por mis hijos,
 noche y día. Para que sus almas sean unidas a la luz del Señor Jesús,
 a fin de que sean trasladados del reino de Satanás al reino de Dios,
 donde podemos disfrutarnos unos a otros en la vida eterna,
@@ -1825,9 +1804,13 @@ el Señor desgarrará todas las cubiertas que no son de Su propio Espíritu.
 El Dios de paz sea con todos ustedes.
 Amén.
 
+[.signed-section-closing]
 Escrito en la prisión de la Inquisición por,
 
+[.signed-section-signature]
 Sara Cheevers
+
+--
 
 Tanto ella como Catharine escribieron varias otras cartas a sus esposos y familiares,
 pero como gran parte de mi relato fue extraído de ellas, las deje pasar.
@@ -1835,18 +1818,28 @@ Sin embargo, por medio de estas que inserté,
 uno puede ver que ellas no eran mujeres de temperamento ingenuo,
 sino ingeniosas y alegres.
 
+[.offset]
 En una carta de Sara a sus amigos en Irlanda, encontré estas palabras:
 
-"`Mi vida está rendida al servicio del Señor: ataduras, cadenas, pernos, hierros,
+[.embedded-content-document.letter]
+--
+
+Mi vida está rendida al servicio del Señor: ataduras, cadenas, pernos, hierros,
 puertas dobles y la muerte misma,
 es demasiado poco por el testimonio de Jesús y por la palabra de Dios.
 Por tanto, es un sacrificio razonable con tal que la Semilla sea reunida.
 Los lazos y las aflicciones suceden en el evangelio de Cristo.
-Los que quieran vivir piadosamente en Cristo Jesús, deben sufrir persecución.`"
+Los que quieran vivir piadosamente en Cristo Jesús, deben sufrir persecución.
 
+--
+
+[.offset]
 Catharine escribe en una carta dirigida a Daniel Baker,
 
-"`El tiempo es demasiado poco para que yo revele
+[.embedded-content-document.letter]
+--
+
+El tiempo es demasiado poco para que yo revele
 la vigésima parte de las terribles pruebas.
 Sin embargo, cada vez que fuimos llevadas a alguna prueba,
 el Señor quitó todo temor de nosotras, multiplicó nuestras fuerzas,
@@ -1864,57 +1857,45 @@ ver ni hablar.
 Te suplicamos que le cuentes a todos nuestros queridos amigos, padres y ancianos,
 los pilares de nuestro edificio espiritual,
 junto con el resto de nuestros hermanos cristianos,
-que deseamos sus oraciones porque tenemos necesidad de ellas.`"
+que deseamos sus oraciones porque tenemos necesidad de ellas.
 
+--
+
+[.offset]
 Ellas concluyen esta carta con el siguiente poema:
 
+[verse]
+____
 ¡Cuán fuerte y poderoso es nuestro Rey,
-
 para todos los que en Él creen!
-
 Él los guarda de los que los quieren lazar,
-
 y a la fuerza los quieren desgarrar.
 
 En nosotros los que sufrimos por la Semilla,
-
 nuestros corazones están heridos y sangran,
-
 al ver la opresión y la crueldad,
-
 de los hombres que niegan Tu Verdad.
 
 En fuertes prisiones y profundas mazmorras
-
 sólo a Dios clamamos y lloramos.
-
 Nuestras penas nadie las puede aprender ni leer,
-
 sino los que nuestro camino han de recorrer.
 
 Pero Aquel cuya belleza brillante resplandece
-
 El que vuelve las tinieblas en luz,
-
 hace que los cedros se inclinen y los robles se doblen,
-
 ante el que es enviado para el mismo fin.
 
 Él es una fuente pura y clara,
-
 Sus cristalinos arroyos corren lejos y cerca,
-
 para limpiar a todo el que a Él se acerca,
-
 Para ser sanado de su pecado.
 
 Todos aquellos que pacientemente permanecen,
-
 y nunca se desvían ni se descarrían,
-
 el Señor los librará de toda
-
 opresión, cautiverio y esclavitud.
+____
 
 Ellas compusieron varios otros que cayeron en las manos de sus enemigos,
 y copias de ellos le fueron dados al inquisidor.
