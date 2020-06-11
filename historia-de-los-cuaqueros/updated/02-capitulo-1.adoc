@@ -444,7 +444,7 @@ y hablaban principalmente para edificar,
 fueron despreciados y puestos de lado,
 porque los obispos buscaban promover especialmente tales ritos,
 dado que favorecían el papado^
-footnote:[A lo largo de esta historia, _papado_ se refiere a las doctrinas,
+footnote:[A lo largo de esta historia, __papado__ se refiere a las doctrinas,
 prácticas y ceremonias asociadas con el Papa o sistema papal; es decir,
 con el catolicismo romano.]. Esto no sólo fue hecho en Inglaterra,
 pues en Escocia también se hicieron esfuerzos para introducir el episcopado^
@@ -500,7 +500,7 @@ Mientras tanto, él llevaba una vida solitaria,
 ayunaba a menudo y leía las Sagradas Escrituras diligentemente,
 de modo que algunos profesantes^
 footnote:[A lo largo de esta historia,
-la palabra _profesantes_ se refiere a los que profesan fe en Cristo.]
+la palabra __profesantes__ se refiere a los que profesan fe en Cristo.]
 se fijaron en él y buscaron conocerlo.
 Pero él, al percibir pronto que ellos no poseían lo que profesaban,
 tuvo miedo de ellos y rehuyó su compañía. En ese tiempo cayó en una gran tentación,
@@ -606,7 +606,7 @@ al no encontrar a nadie que pudiera alcanzar su condición.
 Después de esto se fue a ver a un tal Macham,
 un sacerdote de gran estima, pero este no era más hábil que los otros,
 y quería darle medicina a George y sangrarlo^
-footnote:[En ese tiempo, hacer una _sangría_ era una práctica común entre los médicos,
+footnote:[En ese tiempo, hacer una __sangría__ era una práctica común entre los médicos,
 y se creía que prevenía y curaba toda clase de enfermedades y dolencias.],
 pero no pudieron sacarle una gota de sangre, ni de los brazos, ni de la cabeza;
 su cuerpo parecía estar seco por las penas, el dolor y la tribulación. En ese tiempo,
@@ -1277,7 +1277,7 @@ en la suerte y porción de los que (por asunto de consciencia)
 no podían seguir más las costumbres comunes de la época.
 Pues aunque se alegaba que quitarse el sombrero era algo pequeño,
 algo que nadie debía considerar un asunto de escrúpulos^
-footnote:[La palabra _escrúpulos_ aparece a menudo a lo largo
+footnote:[La palabra __escrúpulos__ aparece a menudo a lo largo
 de esta historia como sustantivo y como verbo.
 Es usada para hablar de un sentimiento de duda o vacilación con
 respecto a la moralidad o decencia de un curso de acción.],
@@ -1630,6 +1630,10 @@ Y así, cuando se cansaron de interrogarlo,
 lo entregaron a él y a otro hombre a la casa correccional en Derby por seis meses,
 como "`blasfemos,`" tal como aparece en la siguiente orden judicial.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Al Señor de la Casa Correccional en Derby, Saludos.
 
 Le hemos enviado junto con esta orden a George Fox,
@@ -1647,7 +1651,10 @@ o sean liberados por una orden de nosotros.
 No debe fallar en esto.
 Dado bajo nuestras manos y sellos, este día 30 de Octubre, de 1650.
 
+[.signed-section-signature]
 Gervas Bennet, Nathaniel Barton.
+
+--
 
 Estando George Fox encerrado, como se ha dicho,
 los sacerdotes se levantaron en sus púlpitos para predicar
@@ -1750,6 +1757,9 @@ La siguiente es la primera de sus cartas que me encuentro,
 la que él escribió a los sacerdotes de Derby, desde la casa correccional,
 donde ciertamente no tenía la conveniencia de un escriba.
 
+[.embedded-content-document.letter]
+--
+
 Oh, amigos, fui enviado para decirles,
 que si ustedes hubieran recibido el evangelio gratuitamente,
 gratuitamente lo ministrarían, sin dinero o precio;
@@ -1777,10 +1787,18 @@ porque muestran sus frutos.
 Ellos tenían los principales lugares en las asambleas, igual que ustedes.
 A ellos les encantaba que los llamaran Rabinos, igual que ustedes.
 
+[.signed-section-signature]
 G+++.+++ Fox
 
+--
+
+[.offset]
 Lo que escribió a los magistrados que lo enviaron a prisión fue, a este efecto:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Amigos,
 
 Me veo forzado, en tierno amor por sus almas,
@@ -1803,7 +1821,10 @@ y si es del hombre, fallará, pero si es de Dios, nada lo derrocará. Por tanto,
 deseo y oro que ustedes presten atención, y tengan cuidado con lo que hacen,
 para que no sean hallados peleando contra Dios.
 
+[.signed-section-signature]
 G+++.+++ Fox
+
+--
 
 George Fox, tras haber descargado su consciencia, continuó esperando con paciencia,
 dejándole el resultado a Dios.
@@ -1815,6 +1836,10 @@ Uno de ellos (ya mencionado) era el juez Bennet, el otro, llamado Natanael Barto
 era tanto juez como coronel, y también predicador.
 A estos les escribió como sigue:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Amigos,
 
 Ustedes hablaron del buen camino antiguo, del que habló el profeta +++[+++Jeremías],
@@ -1844,9 +1869,15 @@ que clamaron los verdaderos profetas! ¡Oh,
 vengan y siéntense en el polvo! ¡El Señor viene con poder,
 y derribará a todos los que están exaltados, para que sólo Él sea exaltado!
 
+--
+
 Habiéndoles escrito en conjunto, después de un tiempo le escribió a cada uno por separado.
 Al juez Bennet le escribió así:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Amigo,
 
 Tú que profesas a Dios y a Cristo en palabras, examina cómo lo sigues.
@@ -1872,10 +1903,18 @@ No te engañes, Dios no puede ser burlado.
 Las malas conversaciones corrompen las buenas costumbres.
 Despierta a justicia, y no peques.
 
+[.signed-section-signature]
 G+++.+++ Fox
 
+--
+
+[.offset]
 Para el juez Barton sus palabras fueron:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Amigo,
 
 Tú que predicas a Cristo y las Escrituras en palabras,
@@ -1887,12 +1926,19 @@ y en todos los hombres santos de Dios; lo que ellos hablaron era de la vida,
 pero los que no tenían la vida (sino sólo las palabras),
 persiguieron y encarcelaron a los que vivían en la vida de la que ellos habían retrocedido.
 
+[.signed-section-signature]
 G+++.+++ Fox
+
+--
 
 Ahora, a pesar de que el alcalde de Derby no firmó la orden de la corte,
 sí le había tendido una mano al resto para enviar a G. Fox a prisión,
 y por eso le escribió de la siguiente manera:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Amigo,
 
 Tú estás sentado en un lugar para hacer justicia,
@@ -1925,7 +1971,13 @@ uno hacía cada día banquete con esplendidez, el otro era mendigo! ¡Oh, amigo,
 considera estas cosas, porque ellas están cerca,
 y mira si no estás en el estado del hombre rico!
 
+--
+
+[.offset]
 A los de la Corte de Derby les escribió la siguiente exhortación.
+
+[.embedded-content-document.letter]
+--
 
 Me siento movido a escribirles, que tengan cuidado de oprimir al pobre en sus cortes,
 o de poner cargas pesadas sobre la gente pobre, cargas que ellos no pueden llevar.
@@ -1937,9 +1989,16 @@ Por tanto, presten atención a todas estas cosas rápidamente.
 Los juicios del Señor son verdad, todos justos, y Él se deleita en la misericordia.
 Así, pues, amen la misericordia, querido pueblo, y consideren el tiempo.
 
+--
+
+[.offset]
 A los que hacían sonar la campana de la '`casa del campanario`' en Derby,
 llamada San Pedro, les escribió:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Amigos,
 
 Tengan cuidado de los placeres y valoren su tiempo ahora mientras lo tienen,
@@ -1949,6 +2008,8 @@ miren el amor de Dios ahora, mientras tienen tiempo,
 pues este los lleva a detestar todas las vanidades y placeres mundanos.
 ¡Oh, piénselo, el tiempo es precioso!
 Teman a Dios y regocíjense en Aquel que hizo el cielo y la tierra.
+
+--
 
 Mientras G. Fox estaba en prisión allí,
 varios de los profesantes fueron a conversar con él,
@@ -2036,6 +2097,9 @@ de viajar para declarar la doctrina de la verdad,
 con el fin de descargar su consciencia, escribió el siguiente documento y lo envió,
 para abrir el entendimiento de las personas en el camino
 de la verdad y dirigirlas al verdadero maestro en ellas.
+
+[.embedded-content-document.letter]
+--
 
 El Señor le muestra al hombre sus pensamientos y descubre todas las operaciones
 secretas en él. Un hombre puede ser llevado a ver sus malos pensamientos,
@@ -2157,9 +2221,16 @@ será fructífero y se levantará. Porque Esaú es odiado y no debe ser señor, 
 el segundo nacimiento, el cual es perfecto y sencillo,
 será señor porque es amado por Dios.
 
+[.signed-section-signature]
 G+++.+++ Fox
 
+--
+
+[.offset]
 Casi al mismo tiempo les escribió a sus amigos el siguiente documento:
+
+[.embedded-content-document.letter]
+--
 
 ¡El Señor es Rey sobre toda la tierra!
 Por tanto, todas las personas alaben y glorifiquen a su Rey en verdadera obediencia,
@@ -2174,9 +2245,14 @@ Cuando ellas oyen Su voz se regocijan, son obedientes y cantan de gozo.
 Ellas cantan y alaban al eterno Dios de Sión,
 y ningún hombre les quitará su gozo jamás. ¡Gloria al Señor Dios para siempre!
 
+--
+
 Debido a que muchos que habían sido convencidos de la verdad,
 se desviaron por la persecución que se levantó,
 escribió las siguientes líneas para alentar a los fieles:
+
+[.embedded-content-document.letter]
+--
 
 ¡Vengan, benditos del Señor y regocíjense juntos,
 manténganse en unidad y unanimidad de espíritu!
@@ -2187,6 +2263,8 @@ presten atención al llamado del Señor y salgan del mundo,
 y manténganse fuera de él para siempre! ¡Vengan, ustedes los justos,
 canten juntos el cántico del Señor, el cántico del Cordero,
 el que nadie puede aprender sino los redimidos de la tierra y del mundo!
+
+--
 
 Mientras G. Fox estaba en la casa de corrección en Derby, llegaron a verlo sus parientes,
 y dolidos por su encarcelamiento fueron a los jueces
@@ -2212,6 +2290,10 @@ religiosas los Primeros-días. Pero entonces,
 al requerir los jueces fianzas por su buen comportamiento,
 vino sobre él escribirles de nuevo como sigue:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Amigos,
 
 Examinen qué hay en ustedes que encarcela;
@@ -2230,8 +2312,15 @@ tengan cuidado con los placeres, engaños y orgullo.
 No miren al hombre, sino al Señor; porque Él dice: "`Mirad a mí, y sed salvos,
 todos los términos de la tierra.`"
 
+--
+
+[.offset]
 No muchos después les escribió de nuevo, diciendo:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Amigos,
 
 ¿Ustedes querían que yo les diera garantía de mi buen comportamiento,
@@ -2247,9 +2336,16 @@ a quien ni ustedes, ni ningún otro, pueden justamente acusar de tales cosas;
 No puedo acudir al hombre por mi libertad, sino sólo al Señor,
 quien tiene los corazones de todos los hombres en Su mano.
 
+--
+
+[.offset]
 Después de un tiempo, al no encontrar su espíritu libre de ellos,
 les escribió de nuevo como sigue:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Amigos,
 
 Si supieran quien me envió, me habrían recibido;
@@ -2275,8 +2371,15 @@ porque en ellos se deleita el Señor. No escribo con odio hacia ustedes,
 sino para mantener mi consciencia limpia.
 Tengan cuidado de cómo gastan el tiempo.
 
+--
+
+[.offset]
 También les escribió de nuevo a los sacerdotes de Derby en esta forma:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Amigos,
 
 Ustedes profesan ser los ministros de Jesucristo en palabras,
@@ -2305,9 +2408,14 @@ todavía gobierna la naturaleza del mundo y no la naturaleza de Jesucristo.
 No escribo con odio hacia ustedes,
 sino sólo para que se pesen y vean cómo pasan su tiempo.
 
+--
+
 Tras haber despejado su consciencia para con los sacerdotes,
 no mucho después vino sobre él la inquietud de escribirles de nuevo a los jueces,
 lo cual hizo como sigue:
+
+[.embedded-content-document.letter]
+--
 
 Me siento movido a advertirles,
 que tengan cuidado de darles paso a sus propias voluntades.
@@ -2336,9 +2444,15 @@ Esto los conducirá al arrepentimiento y los mantendrá en el temor del Señor. 
 miren las misericordias de Dios y aprécienlas, y no las vuelvan libertinaje! ¡Oh,
 vuelvan sus ojos al Señor y no a las cosas terrenales!
 
+--
+
 Además de esto, le escribió la siguiente carta a Natanael Barton,
 quien (como se dio a entender antes) era tanto juez como predicador.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Amigo,
 
 ¡No te escondas ni te tapes!
@@ -2403,6 +2517,8 @@ y ellos puedan habitar solos en medio de la tierra!`'^
 footnote:[Isaías 5:8]
 Estas cosas han llegado a oídos del Señor de los ejércitos.
 
+--
+
 Ya se ha dicho que en algunas ocasiones, tanto G. Fox como algunos de sus amigos,
 fueron movidos a predicar la doctrina de la verdad.
 En este año también sucedió que Elizabeth Hooton (de quien ya se ha hecho mención),
@@ -2433,6 +2549,9 @@ sino también con los ingleses de ser posible.
 Y por esta razón, emitió la siguiente declaración en su corte en Dumfermling,
 fechada 16 de Agosto de 1650, el segundo año de su reinado:
 
+[.embedded-content-document.address]
+--
+
 Aunque su Majestad, como hijo obediente,
 está obligado a honrar la memoria de su padre y a tener en estima la persona de su madre,
 desea humillarse y afligirse profundamente delante de Dios,
@@ -2440,6 +2559,8 @@ porque su padre prestó atención a consejos malvados,
 se opuso a la Obra de Reforma y a la Liga y Pacto Solemnes (por la que
 mucha sangre del pueblo del Señor ha sido derramada en estos reinos),
 y también por la idolatría de su madre.
+
+--
 
 Aquí el Rey confesó abiertamente que la casa de su padre era culpable de grandes crímenes,
 y claramente indicó que la nación había sido perjudicada
