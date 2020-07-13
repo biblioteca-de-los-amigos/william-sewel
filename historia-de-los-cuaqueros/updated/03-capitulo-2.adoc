@@ -110,6 +110,9 @@ Y estaba más angustiado,
 porque tales prácticas eran incluso contrarias a la ley de Dios en el antiguo pacto.
 Por tanto, les escribió a los jueces la siguiente carta:
 
+[.embedded-content-document.letter]
+--
+
 Me siento movido a escribirles,
 que tengan cuidado de estar ejecutando hombres por robar ganado, dinero, etc.,
 porque los ladrones bajo la ley debían hacer restitución, y si no tenían los medios,
@@ -124,6 +127,8 @@ Pero escribo para que juzguen según Su ley y para que muestren misericordia,
 porque Él se deleita en el juicio verdadero y en la misericordia.
 Les ruego que presten atención a estas cosas y que valoren su tiempo ahora que lo tienen,
 teman a Dios y sírvanle, pues Él es fuego consumidor.
+
+--
 
 Mientras G. Fox estaba en prisión entre los delincuentes,
 lo afligía oír el lenguaje sucio que usaban,
@@ -186,6 +191,9 @@ A raíz de esto,
 G+++.+++ Fox les escribió a los jueces y a los que estaban involucrados en su encarcelamiento,
 las siguientes líneas:
 
+[.embedded-content-document.letter]
+--
+
 Ustedes que están sin Cristo,
 y que sin embargo usan las palabras que Él y Sus santos han dicho,
 consideren cómo ni Él ni Sus apóstoles encarcelaron a alguien alguna vez.
@@ -207,9 +215,14 @@ ustedes no me habrían encarcelado; no obstante, mi amor es para ustedes,
 como para todos mis prójimos.
 Esto ha sido escrito para que ustedes puedan sopesarse y ver cómo están.
 
+--
+
 Por esta época,
 entregó el siguiente documento a los que habían sido convencidos de la verdad,
 para mostrarles el engaño del mundo, y cómo los sacerdotes habían engañado al pueblo:
+
+[.embedded-content-document.letter]
+--
 
 Cristo fue odiado siempre,
 y los justos fueron odiados por causa de Él. Examinen quiénes eran los que los odiaban.
@@ -265,9 +278,15 @@ contra los sacerdotes que enseñaban por precio,
 y contra los profetas que profetizaban por dinero, y que aun así,
 se apoyaban en el Señor diciendo: "`¿No está el Señor entre nosotros?`"
 
+--
+
 También les escribió una seria exhortación a los magistrados de Derby,
 para que consideraran a quienes encarcelaban.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Amigos,
 
 Deseo que consideren a tiempo,
@@ -308,12 +327,17 @@ porque Él es más fuerte que ustedes.
 Les escribí en amor, para que se ocupen de la ley de Dios y de sus propias almas,
 y para que hagan como hicieron los hombres de Dios.
 
+--
+
 Durante su encarcelamiento ahí, se encontró bajo gran prueba y lucha de espíritu,
 debido a la maldad de ese pueblo,
 porque aunque algunos habían sido convencidos de la doctrina de la verdad,
 en general eran personas endurecidas.
 Y viendo que la visitación del amor de Dios pasaba de ellos,
 lloró y escribió el siguiente lamento.
+
+[.embedded-content-document.letter]
+--
 
 ¡Oh, Derby!
 Así como corren las aguas cuando se levantan las compuertas,
@@ -336,6 +360,8 @@ de modo que el engaño en uno permite el engaño en otro, y sin embargo,
 profesas a Cristo en palabras.
 ¡Oh, Derby!
 Ver cómo es deshonrado Dios en ti, me rompe el corazón.
+
+--
 
 Después de que había escrito esto,
 percibió que su encarcelamiento allí no continuaría mucho tiempo más,
@@ -752,7 +778,7 @@ Los hombres que custodiaban a G. Fox dijeron:
 "`Ojalá que el juez no esté borracho cuando lleguemos donde él, porque por lo general,
 está borracho desde temprano.`"
 Cuando G. Fox fue llevado delante de él,
-y no se quitó el sombrero y le habló de "`tú,`" el juez
+y no se quitó el sombrero y le habló de _"`tú,`"_ el juez
 le preguntó al hombre que había llegado cabalgando antes,
 si G. Fox estaba confundido o loco.
 Pero el hombre dijo: "`No,
@@ -1279,7 +1305,7 @@ habiéndolo recibido del Señor. Pero,
 ¿con qué propósito hablan los hombres de las Escrituras,
 si no van al Espíritu que las dio?
 Ustedes dirán: '`Cristo dice esto y los apóstoles dicen esto,`' pero,
-¿qué puedes decir tú, oh hombre, con respecto a esto?
+¿qué puedes decir _tú,_ oh hombre, con respecto a esto?
 ¿Son ustedes hijos de la luz?
 ¿Caminan en la luz?
 Lo que hablan, ¿lo poseen internamente de parte de Dios?`"
