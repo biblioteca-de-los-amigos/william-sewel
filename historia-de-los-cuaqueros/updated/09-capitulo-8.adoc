@@ -172,7 +172,7 @@ que si el pan y el vino que los corintios comían y bebían era el cuerpo real d
 cómo entonces tenía Cristo un cuerpo en el cielo.
 También le indicó al Jesuita,
 que tanto los discípulos en la cena como los corintios después,
-tenían que comer el pan y beber el vino en memoria de Cristo,
+tenían que comer el pan y beber el vino _en memoria_ de Cristo,
 y anunciar Su muerte hasta que Él viniera,
 lo cual claramente probaba que el pan y el vino que tomaban no era Su cuerpo.
 Porque si ellos hubieran comido el cuerpo real de Cristo,
@@ -475,19 +475,19 @@ persiguen a los que dan testimonio de la revelación
 del Padre por medio de Jesucristo a ellos.
 Ustedes profesan a Jesucristo,
 quien es la luz del mundo "`que alumbra a todo hombre que viene a este mundo,`"^
-footnote:[ Juan 1:9]
+footnote:[Juan 1:9]
 y sin embargo, persiguen a los que dan testimonio de esta luz.
 Ustedes profesan que la Palabra se ha hecho carne, y sin embargo,
 persiguen a los que dan testimonio de ello.
 Ustedes profesan que el que "`no confiesa que Jesucristo ha venido en carne,
 es el anticristo,`"^
-footnote:[ 1 Juan 4:3]
+footnote:[1 Juan 4:3]
 y sin embargo,
 persiguen a los que confiesan que Él ha venido en carne y los llaman anticristos y engañadores.
 Ustedes profesan que el reino de Cristo ha venido, y sin embargo,
 persiguen a los que experimentan Su venida.
 Ustedes profesan que Jesucristo es la resurrección y la vida, y sin embargo,
-persiguen a los que Lo experimentan como tal. 
+persiguen a los que Lo experimentan como tal.
 
 Pero si dicen: "`¿Cómo sabremos si estas personas que dicen ser testigos de estas cosas,
 lo son o no lo son?`"
@@ -597,7 +597,7 @@ G+++.+++ Fox no pudo dejar esta hipocresía sin reprensión y les escribió las 
 Oh, amigos, no se oculten ni se cubran;
 hay un Dios que conoce sus corazones y que los descubrirá. Él ve su camino:
 "`¡Ay del que se cobija con cubierta, y no con mi Espíritu!`"^
-footnote:[ Isaías 30:1], dice el Señor. ¿Actúan contra la ley y luego se excusan?
+footnote:[Isaías 30:1], dice el Señor. ¿Actúan contra la ley y luego se excusan?
 Ustedes descuidan la misericordia y el juicio verdadero.
 Miren lo que mi Salvador dijo contra tales: '`Estuve enfermo y no me visitaron;
 tuve hambre y no me dieron de comer; fui forastero y no me acogieron;
@@ -605,7 +605,7 @@ estuve en prisión y no me visitaron.`' Pero ellos le dijeron:
 '`¿Cuándo te vimos en prisión y no te visitamos?`'
 '`En cuanto no lo hicieron a uno de estos pequeños,
 tampoco me lo hicieron a mí.`'^
-footnote:[ Mateo 25:43-45]
+footnote:[Mateo 25:43-45]
 Amigos, ustedes encarcelan a los que están en la vida y poder de la Verdad,
 y sin embargo, profesan ser ministros de Cristo.
 Pero si Cristo los hubiera enviado,
@@ -613,7 +613,7 @@ sacarían a las personas de la prisión y de la esclavitud, y recibirían a los 
 '`Ustedes han vivido sobre la tierra en deleites y lujos;
 han engordado sus corazones como en día de matanza.
 Ustedes han condenado y dado muerte al justo, y él no les ha hecho resistencia.`'^
-footnote:[ Santiago 5:5-6]
+footnote:[Santiago 5:5-6]
 
 [.signed-section-signature]
 G+++.+++ F.
@@ -709,7 +709,6 @@ Nunca entendí que algo de importancia siguiera esta carta,
 pero cerca de dos meses después, le escribió otra carta a Cromwell,
 la cual le fue entregada en Hampton Court, el sexto mes.
 
-
 [.embedded-content-document.letter]
 --
 
@@ -744,7 +743,7 @@ y entonces seas bendecido en esta vida y en la vida por venir.
 Pero si continúas en tu opresión, el Señor te golpeará repentinamente.
 
 [.signed-section-closing]
-De un amigo para ti en el Señor, 
+De un amigo para ti en el Señor,
 
 [.signed-section-signature]
 E+++.+++ B.
@@ -1014,11 +1013,11 @@ Esta reconvención, aunque larga y poderosa, no tuvo el efecto deseado,
 pues la persecución continuó sin que él la detuviera.
 Porque los eclesiásticos lo adulaban llamándolo no sólo su "`Josué,`"
 sino que los predicadores de Suffolk decían en sus discursos de él,
-"`Sol occubuit, nox nulla secuta est.`"
+__"`Sol occubuit, nox nulla secuta est.`"__
 Es decir: "`Aunque nuestro sol se ha puesto, la noche no ha llegado.`"
 
-Por este tiempo se publicó un artículo llamado, "`The Church Faith;`"^
-footnote:[ La Fe de la Iglesia.]
+Por este tiempo se publicó un artículo llamado, __"`The Church Faith;`"__^
+footnote:[La Fe de la Iglesia.]
 y G. Fox habiendo obtenido una copia de dicho artículo antes de que se publicara,
 escribió una respuesta, de modo que, cuando apareció el libro de la fe de la iglesia,
 también apareció su respuesta.
@@ -1183,7 +1182,7 @@ y Su pesada mano de indignación reposará sobre sus consciencias,
 y serán esparcidos y destrozados en pedazos.
 
 [.signed-section-signature]
-E+++.+++ Burrough 
+E+++.+++ Burrough
 
 --
 
@@ -1209,7 +1208,7 @@ que dado que él era pobre y no podía pagar los cinco
 chelines por semana por no asistir a la iglesia,
 lo mantendrían en prisión. Así se verificó el dicho de Salomón,
 "`mas la misericordia de los impíos es crueldad.`"^
-footnote:[ Proverbios 12:10. Traducción literal de la KJV]
+footnote:[Proverbios 12:10. Traducción literal de la KJV]
 Bellingham también se esforzó por persuadir a esta mujer,
 de que lo que había hecho su esposo era para deshacerse de ella, y por tanto,
 le aconsejó que lo repudiara.
@@ -1429,9 +1428,9 @@ doce personas fueron multadas con cuarenta libras y diecinueve chelines,
 por no asistir a la iglesia; y a otros se les extorsionó con mucho dinero,
 porque sus esposas se ausentaban de la adoración pública.
 William Marston, de Hampton,
-fue multado con diez libras por poseer dos libros en su casa, a saber, Resurrection, ^
-footnote:[ Resurrección.] de John Lilburn; y Mighty Day of the Lord,^
-footnote:[ El Poderoso Día del Señor.]
+fue multado con diez libras por poseer dos libros en su casa, a saber, __Resurrection,__^
+footnote:[Resurrección.] de John Lilburn; y __Mighty Day of the Lord,__^
+footnote:[El Poderoso Día del Señor.]
 de William Dewsbury.
 Así, estas personas hacían lo que querían,
 sin ninguna consideración de las leyes en la Vieja Inglaterra;
@@ -1579,14 +1578,14 @@ que su ausencia había causado que tal ley pasara),
 dijo que si él hubiera sabido, se habría arrastrado hasta ahí de rodillas,
 antes de permitir que se aprobara.
 Pero lo que dijo resultó en vano, porque ya habían pasado el Rubicon,^
-footnote:[ Es decir, se había pasado la encrucijada o punto de no retorno.]
+footnote:[Es decir, se había pasado la encrucijada o punto de no retorno.]
 y se había obtenido lo que había sido fervientemente deseado.
 Sin embargo, hubo un gran desacuerdo en la corte, y los doce que habían votado en contra,
 resolvieron presentar sus disconformidades a dicha ley;
 cuando los otros vieron y creyeron que tantas dificultades debilitarían su ley,
 admitieron la siguiente adición: Que serían juzgados por un jurado especial;
 aunque una ley en firme decía, que nadie podía ser sentenciado a muerte, ni desterrado,
-sino por un jurado especial y un tribunal de asistentes,
+sino por un jurado especial _y_ un tribunal de asistentes,
 y que dicho tribunal debía estar conformado por siete magistrados como mínimo.
 Pero entonces se resolvió enjuiciar a los Cuáqueros hasta la muerte, y todos sus juicios,
 cuando llegaba el momento, eran sólo una cuestión de si eran o no Cuáqueros,
@@ -1661,7 +1660,8 @@ a partir de la información que se le proporcione de alguna persona así,
 lo hará detener y lo enviará a prisión, según su criterio,
 hasta que comparezca al juicio, como ya se mencionó.
 
--- 
+--
+
 Aquí termina este sanguinario acto,
 más parecido a los decretos de la Inquisición Española
 que a las leyes de una magistratura cristiana reformada,
