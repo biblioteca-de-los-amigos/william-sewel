@@ -3,6 +3,10 @@
 A principios de este año E. Burrough escribió la siguiente carta
 al Parlamento que entonces tenía el poder en sus manos otra vez.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Amigos,
 
 Todos estos derrocamientos y casi asombrosos cambios,
@@ -125,12 +129,19 @@ no sean decididos y rebeldes contra Él,
 porque Él puede molerlos hasta el polvo, y hundirlos en confusión y miseria,
 como se hunde una piedra en el mar!
 
+[.signed-section-signature]
 E+++.+++ Burrough
+
+--
 
 Esta fue dirigida a las manos del presidente del Parlamento,
 y fue entregada a William Lenthal como corresponde,
 y se adjuntó con las siguientes líneas:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Amigo,
 
 Te encomiendo que presentes ante la casa la carta adjunta,
@@ -141,9 +152,13 @@ los exhorto a no ser negligentes en este asunto, como si no tuviera valor para u
 lo pongo sobre ustedes, ya que, de lo contrario, responderán en el terrible día de Dios,
 cuando el Rey de Justicia los juzgue a ustedes y a toda la humanidad.
 
+[.signed-section-signature]
 E+++.+++ Burrough
 
+[.signed-section-context-close]
 24 del mes Once de 1659.
+
+--
 
 Este Parlamento ordenó que cerca de mil quinientos
 oficiales militares fueran dados de baja,
@@ -151,6 +166,9 @@ y pusieron a otros en sus puestos.
 
 Por este tiempo George Fox el joven,
 también les escribió una carta al Parlamento y al ejército, que decía lo siguiente:
+
+[.embedded-content-document.letter]
+--
 
 El día de ustedes se ha convertido en tinieblas; el sol se ha puesto sobre ustedes.
 Han tenido un gran día y se les ha dado poder para hacer la voluntad de Dios;
@@ -225,9 +243,13 @@ Pero Dios vengará la causa de ellos, y entonces el ay será para todos sus opre
 Luego la majestad y la gloria del Señor llenarán a Su pueblo largamente pisoteado,
 y serán el pavor de las naciones; el celo del Señor de los ejércitos hará esto.
 
-George Fox, el joven:
+[.signed-section-signature]
+George Fox, _el joven._
 
+[.signed-section-context-close]
 Mes Once de 1659
+
+--
 
 Esta carta se imprimió y se le entregó una copia a cada hombre del Parlamento,
 antes de que el general Monck y su ejército entraran en Londres.
@@ -385,13 +407,20 @@ quien para entonces estaba en Westminster, demostró que no toleraría tales mal
 y en ese sentido, hizo algo mejor que lo que habían hecho otros generales,
 porque dio la siguiente orden.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 St. James`'s, 9 de Marzo, 1659-60
 
 Ordeno que todos los oficiales y soldados se abstengan
 de perturbar las reuniones pacíficas de los Cuáqueros,
 ya que ellos no hacen nada perjudicial contra el Parlamento o la Mancomunidad de Inglaterra.
 
+[.signed-section-signature]
 George Monck.
+
+--
 
 Monck,
 que por mucho tiempo se había declarado a favor de
@@ -406,6 +435,9 @@ se dirigió a Breda, en Holanda.
 Y estando ya resuelto en Inglaterra que lo llamarían y restaurarían,
 dio la siguiente declaración en Breda,
 para persuadir a los que todavía se resistían a reconocerlo.
+
+[.embedded-content-document.epistle]
+--
 
 Carlos, por la gracia de Dios, rey de Inglaterra, Escocia, Francia e Irlanda,
 defensor de la fe, etc., a todos nuestros amados súbditos, de cualquier grado o calidad,
@@ -490,6 +522,8 @@ buena paga y condiciones como las que disfrutan ahora.
 
 Dado bajo nuestro signo y sello en nuestra corte en Breda, el día 14 de Abril de 1660,
 en el duodécimo año de nuestro reinado.
+
+--
 
 El original de esta declaración fue enviada a la Cámara de los Lores,
 y un duplicado fue enviado a la Cámara de los Comunes,
@@ -586,6 +620,10 @@ y estos magistrados enviaron una notificación de lo que habían hecho al Parlam
 bajo el pretexto de que así no caerían en desgracia.
 Cuando el Parlamento recibió esta información, emitió la siguiente orden:
 
+[.embedded-content-document.legal]
+--
+
+[.signed-section-context-open]
 Lunes 21 de Mayo, de 1660.
 
 Se le ha informado a la Cámara que dos Cuáqueros, es decir,
@@ -605,9 +643,13 @@ Se ordena también,
 que se les dé el agradecimiento de esta Cámara al alcalde y a los magistrados de Harwich,
 por su cuidado en este asunto.
 
-William Jessop,
+[.signed-section-signature]
+William Jessop
 
+[.signed-section-context-close]
 Secretario de la Cámara de los Comunes del Parlamento.
+
+--
 
 Por esto,
 parecía que los magistrados de Harwich tenían amigos especiales en el Parlamento.
@@ -639,8 +681,13 @@ Este era el contenido principal del documento,
 que ellos adjuntaron a un carta para el presidente
 de la Cámara de los Comunes con estas palabras:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Para el Presidente de la Casa de los Comunes
 
+[.salutation]
 Amigo,
 
 Deseamos que comuniques esta carta adjunta a la Cámara de los Comunes,
@@ -649,7 +696,10 @@ y aunque no están en el lenguaje elocuente de la sabiduría del hombre,
 sí lo están en la verdad que es honorable.
 Somos amigos de la justicia y la verdad, y de todos los que son hallados en ellas.
 
+[.signed-section-signature]
 Robert Grassingham, George Fox.
+
+--
 
 Sin embargo, el presidente no entregó el documento,
 bajo el pretexto de que no estaba dirigido con el título ordinario:
@@ -662,6 +712,10 @@ semanas en Lambeth gate-house sin haber sido interrogados,
 uno de los miembros del Parlamento movió este asunto en la Cámara;
 con lo cual se emitió la siguiente orden:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Jueves, 30 de Octubre de 1660.
 
 Se ordena que George Fox y Robert Grassingham,
@@ -671,9 +725,13 @@ que asiste esta Cámara por unos disturbios en Harwich,
 sean inmediatamente soltados y puestos en libertad,
 tras pagar primero una fianza por sí mismos.
 
+[.signed-section-signature]
 William Jessop
 
+[.signed-section-context-close]
 Secretario de la Cámara de los Comunes.
+
+--
 
 Poco después de que se emitió esta orden,
 el sargento de armas envió a su secretario para exigirles a los
@@ -691,7 +749,7 @@ pero todavía iba a pasar un buen rato antes de que fueran soltados;
 pues se usaron varias evasivas para mantenerlos bajo custodia.
 
 Mientras G. Fox estaba prisionero, escribió un pequeño libro al que llamó,
-"`A Noble Salutation to king Charles Stuart,`"^
+"`__A Noble Salutation to king Charles Stuart,__`"^
 footnote:[Un Noble Saludo al Rey Carlos Estuardo.]
 en el que le mostraba cómo habían sido las cosas en Inglaterra, a saber:
 Que el partido de su padre había despreciado a los
@@ -759,7 +817,7 @@ y no mucho después fue publicado en forma impresa por el autor.
 Por esta época,
 uno de los más eminentes monárquicos formuló varias preguntas a los Cuáqueros,
 deseando que las respondieran y que dirigieran sus respuestas con este sobrescrito:
-"`Tradite hanc amico Regis,`" es decir, "`Entregad esto al amigo del rey.`"
+"`__Tradite hanc amico Regis,__`" es decir, "`Entregad esto al amigo del rey.`"
 Porque se había visto claramente,
 que varias de sus predicciones se habían llegado a cumplir,
 de las cuales las de Edward Burrough no eran las menos.
@@ -804,6 +862,9 @@ por parte de los súbditos de su propia nación,
 recaía sobre todos los súbditos en general, o sobre algunos,
 o sobre algunas personas en particular que eran más culpables que otros;
 E+++.+++ Burrough respondió:
+
+[.embedded-content-document.address]
+--
 
 En la medida que sus sufrimientos hayan sido injustos,
 la culpa de estos no recae sobre todos los súbditos en general,
@@ -860,6 +921,8 @@ a esa Semilla de sinceridad que los llevó a oponerse a las crueldades
 y a presionar en busca de la reforma en algunas cosas;
 aunque muchos pronto la perdieron y buscaron complacerse,
 olvidando la causa que decían defender.
+
+--
 
 Esta no es más que una pequeña parte de las preguntas, y de la respuesta a las mismas;
 lo cual, E. Burrough concluyó con una audaz exhortación al rey a temer y honrar al Señor.
@@ -973,6 +1036,10 @@ Y Margaret Fell, al considerar el daño que le habían hecho a ella,
 al sacar a G. Fox de su casa,
 escribió la siguiente información y la envió fuera del condado.
 
+[.embedded-content-document.letter]
+--
+
+[.offset]
 A todos los magistrados,
 con respecto a la injusta captura y encarcelamiento de George Fox en Lancaster:
 
@@ -998,7 +1065,10 @@ Este asunto me concierne, por cuanto él fue aprehendido en mi casa; y si él es
 yo también lo soy.
 Así que deseo que esto se investigue.
 
+[.signed-section-signature]
 Margaret Fell.
+
+--
 
 Después de esto,
 Margaret decidió ir a Londres para hablar con el rey acerca de este asunto;
@@ -1040,8 +1110,13 @@ por lo que el hacer llegar a G. Fox a Londres fue retardado cerca de dos meses.
 De modo que, al continuar prisionero escribió varios documentos,
 y entre el resto estaba este:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Para el Rey
 
+[.salutation]
 Rey Carlos,
 
 Tú no entraste a esta nación por la espada, ni por una victoria de guerra,
@@ -1074,7 +1149,10 @@ y para que no seamos llevados a la impiedad por ellos.
 Por tanto, escucha y considera, y haz el bien en tu tiempo, mientras tienes poder.
 Sé misericordioso y perdona, este es el camino para vencer y obtener el reino de Cristo.
 
+[.signed-section-signature]
 G+++.+++ Fox
+
+--
 
 El alguacil de Lancaster seguía rehusándose a trasladar a G. Fox,
 a menos que se comprometiera y pagara por el sellado de la escritura,
@@ -1176,32 +1254,46 @@ Acto seguido, lo enviaron al rey, quien al leer esto y considerar todo el asunto
 satisfecho de la inocencia de G. Fox,
 le ordenó a su secretario que enviara la siguiente orden al juez Mallet para su liberación:
 
+[.embedded-content-document.legal]
+--
+
 Es la voluntad de su majestad,
 que des la orden de soltar y poner en plena libertad a George Fox,
-preso desde hace tiempo en la cárcel de Lancaster, y mandado aquí por un hábeas corpus.
+preso desde hace tiempo en la cárcel de Lancaster, y mandado aquí por un __hábeas corpus.__
 Esta señal de voluntad de su majestad, será suficiente garantía para ti.
 Fechado en Whitehall, el 24 de Octubre de 1660.
 
+[.signed-section-signature]
 Edward Nicholas
 
+[.signed-section-context-close]
 Para sir Thomas Mallet, caballero, uno de los jueces del tribunal del rey.
+
+--
 
 Cuando esta orden fue entregada al juez Mallet,
 él inmediatamente envió su orden judicial al alguacil del tribunal del rey,
 para que liberara a G. Fox; dicha orden fue la siguiente:
 
+[.embedded-content-document.legal]
+--
+
 En virtud de la orden judicial que recibí esta mañana del honorable sir Edward Nicholas,
 caballero, uno de los principales secretarios de su majestad,
 de soltar y liberar a George Fox, preso desde hace tiempo en la cárcel de Lancaster,
-y desde ahí traído aquí por un hábeas corpus, y puesto ayer bajo tu custodia;
+y desde ahí traído aquí por un __hábeas corpus,__ y puesto ayer bajo tu custodia;
 yo por la presente, te pido que tú, como corresponde,
 sueltes y pongas en liberta al mencionado prisionero, George Fox: para lo cual,
 esta será tu orden y descargo.
 Firmado por mí el 25 de Octubre, del año de nuestro Señor Dios, 1660.
 
+[.signed-section-signature]
 Thomas Mallet.
 
+[.signed-section-context-close]
 A sir John Lenthal, caballero, alguacil del tribunal del rey, o para su representante.
+
+--
 
 G+++.+++ Fox, tras haber estado prisionero por más de veinte semanas,
 fue puesto en libertad honorablemente por una orden del rey.
@@ -1225,10 +1317,12 @@ Y cuando no se nos podía acusar de la violación de alguna ley justa,
 entonces promulgaban leyes a propósito para atraparnos;
 y así se prolongaron injustamente nuestros sufrimientos.`"
 
-Rey: Es verdad, los que han gobernado sobre ustedes han sido crueles,
+[.discourse-part]
+__Rey:__ Es verdad, los que han gobernado sobre ustedes han sido crueles,
 y han profesado mucho que no han hecho.
 
-R+++.+++ Hubberthorn: Y de igual manera, los mismos sufrimientos abundan ahora,
+[.discourse-part]
+__R+++.+++ Hubberthorn:__ Y de igual manera, los mismos sufrimientos abundan ahora,
 con mayor crueldad y en muchas partes de esta nación. Como por ejemplo, en Thetford,
 Norfolk, donde Henry Fell, mientras estaba ministrando al pueblo,
 fue sacado de la reunión y azotado, y enviado fuera del pueblo,
@@ -1242,67 +1336,87 @@ Y es bien sabido que no hemos jurado por ninguno, ni contra ninguno,
 sino que hemos mantenido la verdad; y nuestro sí ha sido sí, y nuestro no ha sido no,
 en todas las cosas, lo cual es más que el juramento de los que están fuera de la verdad.
 
-Rey: Pero, ¿por qué no pueden jurar ustedes?
+[.discourse-part]
+__Rey:__ Pero, ¿por qué no pueden jurar ustedes?
 Porque un juramento es algo común entre los hombres para cualquier compromiso.
 
-R+++.+++ Hubberthorn: Sí, es manifiesto y lo hemos visto por experiencia;
+[.discourse-part]
+__R+++.+++ Hubberthorn:__ Sí, es manifiesto y lo hemos visto por experiencia;
 y es tan común entre los hombres jurar y comprometerse a favor o en contra de cosas,
 que no se les presta la debida atención, ni se teme romper el juramento.
 Por tanto, lo que nosotros hablamos en la verdad de nuestros corazones,
 es más de lo que ellos juran.
 
-Rey: Pero, ¿no pueden prometer delante del Señor la esencia del juramento?
+[.discourse-part]
+__Rey:__ Pero, ¿no pueden prometer delante del Señor la esencia del juramento?
 
-R+++.+++ Hubberthorn: Sí, lo que afirmamos, lo podemos prometer delante del Señor,
+[.discourse-part]
+__R+++.+++ Hubberthorn:__ Sí, lo que afirmamos, lo podemos prometer delante del Señor,
 y ponerlo a Él como nuestro Testigo en ello; pero nuestra promesa no ha sido aceptada,
 sino que se ha insistido en la ceremonia de juramento,
 sin el cual todas las otras cosas han sido consideradas sin efecto.
 
-Rey: Pero, ¿cómo podemos saber nosotros por las palabras de ustedes,
+[.discourse-part]
+__Rey:__ Pero, ¿cómo podemos saber nosotros por las palabras de ustedes,
 que cumplirán lo que dicen?
 
-R+++.+++ Hubberthorn: Probándonos; porque no se sabe si los que juran son leales,
+[.discourse-part]
+__R+++.+++ Hubberthorn:__ Probándonos; porque no se sabe si los que juran son leales,
 excepto probándolos.
 Y así nosotros,
 porque aquellos que nos han probado han encontrado que somos más fieles en nuestra promesas,
 que otros en sus juramentos; y a los que todavía nos probarán, les pareceremos igual.
 
-Rey: Te ruego que me digas, ¿cuál es el principio de ustedes?
+[.discourse-part]
+__Rey:__ Te ruego que me digas, ¿cuál es el principio de ustedes?
 
-R+++.+++ Hubberthorn: Nuestro principio es:
+[.discourse-part]
+__R+++.+++ Hubberthorn:__ Nuestro principio es:
 "`Jesucristo es la verdadera luz que alumbra a todos los hombres que vienen al mundo,
 para que todos los hombres a través de Él,
 puedan creer,`" y que todos tienen que obedecer y seguir esta luz,
 en la medida que la hayan recibido, para que puedan ser conducidos a Dios,
 a la justicia y al conocimiento de la verdad, y ser salvados.
 
-Rey: Todos los Cristianos confiesan esto como verdad, y el que lo niega no es Cristiano.
+[.discourse-part]
+__Rey:__ Todos los Cristianos confiesan esto como verdad, y el que lo niega no es Cristiano.
 
-R+++.+++ Hubberthorn: Pero muchos lo han negado, tanto en palabras como en escritos,
+[.discourse-part]
+__R+++.+++ Hubberthorn:__ Pero muchos lo han negado, tanto en palabras como en escritos,
 y se han opuesto a nosotros en esto;
 y se han publicado más de cien libros en oposición a este principio.
+
+[.small-break]
+'''
 
 Entonces, algunos de los señores que estaban junto al rey dijeron,
 que nadie negaría que todos son alumbrados.
 Y uno de los señores preguntó, que desde cuando éramos llamados Cuáqueros,
 y si nosotros aprobábamos ese nombre.
 
-R+++.+++ Hubberthorn: Este nombre nos fue dado en desprecio y escarnio, hace doce años;
+[.discourse-part]
+__R+++.+++ Hubberthorn:__ Este nombre nos fue dado en desprecio y escarnio, hace doce años;
 pero algunos ya vivían en esta verdad antes de que se nos diera ese nombre.
 
-Rey: ¿Cuánto tiempo ha pasado desde que tú aceptaste este juicio y camino?
+[.discourse-part]
+__Rey:__ ¿Cuánto tiempo ha pasado desde que tú aceptaste este juicio y camino?
 
-R+++.+++ Hubberthorn: Han pasado cerca de doce años desde que acepté esta verdad,
+[.discourse-part]
+__R+++.+++ Hubberthorn:__ Han pasado cerca de doce años desde que acepté esta verdad,
 según la manifestación de la misma.
 
-Rey: ¿Reconoces el sacramento?
+[.discourse-part]
+__Rey:__ ¿Reconoces el sacramento?
 
-R+++.+++ Hubberthorn: En cuanto a la palabra '`sacramento,`' no la leo en la Escritura;
+[.discourse-part]
+__R+++.+++ Hubberthorn:__ En cuanto a la palabra '`sacramento,`' no la leo en la Escritura;
 pero reconozco el cuerpo y la sangre de Cristo, y que sin sangre no hay remisión.
 
-Rey: Bien, eso es; pero, ¿no crees que se les ordena a todos recibirlo?
+[.discourse-part]
+__Rey:__ Bien, eso es; pero, ¿no crees que se les ordena a todos recibirlo?
 
-R+++.+++ Hubberthorn: Creemos, según está escrito en la Escritura,
+[.discourse-part]
+__R+++.+++ Hubberthorn:__ Creemos, según está escrito en la Escritura,
 que Cristo en Su última cena tomo pan y lo partió, y lo dio a Sus discípulos,
 y también tomó la copa y la bendijo, y les dijo:
 "`Todas las veces que hagan esto (es decir, todas las veces que partieran el pan),
@@ -1314,45 +1428,56 @@ después de lo cual dijeron: "`Porque siendo muchos,
 somos un solo pan...porque todos participamos de aquel mismo pan.`"^
 footnote:[1 Corintios 10:17; RV1602P]
 
-Amigo del rey: Entonces uno de los amigos del rey dijo: "`Es verdad,
+[.discourse-part]
+__Amigo del rey:__ Entonces uno de los amigos del rey dijo: "`Es verdad,
 porque así como muchos granos hacen un solo pan, así ellos, siendo muchos miembros,
 eran un solo cuerpo.`"
 Y otro de ellos dijo: "`Si ellos son el pan, entonces deben ser partidos.`"
 
-R+++.+++ Hubberthorn: Hay una diferencia entre ese pan que Él partió en Su última cena,
+[.discourse-part]
+__R+++.+++ Hubberthorn:__ Hay una diferencia entre ese pan que Él partió en Su última cena,
 con la que debían anunciar, como señal, Su muerte hasta que Él viniera,
 y este del que se dice, que ellos siendo muchos, eran un solo pan; porque aquí,
 ellos habían llegado más a la sustancia y a hablar más espiritualmente,
 según la habían llegado a conocer en el Espíritu.
 
+[.offset]
 Entonces los amigos del rey dijeron: "`Es cierto, él no ha dicho más que la verdad.`"
 
-Rey: ¿Cómo sabes que eres inspirado por el Señor?
+[.discourse-part]
+__Rey:__ ¿Cómo sabes que eres inspirado por el Señor?
 
-R+++.+++ Hubberthorn: Según leemos en las Escrituras,
+[.discourse-part]
+__R+++.+++ Hubberthorn:__ Según leemos en las Escrituras,
 '`la inspiración del Omnipotente da entendimiento,`' por Su inspiración
 nos es dado un entendimiento de las cosas de Dios.
 
+[.offset]
 Entonces, uno de los señores dijo:
 "`¿Cómo sabes que ustedes son conducidos por el verdadero Espíritu?`"
 
-R+++.+++ Hubberthorn: Lo sabemos, porque el Espíritu de Verdad reprende al mundo de pecado,
+[.discourse-part]
+__R+++.+++ Hubberthorn:__ Lo sabemos, porque el Espíritu de Verdad reprende al mundo de pecado,
 y nosotros fuimos reprendidos de pecado por Él. También,
 porque somos apartados del pecado y llevados a la justicia y obediencia de la verdad,
 por cuyos efectos sabemos que es el verdadero Espíritu;
 porque el espíritu de maldad no lleva a tales cosas.
 
+[.offset]
 Entonces el rey y sus señores dijeron que eso era verdad.
 
-Rey: Bien, ustedes pueden estar seguros de esto,
+[.discourse-part]
+__Rey:__ Bien, ustedes pueden estar seguros de esto,
 que ninguno sufrirá por sus opiniones o religión, mientras vivan pacíficamente;
 tienen la palabra del rey en esto.
 Y también he hecho una declaración con el mismo propósito,
 que nadie los agravie o abuse de ustedes.
 
-Rey: ¿Cómo reconocen ustedes a los magistrados, o a la magistratura?
+[.discourse-part]
+__Rey:__ ¿Cómo reconocen ustedes a los magistrados, o a la magistratura?
 
-R+++.+++ Hubberthorn: Así reconocemos a los magistrados: Cualquiera que sea puesto por Dios,
+[.discourse-part]
+__R+++.+++ Hubberthorn:__ Así reconocemos a los magistrados: Cualquiera que sea puesto por Dios,
 ya sea el rey como supremo, o cualquiera otro que haya sido puesto en autoridad por Él,
 que son para el castigo de los malhechores y alabanza de los que hacen el bien,
 a esos nos someteremos, y ayudaremos en las cosas justas y sociales,
@@ -1361,27 +1486,34 @@ Y si cualquier magistrado hace lo que es injusto, declararemos contra eso,
 pero nos someteremos a él en paciente sufrimiento,
 y no nos rebelaremos contra ninguno mediante insurrecciones, complots y maquinaciones.
 
-Rey: Es suficiente.
+[.discourse-part]
+__Rey:__ Es suficiente.
 
+[.offset]
 Luego uno de los señores preguntó: "`¿Por qué se reúnen,
 siendo que cada uno de ustedes tiene la iglesia en su interior?`"
 
-R+++.+++ Hubberthorn: Según lo escrito en las Escrituras, la iglesia está en Dios;
+[.discourse-part]
+__R+++.+++ Hubberthorn:__ Según lo escrito en las Escrituras, la iglesia está en Dios;
 1 Tesalonicenses 1:1. Y los que temían al Señor,
 se reunían a menudo en el temor del Señor; y para nosotros es provechoso,
 somos edificados y fortalecidos en la vida de la Verdad.
 
-Rey: ¿Cómo llegaron a creer por primera vez que las Escrituras eran la verdad?
+[.discourse-part]
+__Rey:__ ¿Cómo llegaron a creer por primera vez que las Escrituras eran la verdad?
 
-R+++.+++ Hubberthorn:
+[.discourse-part]
+__R+++.+++ Hubberthorn:__
 Yo he creído desde niño que las Escrituras son la declaración de la verdad,
 cuando sólo tenía un conocimiento literal,
 una educación natural y tradición. Pero ahora sé que las Escrituras son verdaderas,
 por la manifestación y operación del Espíritu de Dios que las cumple en mí.
 
-Rey: ¿De qué manera se reúnen y cuál es el orden en sus reuniones?
+[.discourse-part]
+__Rey:__ ¿De qué manera se reúnen y cuál es el orden en sus reuniones?
 
-R+++.+++ Hubberthorn:
+[.discourse-part]
+__R+++.+++ Hubberthorn:__
 Nosotros nos reunimos en el mismo orden en el que el pueblo Dios lo hacía,
 esperando en Él. Si alguno tiene una palabra de exhortación de parte del Señor,
 puede decirla,
@@ -1390,28 +1522,40 @@ Conforme al don que cada uno haya recibo,
 así se ministran unos a otros, se edifican unos a otros; por medio de lo cual,
 se ministran unos a otros un crecimiento en el conocimiento de la verdad.
 
-Uno de los señores: Entonces todavía no saben tanto como pueden saber, pero,
+[.discourse-part]
+__Uno de los señores:__ Entonces todavía no saben tanto como pueden saber, pero,
 ¿hay un crecimiento para ser experimentado?
 
-R+++.+++ Hubberthorn: Sí, crecemos diariamente en el conocimiento de la Verdad,
+[.discourse-part]
+__R+++.+++ Hubberthorn:__ Sí, crecemos diariamente en el conocimiento de la Verdad,
 en nuestro ejercicio y obediencia a ella.
 
-Rey: ¿Ha ido alguno de tus amigos a Roma?
+[.discourse-part]
+__Rey:__ ¿Ha ido alguno de tus amigos a Roma?
 
-R+++.+++ Hubberthorn: Sí, hay uno en prisión en Roma.
+[.discourse-part]
+__R+++.+++ Hubberthorn:__ Sí, hay uno en prisión en Roma.
 
-Rey: ¿Por qué lo enviaron ahí?
+[.discourse-part]
+__Rey:__ ¿Por qué lo enviaron ahí?
 
-R+++.+++ Hubberthorn: Nosotros no lo enviamos,
+[.discourse-part]
+__R+++.+++ Hubberthorn:__ Nosotros no lo enviamos,
 pero encontró algo en su espíritu de parte del Señor,
 por lo que fue llamado a ir y declarar contra la superstición e idolatría,
 lo cual es contrario a la voluntad de Dios.
 
-Amigo del rey: Había dos de ellos en Roma, pero uno murió.
+[.discourse-part]
+__Amigo del rey:__ Había dos de ellos en Roma, pero uno murió.
 
-Rey: ¿Ha estado alguno de tus amigos con el gran Turco?
+[.discourse-part]
+__Rey:__ ¿Ha estado alguno de tus amigos con el gran Turco?
 
-R+++.+++ Hubberthorn: Algunos de nuestros amigos han estado en ese país.
+[.discourse-part]
+__R+++.+++ Hubberthorn:__ Algunos de nuestros amigos han estado en ese país.
+
+[.small-break]
+'''
 
 Se hablaron otras cosas con respecto a la libertad de los siervos del Señor,
 que fueron llamados por Él a Su servicio,
@@ -1775,8 +1919,11 @@ Debido a esto, se dispuso una ley,
 por virtud de la cual un juez de un tribunal eclesiástico podía ayudar los laicos.
 En dicha ley se decía,
 
+[.embedded-content-document.legal]
+--
+
 Si el juez de un tribunal eclesiástico presenta un
-reclamo ante dos jueces de paz (quorum unus),
+reclamo ante dos jueces de paz (__quorum unus__),
 por cualquier incumplimiento,
 o cualquier delito cometido por el demandado en cualquier pleito que dependa de diezmos,
 dichos jueces enviarán a prisión al acusado,
@@ -1784,6 +1931,8 @@ y permanecerá ahí hasta que pague una fianza garantizando
 delante de ellos la comparecencia ante el juzgado,
 o de otra manera, conferir la debida obediencia a los procesos, procedimientos,
 decretos y sentencias de dicha corte.
+
+--
 
 Por esta ley, que supuestamente todavía está en vigor,
 muchas personas honestas han sufrido y han sido mantenidas en prisión por largo tiempo;
@@ -1803,6 +1952,9 @@ aunque han sido acosados casi continuamente, con leyes que no se hicieron contra
 Y han sido especialmente molestados con el juramento de supremacía,
 que fue hecho al principio del gobierno de la reina Isabel, que dice así:
 
+[.embedded-content-document.legal]
+--
+
 Yo, +++_______+++, testifico y declaro plenamente en mi consciencia,
 que su alteza el rey es el único y supremo gobernador de este reino,
 y de todos los otros dominios y países de su alteza,
@@ -1819,9 +1971,14 @@ preeminencias y autoridades concedidas o pertenecientes a su alteza el rey,
 sus herederos y sucesores, o unidas y anexadas a la corona imperial de su reino.
 Con la ayuda de Dios y el contenido de este libro.
 
+--
+
 En el primer año de la reina Isabel,
 se hizo una ley para uniformar la oración común y el servicio de la iglesia,
 con la siguiente cláusula:
+
+[.embedded-content-document.legal]
+--
 
 Toda persona acudirá a su iglesia parroquial, o en caso de imposibilidad, a alguna otra,
 todos los domingos y días festivos,
@@ -1834,10 +1991,15 @@ y también de perder doce peniques,
 que serán recaudados por los guardias de la iglesia ahí, para uso de los pobres,
 embargados de los bienes del infractor.
 
+--
+
 Ahora, como la mencionada ley no era estrictamente obedecida, no sólo por los papistas,
 sino también por otros que aspiraban a una reforma mayor,
 y no podían cumplir más con los ritos de la iglesia de Inglaterra,
 en el año 23 de Isabel, se hizo una ley más severa, con la siguiente cláusula:
+
+[.embedded-content-document.legal]
+--
 
 // lint-disable mid-word-non-letter `c2`
 Toda persona que no asista a la iglesia, de acuerdo con el estatuto de 1 Eliz. c2,^
@@ -1850,8 +2012,13 @@ las obligará con dos garantías de 200 libras como mínimo, al buen comportamie
 de las que no se librarán hasta que asistan a la
 iglesia de acuerdo con el mencionado estatuto.
 
+--
+
 Parece que esta ley no se consideró suficientemente severa; por tanto,
 en el año 29 de la mencionada reina, se hizo otra ley con la siguiente cláusula:
+
+[.embedded-content-document.legal]
+--
 
 La reina puede embargar todos los bienes,
 y dos tercios de las tierras y arrendamientos de todo infractor
@@ -1863,6 +2030,8 @@ por el tiempo que se nieguen a asistir a la iglesia
 // lint-disable mid-word-non-letter `c1`
 de acuerdo con el estatuto de 23 Eliz. c1.^
 footnote:[Entiéndase: Año 23 del reinado de Elizabet, cláusula 1.]
+
+--
 
 A raíz de estas leyes muchos fueron perseguidos.
 Pero en el apogeo de estos procedimientos, George Whitehead, Gilbert Latey y otros,
@@ -1876,6 +2045,9 @@ También se hicieron uso de otras leyes antiguas,
 porque en el año 35 del reinado de Isabel,
 cuando los papistas conspiraron algunas veces contra la reina,
 se promulgó una ley que contenía la siguiente cláusula:
+
+[.embedded-content-document.legal]
+--
 
 Si alguna persona mayor de dieciséis años es condenada,
 por haberse ausentado de la iglesia por más de un mes, sin ninguna causa legítima;
@@ -1892,6 +2064,8 @@ regresa sin la licencia de la reina,
 será declarado delincuente y no disfrutará del beneficio del clero.
 Pero si antes de que se le pida salir, se somete,
 no se le impondrán las penas antes mencionadas.
+
+--
 
 Aunque se puede suponer que esta ley se hizo principalmente contra los papistas,
 aun así algunos de los llamados Cuáqueros fueron procesados por esto,
@@ -1937,6 +2111,9 @@ Por lo tanto, para reprimir a estas malvadas personas y descubrirlas mejor,
 en el tercer año del reinado de Jacobo I se promulgó una ley,
 en la que se incluía el siguiente juramento,
 que debían hacer los papista no-conformistas:
+
+[.embedded-content-document.legal]
+--
 
 Yo, +++______+++, verdadera y sinceramente reconozco, profeso,
 testifico y declaro en mi consciencia delante de Dios y del mundo,
@@ -1985,8 +2162,10 @@ Hago este reconocimiento y confesión de corazón, de buena gana y de verdad,
 sobre la verdadera fe de un Cristiano.
 Qué Dios me ayude.
 
-Este juramento, comúnmente llamado juramento de lealtad,
-fue posteriormente llamado la prueba.
+--
+
+Este juramento, comúnmente llamado _juramento de lealtad,_
+fue posteriormente llamado _la prueba._
 Y aunque la introducción de este se hace mención de '`la conspiración de la pólvora,`'
 y se indica que este juramento fue ideado para descubrir papistas,
 aun así,
@@ -1994,8 +2173,8 @@ muchos de los llamados Cuáqueros han sufrido por ello durante muchos años.
 Porque aunque ellos no se negaban a declarar su lealtad al rey,
 era bien conocido que no jurarían nada,
 y se utilizaba este juramento continuamente como una trampa para encarcelarlos.
-Ahora bien, el castigo establecido contra estos no-conformistas era un premunire;^
-footnote:[Premunire era una sentencia legal concebida para privar de derechos
+Ahora bien, el castigo establecido contra estos no-conformistas era un __premunire;__^
+footnote:[__Premunire__ era una sentencia legal concebida para privar de derechos
 a los que se rehusaban a jurar formalmente lealtad al rey de Inglaterra.
 Los que estaban bajo la sentencia premunire eran considerados traidores
 a su país. Perdían todo derecho a la propiedad y a las posesiones,
@@ -2012,6 +2191,9 @@ a sus compañeros en el ministerio del evangelio,
 que no puedo dejar de insertar aquí,
 porque muestra muy palpablemente cuán valiente era él en el servicio de la Verdad;
 dicha epístola es como sigue:
+
+[.embedded-content-document.epistle]
+--
 
 Queridos y amados hermanos en la relación celestial y bendito nacimiento inmortal,
 en el que somos los queridos hijos de nuestro Padre;
@@ -2295,6 +2477,10 @@ el querido hermano y compañero de ustedes,
 haciendo y sufriendo por el nombre del Señor y Su verdad.
 Estoy bien, y en libertad hasta el momento.
 
+[.signed-section-signature]
 E+++.+++ B.
 
+[.signed-section-context-close]
 11 del mes Doce de 1660.
+
+--
