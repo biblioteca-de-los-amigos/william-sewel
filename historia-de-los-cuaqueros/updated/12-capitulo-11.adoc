@@ -33,6 +33,9 @@ de la instigación de otros hombres maliciosos.
 Pero llego ahora, a la justificación o declaración de los sangrientos perseguidores,
 que fue como sigue:
 
+[.embedded-content-document.paper]
+--
+
 Aunque la justicia de nuestros procedimientos contra William Robinson,
 Marmaduke Stevenson y Mary Dyar, respaldada por la autoridad de este tribunal,
 las leyes de este condado y la ley de Dios,
@@ -104,7 +107,10 @@ así como también el perdón de Mary Dyar por una insignificante intercesión,
 demostrarán manifiestamente, y se verá que deseábamos sus vidas ausentes,
 en lugar de sus muertes presentes.
 
-Edward Rawson, Secretario.
+[.signed-section-signature]
+Edward Rawson, __Secretario.__
+
+--
 
 En esta reivindicación,
 en la que los Cuáqueros (que siempre fueron un pueblo inofensivo,
@@ -171,11 +177,16 @@ Somos celosos del gobierno y del orden; no sediciosos para los intereses del Cé
 Por muy suave y plausible que pareciera esto, no pudo resistir la prueba;
 y Edward Burrough, quien respondió de manera impresa, se dirigió al rey así:
 
+[.embedded-content-document.letter]
+--
+
 Oh, rey,
 la razón de presentarte estas consideraciones es muy urgente y de gran necesidad,
 es decir, en nombre de la sangre inocente,
 y espero que mi obra encuentre tal favor en ti,
 como para inducirte a su lectura y seria consideración.
+
+--
 
 E+++.+++ Burrough, examinando entonces todas las pretendidas razones de ellos,
 también le describió al rey cómo algunos de estos demandantes, un tiempo antes de esto,
@@ -253,6 +264,10 @@ que procedieron a pronunciar la sentencia de muerte contra él; hecho lo cual,
 fue llevado de la corte a la prisión de nuevo,
 donde el día antes de su muerte les escribió a sus amigos la siguiente carta:
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 Muy queridos e internamente amados,
 
 Las dulces influencias de la Estrella de la mañana,
@@ -353,12 +368,17 @@ porque si no se posee gracia, no hay seguridad de salvación. Por gracia son sal
 y que la experiencia de esta gracia sea suficiente para ustedes,
 a la cual los encomiendo a todos mis queridos amigos, y en ella permanezco,
 
+[.signed-section-closing]
 El hermano de ustedes,
 
+[.signed-section-signature]
 William Leddra.
 
+[.signed-section-context-close]
 Cárcel de Boston, 13 del mes Primero, 1661.
 +++[+++El día anterior a su sufrimiento]
+
+--
 
 Al día siguiente que se escribió esta carta, se llevó a cabo la ejecución de W. Leddra,
 el 14 del mes Primero.
@@ -415,8 +435,14 @@ Para mayor confirmación de lo que se ha relatado aquí,
 se puede añadir la siguiente carta de uno de los espectadores,
 que por accidente estaba ahí:
 
-Al señor George Lad, capitán del "`América`" de Dartmouth, ahora en Barbados.
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Boston, 26 de Marzo, 1661.
+
+[.salutation]
+Al señor George Lad, capitán del "`América`" de Dartmouth, ahora en Barbados.
 
 El 14 de este mes, un tal William Leddra fue ejecutado.
 La gente del pueblo me dijo que él se pudo haber ido si lo hubiera deseado;
@@ -458,9 +484,13 @@ Cuando estaba en el pueblo, algunos parecían comprender mi aflicción,
 pero les dije que ellos no tenían orden de la palabra de Dios,
 ni precedente de nuestro país, ni poder de su majestad para colgar a este hombre.
 
+[.signed-section-closing]
 Sigo siendo tu amigo,
 
+[.signed-section-signature]
 Thomas Wilkie.
+
+--
 
 Una vez ejecutado William Leddra, se resolvió ponerle fin a Wenlock Christison.
 Por tanto, fue llevado de la prisión al tribunal en Boston,
@@ -678,6 +708,10 @@ había sido desterrado bajo pena de muerte si alguna vez regresaba.
 En consecuencia, el rey le concedió la representación a él,
 con plenos poderes de llevar el escrito, que era como sigue:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Charles R.
 
 Leal y bien amado, te saludamos.
@@ -701,11 +735,19 @@ Para ello, esta carta será para ti suficiente garantía y descargo.
 Dado en nuestro tribunal en Whitehall, el 9 de Septiembre de 1661,
 en el año trece de nuestro reinado.
 
+[.signed-section-closing]
 Por mandato de su majestad,
 
+[.signed-section-signature]
 William Morris.
 
+--
+
+[.offset]
 El encabezado decía:
+
+[.embedded-content-document.letter]
+--
 
 A nuestro fiel y amado John Endicot, Esq,
 y a todos y a cualquier otro gobernador o gobernadores
@@ -714,6 +756,8 @@ y a todas las colonias que pertenecen a ella, que son ahora o serán en el futur
 y a todos y a cada ministro y funcionario de nuestras mencionadas plantaciones y colonias,
 dentro de la tierra de Nueva Inglaterra.
 
+--
+
 Así de favorable se manifestó el rey;
 y en Inglaterra la persecución por religión se detuvo un poco,
 pero esto fue sólo un tipo de respiro.
@@ -721,6 +765,9 @@ G+++.+++ Fox el joven, un hombre de excelentes cualidades y gran audacia,
 previó una tormenta inminente;
 y para que ningún descuido pudiera entrar entre sus amigos,
 en el mes Cuatro les escribió la siguiente exhortación:
+
+[.embedded-content-document.letter]
+--
 
 Lo que mi Padre celestial ha determinado que hagan estos hombres,
 ningún hombre lo puede detener.
@@ -737,7 +784,10 @@ he aquí, el día se apresura y viene velozmente, cuando otra tormenta debe leva
 y será en vano huir a los altos cedros o fuertes robles en busca de refugio,
 porque nada sino el nombre del Señor puede preservar en ese día.
 
-George Fox, el joven.
+[.signed-section-signature]
+George Fox, __el joven.__
+
+--
 
 George Fox el joven, no se equivocó en esta exhortación cuando dijo,
 "`el día se apresura cuando otra tormenta debe levantarse,`" como veremos dentro de poco;
@@ -791,17 +841,26 @@ alabanzas a Dios por esta maravillosa liberación.
 Ahora bien, como varios de sus amigos estaban todavía en prisión en Boston,
 el consejo dio la siguiente orden no mucho después.
 
+[.embedded-content-document.legal]
+--
+
+[.salutation]
 A William Salter, guarda de la prisión en Boston.
 
 La autoridad y Tribunal General le ordenan que rápidamente
 libere a los Cuáqueros que en la actualidad están bajo custodia.
 Mira que no desatiendas esto.
 
+[.signed-section-closing]
 Por orden del tribunal,
 
+[.signed-section-signature]
 Edward Rawson, Secretario:
 
+[.signed-section-context-close]
 Boston, 9 de Diciembre, 1661.
+
+--
 
 Luego consultaron qué hacer para no incurrir en el desagrado del rey,
 y acordaron enviarle un representante.
@@ -838,9 +897,8 @@ pero luego, según sus propias palabras, fue arrojado con infamia en la tumba,
 lo cual puede servir, en efecto,
 como un notable ejemplo de la justicia y equitativos juicios de Dios.
 
-Por este tiempo se publicó un libro en Londres, con el título _Semper Idem,_ es decir,
-// jason: this was italicized in the ODT.  should it be a book-title?
-'`Siempre lo Mismo; un Paralelo de Fanáticos.`'
+Por este tiempo se publicó un libro en Londres, con el título _Semper Idem,_
+es decir, [.book-title]#Siempre lo Mismo; un Paralelo de Fanáticos.#
 El autor ocultó su nombre,
 pero dejó suficientemente claro que era un Católico romano, y tal vez, Jesuita;
 porque no sólo arremetió contra los Cuáqueros y Bautistas,
@@ -866,8 +924,7 @@ y todas las posiciones infundadas de dicho autor fueron
 muy claramente respondidas por el citado E. Burrough.
 
 Y dado que a finales de este año la persecución empezó a aparecer de nuevo a cara descubierta,
-// jason: this was italicized in the ODT.  should it be a book-title?
-él publicó un libro que tituló, Antichrist`'s Government Justly Detected.^
+él publicó un libro que tituló, [.book-title]#Antichrist`'s Government Justly Detected.#^
 footnote:[El Gobierno del Anticristo Puesto de Manifiesto en Justicia]
 Este fue dedicado a todos los gobernantes, etc.,
 en el llamado "`mundo cristiano;`" y en él Burrough manifestó con sólidos argumentos,
@@ -896,6 +953,9 @@ y mostró el engaño que había en él, y quiénes eran los súbditos de su rein
 Un poco antes de este tiempo, George Fox el joven,
 estando prisionero y viendo una intención de promover el papismo,
 le escribió la siguiente carta al rey:
+
+[.embedded-content-document.letter]
+--
 
 El Rey de reyes ha contemplado, sí, el Rey de reyes ha visto todos tus actos,
 incluso en la oscuridad, y ha rastreado tu caminar en lugares oscuros;
@@ -998,9 +1058,13 @@ Aunque sufro externamente por ello,
 aun así tengo un Testigo en tu consciencia al que soy manifestado;
 y la paz con el Señor es mi porción, la cual es mejor que una corona terrenal.
 
-George Fox, el joven.
+[.signed-section-signature]
+George Fox, __el joven.__
 
+[.signed-section-context-close]
 Entregada el 9 del mes Ocho, 1660.
+
+--
 
 Esta carta (una clara evidencia del inocente valor del autor) fue entregada al rey,
 quien la leyó y pareció ser alcanzado por ella, y tocado en su corazón. Pero su hermano,
@@ -1009,8 +1073,8 @@ le aconsejó al rey ser severo contra él. Pero el rey, que era bondadoso, dijo:
 "`Sería mejor para nosotros enmendar nuestras vidas.`"
 
 Mientras George Fox el joven era prisionero en Lambeth-house,
-// jason: another italicized possible book title
-también escribió un pequeño tratado llamado England`'s Sad Estate and Condition Lamented.^
+también escribió un pequeño
+tratado llamado [.book-title]#England`'s Sad Estate and Condition Lamented#.^
 footnote:[Lamentación de la triste situación y condición de Inglaterra.]
 En el que reprobaba las graves abominaciones que se cometían entre los habitantes,
 la opresión ejecutada por medio de la persecución, y la hipocresía de los sacerdotes.
@@ -1036,6 +1100,9 @@ Varias de sus predicciones las hemos visto cumplidas,
 como aparece en el progreso de la historia;
 y de esta última nos referiremos en el momento apropiado.
 Después de escribir este tratado, también entregó el siguiente documento.
+
+[.embedded-content-document.paper]
+--
 
 Ciertamente fuiste Tú, oh, Señor, quien le puso límites al mar,
 para que las inundaciones de este no aneguen a Tus escogidos.
@@ -1063,15 +1130,17 @@ y por eso has permitido que sucedan estas cosas.
 sólo preserva al pueblo que has reunido y reunirás para Ti en el día de la prueba,
 para que ellos canten de Tu poder y magnifiquen Tu nombre en la tierra de los vivos!
 
+--
+
 Este George Fox (el joven) también escribió vario otros documentos y epístolas en prisión,
 para exhortación y consolación de sus amigos; sin embargo, su obra fue acabada pronto,
 porque no mucho después de esto partió de esta vida,
 lo que sucedió este año o el siguiente.
 Él era, como puede verse por sus escritos,
 un hombre de extraordinaria entrega y valentía; y puede verse que rindió su vida,
-en un pequeño libro que escribió estando en prisión en Lamberth-house, al cual llamó:
-// jason: another italicized possible book title
-The Dread of God`'s Power Uttering its Voice through Man, unto the Heads of the Nation.^
+en un pequeño libro que escribió estando en prisión en Lamberth-house,
+al cual llamó: [.book-title]#The Dread of God`'s Power Uttering its Voice through Man,
+unto the Heads of the Nation.#^
 footnote:[El Pavor del Poder de Dios al Emitir Su Voz a Través del Hombre,
 a los Jefes de la Nación.]
 En este exhortó a los gobernantes muy seriamente a hacer justicia,
@@ -1106,8 +1175,7 @@ Pero este valiente ahora estaba más allá del alcance de todas las tentaciones,
 y así lo dejo, para poder pasar a otros asuntos.
 
 En este año Edward Burrough les escribió un documento al rey y a su consejo,
-// jason: another italicized possible book title
-que él llamó: A Just and Righteous Plea,^
+que él llamó: [.book-title]#A Just and Righteous Plea,#^
 footnote:[Una Defensa Justa y Recta.]
 en el que proponía, con detalles,
 las razones por las que los llamados Cuáqueros se negaban a tomar el juramento de lealtad,
@@ -1116,6 +1184,9 @@ sino únicamente por un asunto de consciencia,
 dado que Cristo les había ordenado expresamente a sus seguidores:
 "`No juréis en ninguna manera;`" un mandato que ellos no se atrevían a transgredir.
 Sin embargo, para asegurarle al gobierno la fidelidad de ellos, dijo lo siguiente:
+
+[.embedded-content-document.epistle]
+--
 
 Ahora somos y seguiremos siendo, fieles,
 inocentes y pacíficos en nuestros varios puestos y condiciones,
@@ -1154,6 +1225,8 @@ Esto lo declaramos,
 reconocemos y testificamos en el temor y presencia de Dios
 (a quien nosotros y toda la humanidad debe rendir cuentas),
 sin equívocos secretos, o alguna reserva mental engañosa.
+
+--
 
 Así se declaró ampliamente E. Burrough,
 e hizo un relato circunstancial de la práctica de sus amigos al reunirse,
@@ -1216,8 +1289,7 @@ pensando que no era seguro permanecer en Inglaterra,
 abandonó la ciudad y regresó a Nueva Inglaterra con sus compañeros.
 
 No mucho antes de este tiempo, G. Fox, con la ayuda de John Stubbs y Benjamin Furly,
-// jason: another italicized possible book title
-publicó un libro llamado A Battledoor.^
+publicó un libro llamado [.book-title]#A Battledoor.#^
 footnote:[Un "`battledoor,`" también llamado libro de cuerno,
 era una hoja o página que contenía el alfabeto u otros materiales educativos,
 cubierta con una hoja de cuerno transparente y fijada en un marco con un asa,
@@ -1349,6 +1421,9 @@ en esta carta pueden verse algunas chispas de orgullo espiritual,
 que aunque en ese momento estaba bajo cierta limitación,
 con el paso del tiempo estalló de tal manera que causó su caída. La carta era como sigue:
 
+[.embedded-content-document.letter]
+--
+
 Oh, Israel, el ejército del Dios Altísimo;
 Su majestad me ha cumplido la visión de mi cabeza, tras mostrarse como el Santo y Justo.
 Él me ha liberado últimamente de la prisión de la ciudad de Roma,
@@ -1359,17 +1434,27 @@ Dale gracias a Él por Su poder.
 El Dios de vida los promueva a todos en la virtud de Su misericordia y perdón,
 y los guarde en el poder de Su amor eterno hasta el fin.
 
+[.signed-section-signature]
 John.
 
+[.signed-section-context-close]
 Escrito para todos ustedes fuera de las puertas de Roma, el 2 del mes Cuarto, 1661.
 
+[.signed-section-context-close]
 Envíen esto y lean mi vida en sus reuniones.
+
+--
 
 Él no añadió su apellido, al parecer, en imitación al apóstol Juan.
 También lo omitió en otra carta que escribió desde la prisión en Roma,
 la cual comenzaba así:
 
+[.embedded-content-document.letter]
+--
+
 Yo Juan el prisionero, estando en el sentido del Espíritu de vida con todos ustedes, etc.
+
+--
 
 No puedo decir quiénes era los dos corderos mencionados en esta carta;
 si eran personas que habían estado encarceladas con él en la cárcel
@@ -1383,6 +1468,9 @@ después de esforzarse por obtener su libertad, partieron a Inglaterra antes que
 Después de que Perrot vivió en América, al principio del año 1665,
 John Taylor escribió así desde Jamaica con respecto a él:
 
+[.embedded-content-document.letter]
+--
+
 Uno de los jueces de este lugar me dijo,
 que él nunca había visto a alguien que exigiera tan
 severamente un juramento de las personas,
@@ -1390,6 +1478,8 @@ como lo hacía John Perrot.
 Y otro juez, que también estaba presente,
 dijo que Perrot había renunciado por completo a su fe,
 y que no buscaba más que su beneficio.
+
+--
 
 Tal hombre era John Perrot, aunque algunos sabios lo admiraron por un tiempo;
 pero él se convirtió en un hombre de comportamiento rudo.
@@ -1402,10 +1492,9 @@ fue uno de aquellos de los que el apóstol Juan dijo:
 
 Ahora bien, como la persecución continuaba en Inglaterra, Edward Burrough,
 que continuamente luchaba con su pluma oponiéndose a esta maldad,
-también escribió un librito que llamó,
-// jason: another italicized possible book title
-The Case of Free Liberty of Conscience in the Exercise of Faith and Religion,
-presented unto the King and both Houses of Parliament.^
+también escribió un librito que llamó, [.book-title]#The case of
+Free Liberty of Conscience in the Exercise of Faith and Religion,
+presented unto the King and both Houses of Parliament.#^
 footnote:[La Demanda de Libertad de Consciencia en el Ejercicio de la Fe y de la Religión,
 Presentada al Rey y a Ambas Cámaras del Parlamento.]
 En este tratado él demostraba que privar a las personas honestas y pacíficas
@@ -1468,6 +1557,10 @@ fue muy afligido y maltratado por el guarda de la prisión. Pero que este hombre
 tras ser golpeado por los terrores del Señor, se convirtió en un converso tan notable,
 que en el año 1662, le escribió la siguiente carta a G. Fox:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Querido Amigo,
 
 Teniendo un mensajero tan conveniente,
@@ -1491,11 +1584,16 @@ No teniendo otra cosa por el momento,
 sino mi cordial amor hacia ti y todos los amigos Cristianos contigo,
 aunque apresuradamente,
 
+[.signed-section-closing]
 Tuyo en Cristo Jesús,
 
+[.signed-section-signature]
 Thomas Sharman.
 
+[.signed-section-context-close]
 Derby, 22 del mes Cuarto, 1662.
+
+--
 
 En el pasado hice mención del encarcelamiento de Catherine
 Evans y Sarah Cheevers por la Inquisición en Malta.
@@ -2743,111 +2841,75 @@ y Sara comenzó a hablar con gran celo en contra de la superstición
 e idolatría. Y cuando el tiempo de su ayunó acabó,
 Catherine compuso lo siguiente:
 
+[verse]
+____
 Himno a Dios
 
 ¡Toda alabanza a Aquel que no me ha dejado,
-
 ni de Su mente me ha sacado,
-
 ni Su misericordia de mí ha cerrado,
-
 hasta donde he hallado!
 
 ¡Infinita gloria, loor y alabanzas,
-
 sean dadas a Su nombre,
-
 Quien ha dado a conocer en nuestras jornadas,
-
 su fuerza y noble renombre!
 
 ¡Oh, nadie es al Cordero semejante,
-
 del que resplandece brillante Su belleza!
-
 ¡Oh, que Su santo nombre se exalte,
-
 Su majestad y fuerza!
 
 ¡Al único Dios mi alma alaba,
-
 a la fuente pura y clara,
-
 cuya corriente cristalina el exterior alcanza,
-
 y lejos y cerca lava!
 
 ¡Los manantiales de eternidad,
-
 muy puros y dulces son,
-
 brotan sin cesar,
-
 para a mi novio encontrar!
 
 ¡Mi dulce y querido Amado,
-
 Su voz es para mí,
-
 más que toda la gloria del mundo,
-
 o que los tesoros que pueda descubrir!
 
 ¡Él es la gloria de mi vida,
-
 mi gozo y mi placer.
-
 Dentro del seno de Su amor,
-
 me cercó de día y hasta el anochecer!
 
 ¡Él me preserva limpia y pura,
-
 dentro de Su habitación,
-
 donde yo con Él estoy segura,
-
 y salva de toda equivocación!
 
 ¡Qué mi alma te alabe Señor!
-
 ¡Qué te alabe con gozo y paz!
-
 ¡Qué mi espíritu y mi mente día y noche,
-
 te alaben sin cesar!
 
 ¡Oh, magnifiquen Su majestad,
-
 Su fama y renombre,
-
 Cuya morada es alta en Sión,
-
 la gloria de Su corona!
 
 ¡Oh, alabanzas, alabanzas a nuestro Dios!
-
 ¡Canten alabanzas a nuestro Rey!
-
 ¡Oh, enseñen a la gente en el extranjero,
-
 Sus alabanzas cantar!
 
 ¡Una canción brillante de gloria a Sión,
-
 una que muy claro brille.
-
 Oh, manifiéstenla ante la visión,
-
 de las naciones lejos y cerca!
 
 ¡Qué Dios tenga Su debida gloria,
-
 Su honor y Su fama
-
 Qué todos Sus santos canten de nuevo,
-
 las alabanzas a Su nombre!
+____
 
 Después de que Catherine cantó tan gozosamente,
 se fue al pozo del patio y tomó mucha agua a la vista de los prisioneros,
@@ -2900,7 +2962,10 @@ les escribió un documento a los gobernantes de Malta en el que decía,
 que el 25 del mes llamado Agosto,
 había venido sobre ella de parte del Señor escribirles en Su nombre lo siguiente:
 
-"`Mi ira está encendida contra ustedes y Mi juicio está establecido entre ustedes,
+[.embedded-content-document.letter]
+--
+
+Mi ira está encendida contra ustedes y Mi juicio está establecido entre ustedes,
 debido a la dureza de sus corazones e incredulidad.
 Yo, el Señor, que no deseo la muerte de ningún hombre,
 sino que todos regresen a Mí y vivan,
@@ -2925,7 +2990,9 @@ Pero si oyen a Mis siervas que hablan en Mi nombre,
 y se vuelven en sus mentes a la luz en sus consciencias que convence de todo mal,
 y rechaza todos los pensamientos, palabras y actos del mal, entonces,
 Yo derramaré mi Espíritu sobre ustedes,
-y pronto serán curados de sus enfermedades y sanados de su dolor.`"
+y pronto serán curados de sus enfermedades y sanados de su dolor.
+
+--
 
 Esto y más escribió, y se lo entregó al cónsul para que se lo diera al '`gran maestre`'^
 footnote:[El _gran maestre_ es la máxima autoridad de una orden,
@@ -3065,7 +3132,10 @@ Ahora, para darle una idea al lector del ánimo de estas mujeres y de sus sufrim
 insertaré algunas de sus cartas.
 Entre las que les escribieron a sus amigos en Inglaterra estaba la siguiente:
 
-"`Queridos y amados amigos, padres, ancianos y pilares de la casa espiritual de Dios,
+[.embedded-content-document.letter]
+--
+
+Queridos y amados amigos, padres, ancianos y pilares de la casa espiritual de Dios,
 y hermanos y hermanas en el Señor Jesucristo,
 en la medida del amor y vida de nuestro Dios,
 los saludamos a todos y los abrazamos en lo que es eterno.
@@ -3171,12 +3241,17 @@ modas, costumbres y tradiciones de los hombres, y quemará los cardos, los espin
 la cizaña, el rastrojo, los árboles infructuosos y los corruptos.
 Marchitará todos los frutos, las obras y labores de los hombres malvados e impíos,
 con la plaga de Su iracunda indignación,
-y esparcirá a todos Sus enemigos con los torbellinos de Su disgusto.`"
+y esparcirá a todos Sus enemigos con los torbellinos de Su disgusto.
+
+--
 
 Esta carta fue firmada por ambas, aunque es posible que Catherine fuera la escritora.
 Ella también le escribió una carta de exhortación al inquisidor Católico en Malta,
 y otra al fraile Malaquías. Entre las cartas que ella les escribió a su esposo e hijos,
 cuento la siguiente como realmente digna de ser entregada a la posteridad:
+
+[.embedded-content-document.letter]
+--
 
 Para las manos de John Evans, mi querido y precioso esposo, y a mis tiernos hijos,
 quienes son más queridos y preciosos para mí que la niña de mis ojos.
@@ -3298,15 +3373,27 @@ quien es capaz de edificarlos para vida eterna y perpetua salvación. Por mí,
 quien soy tu amada y preciosa esposa y cónyuge, en el matrimonio del Cordero,
 en el lecho sin mancilla,
 
+[.signed-section-signature]
 C+++.+++ E.
+
+[.postscript]
+====
 
 Mi amada compañera de yugo en la obra de nuestro Dios, cariñosamente te saluda.
 Saluda con cariño a nuestros preciosos amigos en todo lugar.
 Creo que volveremos a ver sus rostros con alegría.
 
+====
+
+[.signed-section-context-close]
 Escrito en la Inquisición en Malta, en el mes Once, de 1661.
 
+--
+
 La siguiente carta fue escrita por Sara a su esposo, Henry Cheevers y a sus hijos.
+
+[.embedded-content-document.letter]
+--
 
 Mi querido esposo, mi amor y mi vida están rendidos al servicio del Dios vivo,
 y a la obediencia de Su llamado puro en la medida de la manifestación de Su amor, luz,
@@ -3369,17 +3456,24 @@ por muy secreta que sea;
 porque la luz de Jesucristo la hará manifiesta en cada consciencia.
 En efecto, el Señor arrancará todas las cubiertas que no sean de Su propio Espíritu.
 
-El Dios de paz sea con todos ustedes.
-Amén.
+[.signed-section-closing]
+El Dios de paz sea con todos ustedes. Amén.
 
+[.signed-section-context-close]
 Escrito en la prisión de la Inquisición por Sara Cheevers.
+
+--
 
 Tanto ella como Catherine escribieron varias otras cartas a sus esposos y familiares,
 pero como gran parte de mi relato fue extraído de ellas, las paso por alto.
 Sin embargo, por medio de estas que inserté,
 uno puede ver que ellas no eran mujeres de tonto, sino inteligentes y alegres.
 
+[.offset]
 En una carta de Sara a sus amigos en Irlanda, encontré estas palabras:
+
+[.embedded-content-document.letter]
+--
 
 Mi vida está rendida al servicio del Señor. Ataduras, cadenas, cerrojos, hierros,
 puertas dobles y la muerte misma,
@@ -3388,7 +3482,13 @@ Por tanto, es un sacrificio razonable con tal que la Semilla sea reunida.
 Los lazos y las aflicciones suceden en el evangelio de Cristo.
 Los que quieran vivir piadosamente en Cristo Jesús, deben sufrir persecución.
 
+--
+
+[.offset]
 Catherine escribe en una carta enviada a Daniel Baker,
+
+[.embedded-content-document.letter]
+--
 
 El tiempo es demasiado poco para que yo pueda revelar
 la vigésima parte de los terribles pruebas.
@@ -3409,55 +3509,43 @@ los pilares de nuestro edificio espiritual,
 junto con el resto de nuestros hermanos Cristianos,
 que deseamos sus oraciones porque tenemos necesidad de ellas.
 
+--
+
+[.offset]
 Ellas concluyeron esta carta con el siguiente poema:
 
+[verse]
+____
 ¡Cuán fuerte y poderoso es nuestro Rey,
-
 para todos los que en Él creen!
-
 Él los guarda de los que los quieren lazar,
-
 y a la fuerza los quieren desgarrar.
 
 En nosotros los que sufrimos por la Semilla,
-
 nuestros corazones están heridos y sangran,
-
 al ver la opresión y la crueldad,
-
 de los hombre que niegan Tu Verdad.
 
 En fuertes prisiones y profundas mazmorras
-
 sólo a Dios clamamos y lloramos.
-
 Nuestras penas nadie las puede aprender ni leer,
-
 sino los que nuestro camino han de recorrer.
 
 Pero Aquel cuya belleza brillante resplandece
-
 El que vuelve las tinieblas en luz,
-
 hace que los cedros se inclinen y los robles se doblen,
-
 ante el que es enviado para el mismo fin.
 
 Él es una fuente pura y clara,
-
 Sus cristalinos arroyos corren lejos y cerca,
-
 para limpiar a todo el que a Él se acerca,
-
 Para ser sanado de su pecado.
 
 Todos aquellos que pacientemente permanecen,
-
 y nunca se desvían ni se descarrían,
-
 el Señor los librará de toda
-
 opresión, cautiverio y esclavitud.
+____
 
 Ellas compusieron varios otros, que cayeron en las manos de sus enemigos,
 y le fueron dadas copias de estos al inquisidor.
