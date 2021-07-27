@@ -97,7 +97,7 @@ nos vindicará de las ruidosas acusaciones de severidad,
 y nuestra propia defensa justa y necesaria nos obliga
 (habiendo fallado otros medios) a sostener la espada,
 a la que estas personas se han abalanzado violenta y deliberadamente,
-convirtiéndose así en felons de se +++[+++es decir,
+convirtiéndose así en _felons de se_ +++[+++es decir,
 asesinos de sí mismos]. Que esto pudo haberse evitado,
 y preservado la ley soberana y seguridad del pueblo, nuestros anteriores procedimientos,
 así como también el perdón de Mary Dyar por una insignificante intercesión,
@@ -838,8 +838,10 @@ pero luego, según sus propias palabras, fue arrojado con infamia en la tumba,
 lo cual puede servir, en efecto,
 como un notable ejemplo de la justicia y equitativos juicios de Dios.
 
-Por este tiempo se publicó un libro en Londres, con el título Semper Idem, es decir,
-'`Siempre lo Mismo; un Paralelo de Fanáticos.`' El autor ocultó su nombre,
+Por este tiempo se publicó un libro en Londres, con el título _Semper Idem,_ es decir,
+// jason: this was italicized in the ODT.  should it be a book-title?
+'`Siempre lo Mismo; un Paralelo de Fanáticos.`'
+El autor ocultó su nombre,
 pero dejó suficientemente claro que era un Católico romano, y tal vez, Jesuita;
 porque no sólo arremetió contra los Cuáqueros y Bautistas,
 sino también contra los Presbiterianos, e incluso, los Episcopales, y consecuentemente,
@@ -864,6 +866,7 @@ y todas las posiciones infundadas de dicho autor fueron
 muy claramente respondidas por el citado E. Burrough.
 
 Y dado que a finales de este año la persecución empezó a aparecer de nuevo a cara descubierta,
+// jason: this was italicized in the ODT.  should it be a book-title?
 él publicó un libro que tituló, Antichrist`'s Government Justly Detected.^
 footnote:[El Gobierno del Anticristo Puesto de Manifiesto en Justicia]
 Este fue dedicado a todos los gobernantes, etc.,
@@ -1006,6 +1009,7 @@ le aconsejó al rey ser severo contra él. Pero el rey, que era bondadoso, dijo:
 "`Sería mejor para nosotros enmendar nuestras vidas.`"
 
 Mientras George Fox el joven era prisionero en Lambeth-house,
+// jason: another italicized possible book title
 también escribió un pequeño tratado llamado England`'s Sad Estate and Condition Lamented.^
 footnote:[Lamentación de la triste situación y condición de Inglaterra.]
 En el que reprobaba las graves abominaciones que se cometían entre los habitantes,
@@ -1066,6 +1070,7 @@ lo que sucedió este año o el siguiente.
 Él era, como puede verse por sus escritos,
 un hombre de extraordinaria entrega y valentía; y puede verse que rindió su vida,
 en un pequeño libro que escribió estando en prisión en Lamberth-house, al cual llamó:
+// jason: another italicized possible book title
 The Dread of God`'s Power Uttering its Voice through Man, unto the Heads of the Nation.^
 footnote:[El Pavor del Poder de Dios al Emitir Su Voz a Través del Hombre,
 a los Jefes de la Nación.]
@@ -1101,6 +1106,7 @@ Pero este valiente ahora estaba más allá del alcance de todas las tentaciones,
 y así lo dejo, para poder pasar a otros asuntos.
 
 En este año Edward Burrough les escribió un documento al rey y a su consejo,
+// jason: another italicized possible book title
 que él llamó: A Just and Righteous Plea,^
 footnote:[Una Defensa Justa y Recta.]
 en el que proponía, con detalles,
@@ -1210,6 +1216,7 @@ pensando que no era seguro permanecer en Inglaterra,
 abandonó la ciudad y regresó a Nueva Inglaterra con sus compañeros.
 
 No mucho antes de este tiempo, G. Fox, con la ayuda de John Stubbs y Benjamin Furly,
+// jason: another italicized possible book title
 publicó un libro llamado A Battledoor.^
 footnote:[Un "`battledoor,`" también llamado libro de cuerno,
 era una hoja o página que contenía el alfabeto u otros materiales educativos,
@@ -1396,6 +1403,7 @@ fue uno de aquellos de los que el apóstol Juan dijo:
 Ahora bien, como la persecución continuaba en Inglaterra, Edward Burrough,
 que continuamente luchaba con su pluma oponiéndose a esta maldad,
 también escribió un librito que llamó,
+// jason: another italicized possible book title
 The Case of Free Liberty of Conscience in the Exercise of Faith and Religion,
 presented unto the King and both Houses of Parliament.^
 footnote:[La Demanda de Libertad de Consciencia en el Ejercicio de la Fe y de la Religión,
@@ -2513,7 +2521,7 @@ A lo que ellas respondieron: "`¿Qué, y profesar un Cristo del que nos avergonz
 
 Algunos de los que iban a verlas las compadecían por no convertirse en católicas,
 pero otros les mostraban su odio gritando que ellas debían ser quemadas, y vociferando:
-"`Fuoco, fuoco.`"
+__"`Fuoco, fuoco.`"__
 (Fuego, fuego) Mientras permanecían separadas una de la otra,
 Catherine a menudo se preocupaba mucho por Sara y temía que la atraparan,
 pues uno de los frailes solía acosarla con palabras aduladoras.
@@ -2920,7 +2928,7 @@ Yo derramaré mi Espíritu sobre ustedes,
 y pronto serán curados de sus enfermedades y sanados de su dolor.`"
 
 Esto y más escribió, y se lo entregó al cónsul para que se lo diera al '`gran maestre`'^
-footnote:[El gran maestre es la máxima autoridad de una orden,
+footnote:[El _gran maestre_ es la máxima autoridad de una orden,
 con un poder casi absoluto, tanto en lo militar, como en lo político o lo religioso.]
 y al resto de los gobernadores, pero el cónsul al no estar complacido con esto,
 la amenazó con encarcelarla de nuevo.
