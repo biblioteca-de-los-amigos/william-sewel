@@ -1,5 +1,6 @@
 == Capítulo 13
 
+[.section-date]
 1662
 
 Habiendo dejado América y regresado a Inglaterra,
@@ -186,6 +187,10 @@ en el que se exponían a la vista pública muchos de
 sus viles abusos junto con su conducta fiera;
 este libro fue dedicado a él con esta pequeña epístola:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Richard Brown,
 
 Si tú no estás sellado ya para la destrucción,
@@ -195,6 +200,8 @@ Deseamos tu arrepentimiento antes que tu destrucción. Qué el Señor Dios
 del cielo y de la tierra dicte un juicio definitivo entre tú y nosotros,
 para que toda la tierra sepa si tu causa contra nosotros, o nuestra causa,
 es justa delante de Él, quien es el único Juez justo.
+
+--
 
 El mencionado libro, aunque publicado sin el nombre del autor,
 no sólo fue enviado a Brown,
@@ -602,8 +609,12 @@ Estos abominables logros fueron publicados en forma impresa,
 más extensamente de lo que yo los he mencionado, y el libro, como ya se ha dicho,
 fue dedicado a él.
 
+[.offset]
 En ese ardiente tiempo de persecución,
 Francis Howgill escribió y publicó el siguiente documento para el aliento de sus amigos.
+
+[.embedded-content-document.epistle]
+--
 
 Durante meses, semanas y días las reflexiones de mi corazón,
 con respecto al pueblo que el Señor ha levantado para que
@@ -661,7 +672,10 @@ mi corazón fue llenado de gozo,
 como cuando el arca de Dios fue llevada de la casa de Obed-Edom,
 cuando David danzaba delante de ella e Israel gritaba de júbilo.
 
+[.signed-section-signature]
 Francis Howgill.
+
+--
 
 Ciertamente, este escrito de F. Howgill,
 quien era un hombre piadoso de grandes habilidades,
@@ -694,6 +708,9 @@ y después de haber estado en White-lion presas por casi nueve semanas,
 fueron llevadas al tribunal, donde Richard Onslow se sentaba como juez de las sesiones.
 La acusación formulada contra ellos era como sigue:
 
+[.embedded-content-document.legal]
+--
+
 Los jurados de nuestro señor el rey, presentan bajo juramento, que Arthur Fisher,
 de la parroquia de St. Olave, en el municipio de Southwark, en el condado de Surry,
 propietario rural; Nathaniel Robinson, del mismo lugar, propietario rural; John Chandler,
@@ -710,6 +727,8 @@ conventículo y reunión ilegal, bajo el pretexto del ejercicio de la religión,
 contra las leyes y estatutos de este reino de Inglaterra,
 en desacato de nuestro señor el rey, sus leyes,
 y como un ejemplo malo y peligroso para todos los demás.
+
+--
 
 He insertado esta acusación para que el lector pueda ver, no sólo la manera de proceder,
 sino también los colores negros y atroces con que se describían
@@ -814,36 +833,47 @@ Cuando John Crook fue llevado a la corte en Old Bailey, con dos de sus amigos,
 Isaac Gray, doctor en medicina, y John Bolton, orfebre;
 uno de los prisioneros fue llamado al estrado y el presidente del tribunal le preguntó:
 
-Presidente del tribunal: ¿En qué reunión estabas tú?
+[.discourse-part]
+__Presidente del tribunal:__ ¿En qué reunión estabas tú?
 
-Prisionero: Deseo ser escuchado, ¿dónde está mi acusador?
+[.discourse-part]
+__Prisionero:__ Deseo ser escuchado, ¿dónde está mi acusador?
 
-Presidente del tribunal: Tu lengua no es tuya,
+[.discourse-part]
+__Presidente del tribunal:__ Tu lengua no es tuya,
 y tú no tienes libertad de hablar lo que quieras.
 
-Prisionero: Hablo en presencia y temor del Dios eterno.
+[.discourse-part]
+__Prisionero:__ Hablo en presencia y temor del Dios eterno.
 En efecto, mi lengua no es mía,
 porque es del Señor y está a disposición de Él según Su voluntad,
 y no para hablar mis propias palabras.
 Por tanto, deseo ser escuchado.
 He estado mucho tiempo en prisión... +++[+++entonces fue interrumpido por el juez.]
 
-Juez: ¡Deja tu palabrería!
+[.discourse-part]
+__Juez:__ ¡Deja tu palabrería!
 
+[.offset]
 +++[+++Luego ordenó que se lo llevaran, lo que hizo el carcelero.
 Esto fue la sustancia de lo que el prisionero mencionado dijo la primera vez.]
 
-Presidente del tribunal: Llamo a John Crook al estrado;
+[.discourse-part]
+__Presidente del tribunal:__ Llamo a John Crook al estrado;
 +++[+++lo que el pregonero hizo en consecuencia,
 pues estaba entre los delincuentes como se dijo antes.]
 
-Presidente del tribunal: ¿Cuándo prestaste el juramento de lealtad?
+[.discourse-part]
+__Presidente del tribunal:__ ¿Cuándo prestaste el juramento de lealtad?
 
-John Crook: Deseo ser escuchado.
+[.discourse-part]
+__John Crook:__ Deseo ser escuchado.
 
-Presidente del tribunal: Responde la pregunta y serás escuchado.
+[.discourse-part]
+__Presidente del tribunal:__ Responde la pregunta y serás escuchado.
 
-John Crook: He estado casi seis semanas en prisión,
+[.discourse-part]
+__John Crook:__ He estado casi seis semanas en prisión,
 ¿y ahora soy llamado a acusarme a mí mismo?
 Porque la respuesta negativa a esa pregunta sería acusarme a mí mismo,
 a lo cual tú no deberías forzarme;
@@ -856,11 +886,13 @@ para ese efecto]. Estoy aquí en este estrado como un delincuente,
 y deseo que mi acusador sea traído para que me acuse por mi delincuencia,
 y luego responderé a mi acusación, si es que soy culpable de alguna.
 
-Presidente del tribunal: Se te pide que prestes el juramento de lealtad,
+[.discourse-part]
+__Presidente del tribunal:__ Se te pide que prestes el juramento de lealtad,
 y cuando lo hayas hecho, entonces serás escuchado sobre la otra acusación;
 porque tenemos poder de presentar el juramento a cualquier hombre.
 
-John Crook: No para mí en esta ocasión, ni en este lugar;
+[.discourse-part]
+__John Crook:__ No para mí en esta ocasión, ni en este lugar;
 porque ya he sido traído aquí como un transgresor,
 y no debería ser hecho un transgresor aquí,
 ni debería ser obligado a acusarme a mí mismo.
@@ -877,6 +909,9 @@ e informarme de los beneficios de esas leyes.
 Y donde yo no tenga conocimiento, deben informarme,
 para no perder por mi propia ignorancia las ventajas
 que dichas leyes de Inglaterra me ofrecen como inglés.
+
+[.small-break]
+'''
 
 +++[+++Lector, aquí te doy un breve relato de cómo fui capturado y encarcelado,
 para que puedas juzgar mejor la justicia que recibí del mencionado tribunal;
@@ -905,14 +940,19 @@ donde permanecimos hasta las sesiones del tribunal en Old Bailey como ya se menc
 De este modo puedes entender el tipo de justicia con el que me encontré,
 por lo que sucedió antes; y ahora seguimos.]
 
-Presidente del tribunal:
+[.small-break]
+'''
+
+[.discourse-part]
+__Presidente del tribunal:__
 Nosotros nos sentamos aquí para hacer justicia y estamos bajo juramento.
 Nosotros te decimos qué es ley, y no tú a nosotros; por tanto, sirrah,^
 footnote:[_Sirrah,_ era una palabra de reproche o desprecio,
 utilizada para dirigirse a personas viles.]
 tú eres demasiado atrevido.
 
-John Crook: '`Sirrah`' no es una palabra apropiada para un juez,
+[.discourse-part]
+__John Crook:__ '`Sirrah`' no es una palabra apropiada para un juez,
 pues no soy un delincuente.
 Ni deberías amenazar al prisionero en el estrado,
 porque estoy aquí siendo procesado por mi vida y libertad,
@@ -923,40 +963,48 @@ si me atrevo a afirmar mi libertad como ciudadano inglés y como Cristiano;
 y si hablo en voz alta es por mi celo por la Verdad y por el nombre del Señor,
 y es mi inocencia lo que me hace ser audaz...
 
-Juez: +++[+++Interrumpiendo a John Crook]
+[.discourse-part]
+__Juez:__ +++[+++Interrumpiendo a John Crook]
 Ese es un celo maligno.
 
-John Crook: No; soy audaz en el nombre del Señor Dios Todopoderoso, el eterno Jehová,
+[.discourse-part]
+__John Crook:__ No; soy audaz en el nombre del Señor Dios Todopoderoso, el eterno Jehová,
 a afirmar la Verdad y a ser testigo de ella.
 Que mi acusador se presente, estoy listo a responder a cualquier tribunal de justicia...
 
+[.offset]
 +++[+++Entonces el juez me interrumpió,
 diciendo "`sirrah,`" junto con algunas otras palabras que no recuerdo.
 Pero respondí:]
 
-John Crook: No debes amenazarme, ni esos insultos son apropiados en la boca de un juez;
+[.discourse-part]
+__John Crook:__ No debes amenazarme, ni esos insultos son apropiados en la boca de un juez;
 porque la seguridad del prisionero depende de la imparcialidad del tribunal.
 Y ustedes no deberían comportarse como un partido unido,
 todos buscando una ventaja contra el prisionero,
 y no prestándole atención a cualquier cosa que ayude a su exoneración o ventaja.
 +++[+++El juez me interrumpió de nuevo, diciendo:]
 
-Juez: Sirrah, debes prestar el juramento, y aquí te lo presentamos,
+[.discourse-part]
+__Juez:__ Sirrah, debes prestar el juramento, y aquí te lo presentamos,
 +++[+++ordenando a uno que lo leyera].
 
-John Crook: Déjenme ver a mi acusador,
+[.discourse-part]
+__John Crook:__ Déjenme ver a mi acusador,
 para que yo pueda saber por qué razón he estado seis semanas encarcelado,
 y no me pongan a acusarme a mí mismo haciéndome preguntas;
 sino que se presente mi acusador, o de lo contrario, libérenme por proclamación,
 como deberían hacerlo.
 +++[+++Aquí fui interrumpido otra vez.]
 
-Juez Twisden: No tiene importancia la razón por la que estás aquí;
+[.discourse-part]
+__Juez Twisden:__ No tiene importancia la razón por la que estás aquí;
 da lo mismo que seas un vagabundo o cualquier otra persona presente aquí hoy,
 porque podemos presentarle el juramento a cualquier hombre.
 +++[+++Y otro juez habló algo parecido.]
 
-John Crook: He sido traído al tribunal como un prisionero restringido de mi libertad,
+[.discourse-part]
+__John Crook:__ He sido traído al tribunal como un prisionero restringido de mi libertad,
 y pregunto si ustedes en justicia,
 deberían presentarme el juramento en esta ocasión. Se supone que soy un transgresor,
 o si no, ¿por qué he estado ya en prisión seis semanas?
@@ -966,64 +1014,80 @@ porque amo la justicia con toda mi alma, y es bien conocido por mis vecinos dond
 que soy una persona que mantiene la consciencia libre
 de ofensa hacia Dios y hacia los hombres.
 
-Juez: Sirrah, deja tu palabrería.
+[.discourse-part]
+__Juez:__ Sirrah, deja tu palabrería.
 
-John Crook: ¿Es palabrería declarar las palabras de las Escrituras?
+[.discourse-part]
+__John Crook:__ ¿Es palabrería declarar las palabras de las Escrituras?
 
-Juez: Es palabrería en tu boca, aunque sean las palabras de Pablo.
+[.discourse-part]
+__Juez:__ Es palabrería en tu boca, aunque sean las palabras de Pablo.
 
-John Crook: Yo declaro las palabras de las Escrituras, y no es palabrería,
+[.discourse-part]
+__John Crook:__ Yo declaro las palabras de las Escrituras, y no es palabrería,
 aunque las diga yo; sino que son palabras de verdad y sobriedad en mi boca,
 experimentadas por mí y cumplidas en mí.
 
-Juez: Te preguntamos de nuevo, ¿tomarás el juramento de lealtad?
+[.discourse-part]
+__Juez:__ Te preguntamos de nuevo, ¿tomarás el juramento de lealtad?
 Es una pregunta corta, puedes responderla si quieres.
 
-John Crook: ¿Según qué ley tienen poder para presentarme el juramento?
+[.discourse-part]
+__John Crook:__ ¿Según qué ley tienen poder para presentarme el juramento?
 +++[+++Entonces, después de consultar entre ellos susurrando, pidieron el libro de leyes,
 y pasando las páginas, respondieron:]
 
-Juez: Por la tercera del rey Jacobo.
+[.discourse-part]
+__Juez:__ Por la tercera del rey Jacobo.
 
-John Crook: Deseo que sea leído el estatuto;
+[.discourse-part]
+__John Crook:__ Deseo que sea leído el estatuto;
 porque yo lo he consultado y no entiendo que ese
 estatuto les dé el poder de presentarme el juramento,
 estando aquí delante de ustedes, en este lugar y en esta ocasión, ya como un delincuente.
 Por tanto, deseo la opinión del tribunal en este caso y que ese estatuto sea leído.
 
-Juez: +++[+++Entonces tomaron el libro de leyes y consultaron juntos sobre esto, y uno dijo:]
+[.discourse-part]
+__Juez:__ +++[+++Entonces tomaron el libro de leyes y consultaron juntos sobre esto, y uno dijo:]
 Nosotros somos los jueces de esta tierra, y entendemos mejor nuestro poder que tú,
 y juzgamos que podemos hacerlo legalmente.
 
-John Crook: ¿Es esta la opinión del tribunal?
+[.discourse-part]
+__John Crook:__ ¿Es esta la opinión del tribunal?
 
-Juez: Sí.
+[.discourse-part]
+__Juez:__ Sí.
 
-John Crook:
+[.discourse-part]
+__John Crook:__
 Deseo que se lea el estatuto que los faculta para presentarme
 el juramento en esta ocasión y en este lugar:
 porque _Vox audita perit, sed litera scripta Manet_
 +++[+++las palabras que sólo se hablan se pierden, pero las escritas permanecen],
 por tanto, déjenme oírlo leído.
 
-Juez: Escúchame.
+[.discourse-part]
+__Juez:__ Escúchame.
 
-John Crook: Estoy tan dispuesto a oír como a hablar.
+[.discourse-part]
+__John Crook:__ Estoy tan dispuesto a oír como a hablar.
 
-Juez: Entonces, escúchame.
+[.discourse-part]
+__Juez:__ Entonces, escúchame.
 Estás aquí obligado a prestar el juramento que te presenta el tribunal,
 y te voy a informar cuál será el castigo en caso de que te niegues.
 La primera negativa será registrada,
 y luego se te presentará de nuevo al final de las sesiones.
 A la segunda negativa te expones a la sentencia premunire,^
-footnote:[_Premunire_ era una sentencia legal concebida para privar de derechos
+footnote:[__Premunire__ era una sentencia legal concebida para privar de derechos
 a los que se rehusaban a jurar formalmente lealtad al rey de Inglaterra.
 Los que estaban bajo la sentencia premunire eran considerados traidores
 a su país. Perdían todo derecho a la propiedad y a las posesiones,
 se les quitaba la protección del rey, y a menudo se les encarcelaba de por vida.]
 la cual implica la pérdida de todo tu patrimonio (si tienes alguno) y el encarcelamiento.
 
-John Crook: Es la justicia lo que defiendo;
+[.discourse-part]
+__John Crook:__ Es la justicia lo que defiendo;
 déjenme obtener justicia trayendo a mi acusador cara a cara,
 como deberían hacerlo por ley,
 ya que estoy aquí en el tribunal de ustedes como un delincuente.
@@ -1031,11 +1095,13 @@ Y cuando esto sea hecho, responderé a lo que se me impute,
 así como también a la cuestión del juramento.
 Hasta entonces, no daré otra respuesta que la que ya he dado, al menos por el momento.
 
+[.offset]
 +++[+++Entonces se oyó un grito en el tribunal que decía:
 "`¡Sáquenlo!,`" lo que provocó una gran interrupción,
 y John Crook dijo algo parecido a lo siguiente:]
 
-John Crook: Teman al Señor Dios,
+[.discourse-part]
+__John Crook:__ Teman al Señor Dios,
 para que lleguen al conocimiento de Su voluntad y hagan justicia.
 Y tengan cuidado y no opriman al inocente,
 porque el Señor Dios del cielo y de la tierra ciertamente defenderá su causa.
@@ -1043,16 +1109,19 @@ Por mi parte, deseo que no se dañe uno solo de los cabellos de sus cabezas;
 sino que la sabiduría de Dios los guíe. +++[+++Estas palabras
 las dijo en el tribunal y mientras era sacado.]
 
+[.offset]
 +++[+++El sexto día de la semana, la mañana siguiente,
 estando reunido el tribunal fue llamado al estrado John Crook.]
 
-Presidente del tribunal: Amigo Crook,
+[.discourse-part]
+__Presidente del tribunal:__ Amigo Crook,
 te hemos dado tiempo para que consideres lo que te dijo el tribunal ayer,
 esperando que lo hayas pensado mejor para este momento.
 Por tanto, sin más palabras, ¿prestarás el juramento?
 +++[+++Él entonces llamó al secretario y le ordenó leerlo.]
 
-John Crook: No lo hice, ni tampoco niego mi lealtad al rey,
+[.discourse-part]
+__John Crook:__ No lo hice, ni tampoco niego mi lealtad al rey,
 pero deseo saber la razón de mi tan prolongado encarcelamiento.
 Porque, como dije ayer, estoy aquí ante el tribunal de ustedes como un delincuente,
 y he sido traído a la fuerza, en contra de la ley.
@@ -1070,20 +1139,24 @@ En consecuencia, no se puede suponer, en justa razón,
 que ustedes tienen poder en este momento y en este lugar,
 para presentarme legalmente el juramento.
 
-Juez: Léanle el juramento.
+[.discourse-part]
+__Juez:__ Léanle el juramento.
 +++[+++Y el secretario empezó a leer.]
 
-John Crook: Deseo justicia de acuerdo con las leyes de Inglaterra.
+[.discourse-part]
+__John Crook:__ Deseo justicia de acuerdo con las leyes de Inglaterra.
 Ustedes deberían condenarme primero por la causa de mi largo encarcelamiento.
 Porque deben proceder según las leyes ya promulgadas, y no hacer leyes;
 porque ustedes deben ser ministros de la ley.
 
-Juez: Eres un tipo descarado e insolente.
+[.discourse-part]
+__Juez:__ Eres un tipo descarado e insolente.
 ¿Nos vas a enseñar la ley o nuestros deberes?
 +++[+++Entonces le dijo al secretario:]
 ¡Continúa leyendo! +++[+++Y cuando el secretario terminó de leer, John Crook dijo:]
 
-John Crook: Lee el prefacio de la ley.
+[.discourse-part]
+__John Crook:__ Lee el prefacio de la ley.
 Repito, lee el título y el prefacio de la ley;
 porque los títulos de las leyes son _claves legum,_ como _llaves para abrir la ley;_
 porque por sus títulos se entienden y se conocen las leyes,
@@ -1095,11 +1168,14 @@ delante de quien todos debemos comparecer para darle
 cuenta de todas las obras hechas en el cuerpo;
 porque Él juzgará entre ustedes y yo, si hoy me han hecho o no justicia.
 
+[.offset]
 +++[+++Estas palabras a continuación (o similares) las dije mientras era sacado del tribunal.]
 
-John Crook: Teman al Señor Dios, para que puedan hacer justicia,
+[.discourse-part]
+__John Crook:__ Teman al Señor Dios, para que puedan hacer justicia,
 no sea que perezcan en Su ira.
 
+[.offset]
 +++[+++Porque a veces el tribunal gritaba: "`¡Sáquenlo!,`" y luego decían:
 "`¡Tráiganlo otra vez!`"
 Y así lo hicieron varias veces, como hombres en confusión y desorden.
@@ -1107,10 +1183,12 @@ El mismo día, por la tarde, logrado el silencio,
 John Crook fue llamado al estrado ante los jueces y magistrados mencionados.
 Una vez leída la acusación, el juez dijo:]
 
-Juez: Señor Crook, has oído tu acusación, ¿qué dices?
+[.discourse-part]
+__Juez:__ Señor Crook, has oído tu acusación, ¿qué dices?
 ¿Eres culpable o no culpable?
 
-John Crook: Deseo decir unas pocas palabras en humildad y sobriedad,
+[.discourse-part]
+__John Crook:__ Deseo decir unas pocas palabras en humildad y sobriedad,
 dado que mi patrimonio y libertad están en juego,
 y es probable que sea un precedente para muchos más de mis Amigos.
 Por tanto, espero que el tribunal no me niegue el derecho y beneficio de la ley,
@@ -1120,7 +1198,8 @@ de demandarles y decirles, que deseo conocer a mis acusadores.
 He sido mantenido estas seis semanas en prisión, y todavía no conozco a mis acusadores,
 ni he visto sus rostros.
 
-Juez: Te concederemos el derecho de la ley, como ciudadano inglés que eres.
+[.discourse-part]
+__Juez:__ Te concederemos el derecho de la ley, como ciudadano inglés que eres.
 Dios no permita que se te niegue; pero debes responder primero, culpable o no culpable,
 para que en tu juicio tengas una audiencia y alegato justos.
 Pero si continúas como lo haces (y no respondes culpable o no culpable),
@@ -1131,7 +1210,8 @@ estarán fuera de la protección del rey, y perderán el beneficio de la ley;
 y todo esto por tu negativa a responder culpable o no culpable.
 Si te declaras no culpable, puedes ser escuchado.
 
-John Crook:
+[.discourse-part]
+__John Crook:__
 Estas palabras están registradas en los estatutos 28 Edw. 3l. y 3; y en 42 Edw. 3.:
 "`Ningún hombre debe ser capturado, ni encarcelado, ni obligado a responder,
 sin haber comparecido ante jueces, ni haberse registrado el asunto,
@@ -1146,12 +1226,15 @@ son explicadas por el estatuto 37 Edw. 3. 8. como:
 sentencias contrarias a la Carta Magna,
 serán nulas por 25 Edw. 1. 2.
 
-Juez: Señor Crook, estás confundido y no entiendes la ley.
+[.discourse-part]
+__Juez:__ Señor Crook, estás confundido y no entiendes la ley.
 Aunque adores los estatutos de la ley, aun así no la entiendes.
 
-John Crook: Deseo que me digas la forma correcta de entenderla.
+[.discourse-part]
+__John Crook:__ Deseo que me digas la forma correcta de entenderla.
 
-Juez: Señor Crook, escúcheme.
+[.discourse-part]
+__Juez:__ Señor Crook, escúcheme.
 Debes decir culpable o no culpable.
 Si te declaras no culpable serás oído,
 y luego podrás ver hasta qué punto te favorece la ley.
@@ -1163,7 +1246,8 @@ Tendrás lo que la ley te concede, si haces lo que la ley demanda de ti;
 o de lo contrario,
 perderás el beneficio de la ley y quedarás fuera de la protección del rey.
 
-John Crook:
+[.discourse-part]
+__John Crook:__
 Observen cómo el juez busca arrastrarme a una trampa--haciendo
 que primero me declare culpable o no culpable,
 y cuando lo haya hecho, declararme proscrito, fuera de la protección del rey; y entonces,
@@ -1175,9 +1259,11 @@ para luego decirme que si he sido agraviado, o falsamente encarcelado,
 podré obtener solución legal después. Esto es para atraparme,
 y es contrario tanto a la ley como a la justicia.
 
-Juez: Declárate culpable o no culpable.
+[.discourse-part]
+__Juez:__ Declárate culpable o no culpable.
 
-John Crook:
+[.discourse-part]
+__John Crook:__
 Con humildad y mansedumbre debo decir que no lo haré.
 No me atrevo a traicionar la honestidad de mi causa,
 y a los honestos de esta nación cuya libertad defiendo,
@@ -1188,29 +1274,35 @@ antes de ser primero absuelto de la causa por la que fui traído prisionero al t
 Por tanto, no veo otro camino que insistir en esto,
 que pueda ver a mis acusadores...+++[+++Interrupción].
 
-Juez: El más notorio ladrón podría decir que no está convencido en su consciencia.
+[.discourse-part]
+__Juez:__ El más notorio ladrón podría decir que no está convencido en su consciencia.
 
-John Crook: Mi caso no es el de ellos.
+[.discourse-part]
+__John Crook:__ Mi caso no es el de ellos.
 Pero aun así, a ellos se les permite ver a sus acusadores;
 ¿y no puedo llamar a los míos? Por tanto, llámenlos, pues deben hacerlo,
 como Cristo le dijo a la mujer: "`Mujer, ¿dónde están tus acusadores?`"
 Así deben decirme ustedes: "`Hombre, ¿dónde estás tus acusadores?`"
 ...+++[+++Interrupción].
 
-Juez: Tu imputación es tu acusador,
+[.discourse-part]
+__Juez:__ Tu imputación es tu acusador,
 y el gran jurado te ha hallado culpable porque no quisiste jurar.
 ¿Qué dices, Señor Crook, eres culpable o no culpable?
 Si no respondes, entonces lo que ya has dicho será tomado como tu respuesta;
 y como te dije antes, perderás el beneficio de la ley.
 Lo que te digo es por tu bien.
 
-John Crook: Lo que es verdaderamente por mi bien, espero tomarlo así.
+[.discourse-part]
+__John Crook:__ Lo que es verdaderamente por mi bien, espero tomarlo así.
 
-Juez: Si no respondes, te expones a la sentencia de premunire;
+[.discourse-part]
+__Juez:__ Si no respondes, te expones a la sentencia de premunire;
 y perderás el beneficio de la ley y la protección del rey,
 a menos que te declares culpable o no culpable.
 
-John Crook: He sido traído por la fuerza y con violencia;
+[.discourse-part]
+__John Crook:__ He sido traído por la fuerza y con violencia;
 no estaría aquí sino por una acción violenta.
 Que ustedes no presten atención a esto es extraño para mí, y no sólo eso,
 sino que me lleven tan rápidamente a un curso de acción en el que no podré,
@@ -1219,11 +1311,13 @@ debido a sus apresurados procedimientos contra mí para sacarme
 de la protección del rey y del beneficio de toda la ley.
 ¿Se ha sabido u oído alguna vez un caso similar en un tribunal de justicia?
 
-Juez: Amigo, aquí la cuestión no es si has sido traído injustamente o no.
+[.discourse-part]
+__Juez:__ Amigo, aquí la cuestión no es si has sido traído injustamente o no.
 Si fuiste traído por una mano equivocada, tienes una apelación contra ellos;
 pero debes primero responder culpable o no culpable.
 
-John Crook:
+[.discourse-part]
+__John Crook:__
 ¿Cómo me puedo ayudar a mí mismo después de que ustedes me hayan proscrito por premunire?
 Por tanto,
 que se haga una proclamación en el tribunal de que he sido traído por la fuerza,
@@ -1232,6 +1326,7 @@ ustedes deben _discernere per legem, quid sit juslum,_
 +++[+++determinar justicia por medio de la ley],
 y no hacer lo que les parezca bien ante sus propios ojos.
 
+[.offset]
 +++[+++Aquí me interrumpieron de nuevo,
 pero habría podido decir las palabras del juez Crook en el caso Hampden, quien dijo:
 "`Nosotros los jueces hablamos bajo juramento, y por lo tanto,
@@ -1242,7 +1337,8 @@ Y además dijo:
 las reglas del estado, ni las conveniencias, sino sólo según la ley.`"
 Estas fueron sus palabras, las cuales yo habría podido decir, pero fui interrumpido.]
 
-Juez:
+[.discourse-part]
+__Juez:__
 Aunque ningún hombre te haya presentado el juramento
 cuando fuiste enviado a prisión (como dices),
 ahora te es presentado.
@@ -1252,7 +1348,8 @@ No nos fijamos en el motivo por el que fuiste traído aquí, pero al estar aquí
 te presentamos el juramento; y al encontrar que lo rechazas,
 tu encarcelamiento ahora es justo y de acuerdo con la ley.
 
-John Crook: ¿Cómo llegué aquí? Ya les he dicho que fue por la fuerza y con violencia,
+[.discourse-part]
+__John Crook:__ ¿Cómo llegué aquí? Ya les he dicho que fue por la fuerza y con violencia,
 sin una orden judicial, lo que nuestra ley condena por completo.
 Y por tanto, como no estoy legalmente ante ustedes, no estoy ante ustedes;
 porque lo que no es verdad según la ley, no es verdad.
@@ -1260,7 +1357,8 @@ Porque como fui traído ilegalmente a este tribunal,
 ustedes no deberían tomar nota de mi presencia, y mucho menos,
 crear cargos adicionales contra mí.
 
-Juez: No, no, estás equivocado;
+[.discourse-part]
+__Juez:__ No, no, estás equivocado;
 porque puedes decir lo mismo de todos los mirones que están aquí,
 que al no estar legalmente aquí, no están. Te digo,
 aunque un hombre sea traído por la fuerza,
@@ -1272,6 +1370,7 @@ has sido acusado por el gran jurado.
 Responde a la acusación o refuta la acusación; debes hacer una u otra,
 culpable o no culpable.
 
+[.offset]
 +++[+++Aquí fui interrumpido, pero podría haber dicho,
 que los espectadores que asistían a los juicios y los oían,
 no debían ser llamados "`mirones,`" como los llamó el juez,
@@ -1280,7 +1379,8 @@ y la ley de Inglaterra lo permitía. De modo que no
 debe usarse el término "`mirones`" por este motivo,
 pues están en este lugar para oír juicios y para ver que se haga justicia.]
 
-John Crook: La ley está construida sobre la razón, o justa razón,
+[.discourse-part]
+__John Crook:__ La ley está construida sobre la razón, o justa razón,
 y cualquier cosa que sea contraria a la justa razón, es contraria a la ley;
 la razón de la ley, es la ley misma.
 No soy abogado y mi conocimiento de la ley es poco, y sin embargo,
@@ -1290,19 +1390,23 @@ Honro la ley y es buena en su lugar, muchas leyes son justas y buenas--no todas 
 pero, digo, gran parte de ellas--y no es mi intención, en lo más mínimo,
 despreciarlas o derogarlas.
 
-Juez: Señor Crook, se le ha dicho que debe declararse culpable o no culpable,
+[.discourse-part]
+__Juez:__ Señor Crook, se le ha dicho que debe declararse culpable o no culpable,
 o de lo contrario se expondrá a la sentencia de premunire.
 No sea su propio enemigo, ni tan obstinado.
 
-John Crook: No estoy delante de ustedes obstinadamente,
+[.discourse-part]
+__John Crook:__ No estoy delante de ustedes obstinadamente,
 ni tampoco soy así. Si lo entienden de otro modo, es un error.
 
-Juez: ¿Hablarás sobre la acusación? Entonces después,
+[.discourse-part]
+__Juez:__ ¿Hablarás sobre la acusación? Entonces después,
 puedes hacer la declaración. Si no respondes culpable o no culpable,
 lo registraremos y el juicio será en tu contra.
 Secretario, regístralo.
 
-Registrador: Señor Crook, si respondes, podrás declararte culpable o no culpable.
+[.discourse-part]
+__Registrador:__ Señor Crook, si respondes, podrás declararte culpable o no culpable.
 ¿O tomarás el juramento?
 El tribunal no toma en cuenta cómo llegaste aquí. ¿Qué dices?
 ¿Responderás? Porque un hombre puede ser arrastrado
@@ -1310,7 +1414,8 @@ de Smithfield por la cabeza y los hombros,
 se le puede presentar el juramento y puede ser enviado a prisión,
 sin haber tomado en cuenta cómo llegó aquí.
 
-John Crook: Ese tipo de procedimiento no es sólo injusto,
+[.discourse-part]
+__John Crook:__ Ese tipo de procedimiento no es sólo injusto,
 sino también irrazonable--+++[+++aquí hubo una interrupción]--y
 es contra las leyes antes mencionadas,
 que dicen: "`Ningún hombre será capturado, sino por una orden judicial,
@@ -1325,7 +1430,8 @@ no es sólo injusta en sí misma, sino que es contra la ley,
 y hace un acto malo sea el fundamento de otro; y un agravio a uno,
 se convierta en el fundamento de otro; y este es mi caso hoy--+++[+++Interrupción.]
 
-Juez: Señor Crook, tú no debes ser tu propio juez; nosotros somos tus jueces.
+[.discourse-part]
+__Juez:__ Señor Crook, tú no debes ser tu propio juez; nosotros somos tus jueces.
 Pero por nuestra parte, no te haremos mal.
 ¿Responderás culpable o no culpable?
 Si no, te expondrás inevitablemente a la sentencia premunire,
@@ -1333,7 +1439,8 @@ y entonces experimentarás lo que se te ha dicho que seguiría;
 porque nosotros no tomamos en cuenta cómo llegaste aquí, sino que estando aquí,
 te presentamos el juramento.
 
-John Crook: Parece, entonces, que ustedes hacen de la ley una trampa para atraparme,
+[.discourse-part]
+__John Crook:__ Parece, entonces, que ustedes hacen de la ley una trampa para atraparme,
 o como una "`nariz de cera,`"^
 footnote:[El término "`nariz de cera`" era usado para referirse a una persona
 o cosa que era fácilmente torcida o influenciada en cualquier dirección.]
@@ -1343,35 +1450,45 @@ Pero supongan que presto el juramento ahora, en este momento,
 mañana me pueden llamar de nuevo y hacerme un nuevo ofrecimiento;
 u otros me pueden llamar ante ellos.
 
-Juez: Sí, si hubiera un asunto nuevo;
+[.discourse-part]
+__Juez:__ Sí, si hubiera un asunto nuevo;
 o si hubiera sucedido algo repentinamente por lo que dieras motivo.
 Señor Crook, ¿vas a jurar?
 
-John Crook: Si lo hago hoy, se me puede presentar mañana otra vez,
+[.discourse-part]
+__John Crook:__ Si lo hago hoy, se me puede presentar mañana otra vez,
 y al día siguiente también, _ad infinitum,_
 por lo que una gran parte de mi tiempo puede ser
 gastado y ocupado en prestar el juramento y jurar.
 
-Presidente del tribunal: Una vez que hayas jurado, no podrás ser puesto en eso de nuevo,
+[.discourse-part]
+__Presidente del tribunal:__ Una vez que hayas jurado, no podrás ser puesto en eso de nuevo,
 a menos que des motivo.
 
-John Crook: ¿Es esta la sentencia del tribunal,
+[.discourse-part]
+__John Crook:__ ¿Es esta la sentencia del tribunal,
 que es suficiente que yo haya prestado el juramento una vez,
 y que no me debe ser presentado una segunda vez, sin ninguna nueva ofensa por mi parte?
 
-Juez: Sí; siempre y cuando hagas ver que lo has prestado una vez.
+[.discourse-part]
+__Juez:__ Sí; siempre y cuando hagas ver que lo has prestado una vez.
 
-John Crook: ¿Es esta la sentencia de todo el tribunal?
+[.discourse-part]
+__John Crook:__ ¿Es esta la sentencia de todo el tribunal?
 Porque no quiero hacer nada apresuradamente.
 
-Jueces: Sí, esta es la sentencia del tribunal, +++[+++a lo que todos dijeron de pie: "`Sí.`"]
+[.discourse-part]
+__Jueces:__ Sí, esta es la sentencia del tribunal, +++[+++a lo que todos dijeron de pie: "`Sí.`"]
 
-John Crook: Entonces, parece, que después de haber prestado juramento una vez,
+[.discourse-part]
+__John Crook:__ Entonces, parece, que después de haber prestado juramento una vez,
 debo dar un nuevo motivo, o no se me debe presentar una segunda vez.
 
-Jueces: Sí.
+[.discourse-part]
+__Jueces:__ Sí.
 
-John Crook: Entonces, por sentencia de esta corte,
+[.discourse-part]
+__John Crook:__ Entonces, por sentencia de esta corte,
 si puedo hacer ver que ya he tomado el juramento una vez,
 y que no he dado motivo por el que pueda ser justamente culpado de haberlo transgredido,
 el juramento no se me debe presentar una segunda vez.
@@ -1383,16 +1500,19 @@ Si no, no deben, por decisión de ustedes, presentarme el juramento una segunda 
 +++[+++Interrumpido por el grito del tribunal,
 cuando estas últimas palabras podrían haberse dicho.]
 
-Juez: Señor Crook, estás equivocado, no debes pensar en sorprender al tribunal,
+[.discourse-part]
+__Juez:__ Señor Crook, estás equivocado, no debes pensar en sorprender al tribunal,
 ni sacar falsas conclusiones de nuestros juicios.
 
-John Crook: Si esta no es una conclusión natural del fallo del tribunal,
+[.discourse-part]
+__John Crook:__ Si esta no es una conclusión natural del fallo del tribunal,
 dejen que la justa razón juzgue.
 Y si ustedes se retractan de sus propios juicios, ¿qué justicia puedo esperar de ustedes?
 Porque, si no son justos con ustedes mismos, ni con sus propios juicios,
 ¿cómo puedo esperar que sean justos conmigo?
 
-Juez: Señor Crook, aunque hubieras prestado juramento, si hay un nuevo suceso,
+[.discourse-part]
+__Juez:__ Señor Crook, aunque hubieras prestado juramento, si hay un nuevo suceso,
 debes volver a prestarlo.
 Como por ejemplo, el rey ha estado fuera de Inglaterra y ahora ha regresado.
 Hay muchos que habían prestado juramento hace veinte, treinta o cuarenta años,
@@ -1405,76 +1525,91 @@ nada más sino saber si responderás culpable o no culpable,
 o prestarás juramento, y luego serás liberado de la acusación. ¿Qué dices?
 ¿Eres culpable o no culpable?
 
-John Crook: ¿No se mantendrán en sus propios juicios?
+[.discourse-part]
+__John Crook:__ ¿No se mantendrán en sus propios juicios?
 ¿No dijiste ahora, que si yo había prestado juramento una vez,
 no se me debía presentar una segunda vez,
 a menos que yo diera un nuevo motivo de no haberlo cumplido?
 Pero al no haber un motivo, no deben presentarme el juramento la segunda vez,
 según la confesión de ustedes mismos, mucho menos, acusarme por negarme.
 
-Juez: Si no te declaras, lo registraremos y se dictaré sentencia contra ti.
+[.discourse-part]
+__Juez:__ Si no te declaras, lo registraremos y se dictaré sentencia contra ti.
 Por lo tanto, di culpable o no culpable, o de lo contrario, lo registraremos.
 +++[+++Entonces el secretario comenzó a registrarlo.]
 
-John Crook: Antes de responder, solicito una copia de mi acusación;
+[.discourse-part]
+__John Crook:__ Antes de responder, solicito una copia de mi acusación;
 porque he oído decir a un abogado experto en la ley,
 que si hago una declaración antes de tener una copia, o de haber hecho mis objeciones,
 mis posteriores objeciones contra la acusación serán nulas.
 Por lo tanto, deseo una copia de mi acusación.
 
-Juez: El que dijo eso no merece el nombre de abogado;
+[.discourse-part]
+__Juez:__ El que dijo eso no merece el nombre de abogado;
 porque la ley dice que debes responder primero, y luego tendrás una copia.
 ¿Te declaras culpable o no culpable?
 
-John Crook: Si mi declaración de culpabilidad o no culpabilidad,
+[.discourse-part]
+__John Crook:__ Si mi declaración de culpabilidad o no culpabilidad,
 no me priva del beneficio de anular la acusación por insuficiencia,
 o de otras objeciones que pueda hacer contra ella, hablaré.
 
-Juez: No, no te privará. ¿Responderás culpable o no culpable?
+[.discourse-part]
+__Juez:__ No, no te privará. ¿Responderás culpable o no culpable?
 Si no declaras, la acusación será pronunciada en tu contra.
 ¿Responderás? No esperaremos más tiempo.
 
-John Crook: Estoy en el punto.
+[.discourse-part]
+__John Crook:__ Estoy en el punto.
 ¿No me privará mi declaración del beneficio de la ley.
 Este aspecto es muy importante para mí, porque no se trata sólo de mi propio caso,
 sino que puede ser el caso de miles más; por tanto,
 no quiero hacer nada que pueda perjudicar a otros, o a mí mismo, como Cristiano,
 o como ciudadano inglés.
 
-Juez:
+[.discourse-part]
+__Juez:__
 Se te hará lo correcto como ciudadano inglés. La forma es responder culpable o no culpable.
 Si declaras, y posteriormente encuentras que la acusación no es buena,
 tendrás tus recursos.
 Responde, culpable o no culpable.
 
-John Crook: En cuanto a la acusación, es muy extensa y parece confusa,
+[.discourse-part]
+__John Crook:__ En cuanto a la acusación, es muy extensa y parece confusa,
 y compuesta de cosas que son verdaderas y otras que son falsas.
 Por tanto, mi respuesta es, no niego lo que es verdadero en la acusación,
 porque hago de lo que digo un asunto de consciencia.
 Por tanto, con respecto a lo que es verdadero, me declaro culpable,
 pero no culpable de lo que es falso.
 
-Juez: Eso no es suficiente, responde culpable o no culpable,
+[.discourse-part]
+__Juez:__ Eso no es suficiente, responde culpable o no culpable,
 o se dictará sentencia contra ti.
 
-John Crook: Diré la verdad, como delante del Señor,
+[.discourse-part]
+__John Crook:__ Diré la verdad, como delante del Señor,
 como siempre me he esforzado por hacer.
 No soy culpable de lo que es falso, contenido en la acusación,
 que es la sustancia de esta.
 
-Juez: No más demora.
+[.discourse-part]
+__Juez:__ No más demora.
 ¿Eres culpable o no?
 
-John Crook: No debo dañar mi consciencia.
+[.discourse-part]
+__John Crook:__ No debo dañar mi consciencia.
 No soy culpable de lo que es falso, como dije antes.
 Soy culpable de lo que es verdadero;
 no soy culpable de lo que no es verdadero--que es la mayor parte de la acusación,
 como dije antes.
 
-Registrador: Es suficiente y servirá de turno.
+[.discourse-part]
+__Registrador:__ Es suficiente y servirá de turno.
 Entre esto, secretario.
 
-Séptimo día de la semana, llamado Sábado.
+[.offset]
+__Séptimo día de la semana, llamado Sábado.__
 
 Al hacerse silencio, John Crook fue llamado al estrado.
 El secretario de las sesiones leyó algo con respecto al nuevo jurado,
@@ -1487,7 +1622,8 @@ y a algunos de nosotros de nuestras casas;
 y ese era el jurado por el que íbamos a ser juzgados.
 Entonces, el secretario leyó la acusación +++[+++según recuerdo.]
 
-John Crook: Deseo que se escuchen unas pocas palabras, que son las siguientes:
+[.discourse-part]
+__John Crook:__ Deseo que se escuchen unas pocas palabras, que son las siguientes:
 Solicito que hasta las próximas sesiones trimestrales,
 nos den la libertad de analizar la acusación, pues es extensa y en latín,
 y probablemente, un precedente para muchos otros.
@@ -1503,10 +1639,12 @@ y hoy repentinamente nos apresuraron a venir a las sesiones del tribunal,
 no se puede suponer razonablemente que estemos preparados
 (en lo que respecta a la ley) para hacer nuestra defensa.
 
-Juez: Te hemos dado suficiente tiempo, no tendrás más. Te juzgaremos en este momento,
+[.discourse-part]
+__Juez:__ Te hemos dado suficiente tiempo, no tendrás más. Te juzgaremos en este momento,
 por tanto, juramentaremos al jurado.
 
-John Crook: Deseo que se nos haga justicia y que no seamos enredados en nuestro juicio,
+[.discourse-part]
+__John Crook:__ Deseo que se nos haga justicia y que no seamos enredados en nuestro juicio,
 sino que tengamos tiempo hasta las siguientes sesiones trimestrales,
 pues nuestra sentencia está en latín y es extensa.
 Esto es razonable y es la práctica en otros tribunales.
@@ -1520,10 +1658,12 @@ Nosotros también deseamos esta libertad, y esperamos, ya que es razonable,
 que no se nos niegue, especialmente en esta ocasión,
 dado que es probable que nos convirtamos en un precedente para otros.
 
-Juez: No hay un gran asunto de ley en este caso; es sólo un asunto de hecho,
+[.discourse-part]
+__Juez:__ No hay un gran asunto de ley en este caso; es sólo un asunto de hecho,
 si has rechazado prestar el juramento o no.
 
-Registrador: Señor Crook, no hay necesidad de ley o abogado en este caso;
+[.discourse-part]
+__Registrador:__ Señor Crook, no hay necesidad de ley o abogado en este caso;
 por eso lo consideramos anoche y le enviamos un mensaje.
 Se le dijo al guarda de la prisión que te dijera
 que teníamos la intención de juzgarte hoy,
@@ -1534,8 +1674,10 @@ pues el asunto es sólo si te niegas a prestar juramento o no.
 Por tanto, es en vano decir algo, porque el tribunal está decidido a juzgarte ahora; así,
 pues, juramenta al jurado, pregonero.
 
-John Crook: Espero que no intenten sorprendernos.
+[.discourse-part]
+__John Crook:__ Espero que no intenten sorprendernos.
 
+[.offset]
 +++[+++Entonces los otros prisioneros (que también estaban acusados) gritaron:
 "`Hágannos justicia,
 y que el jurado no sea juramentado hasta que se nos haya escuchado primero.`"
@@ -1567,9 +1709,11 @@ expresó la presencia y amor de Dios para con él,
 y exhortó a otros a que tuvieran en cuenta Su temor,
 para que también pudieran llegar a conocer a Dios, etc.]
 
-Juez: ¡Cállale la boca, verdugo! +++[+++Lo que fue hecho consecuentemente.]
+[.discourse-part]
+__Juez:__ ¡Cállale la boca, verdugo! +++[+++Lo que fue hecho consecuentemente.]
 
-Prisioneros: ¿No nos dejarán hablar por nosotros mismos?
+[.discourse-part]
+__Prisioneros:__ ¿No nos dejarán hablar por nosotros mismos?
 Nosotros objetamos a algunos del jurado, al ser nuestros enemigos.
 De hecho, algunos son los mismos hombres que ordenaron en contra de la ley,
 que nos sacaran por la fuerza de nuestras reuniones,
@@ -1577,7 +1721,8 @@ y nos llevaron a prisión sin una orden judicial ni el debido proceso de la ley.
 ¿Serán estos ahora nuestros jueces?
 Objetamos contra ellos.
 
-Juez: Es demasiado tarde ya,
+[.discourse-part]
+__Juez:__ Es demasiado tarde ya,
 deberían haberlo hecho antes de que ellos fueran juramentados como jurado.
 ¡Jurado, reúnanse ahora!
 Lo que deben determinar es si ellos se negaron a prestar el juramento o no,
@@ -1586,6 +1731,7 @@ No es necesario que se retiren del estrado.
 +++[+++Palabras parecidas fueron pronunciadas por el registrador y otros,
 mientras había confusión y ruido en el tribunal, y muchos hablaban al mismo tiempo.]
 
+[.offset]
 +++[+++Entonces clamamos por justicia y que fuéramos escuchados,
 deseando hacer nuestra defensa antes de que el jurado diera su veredicto.
 Pero el juez y registrador dijo que no seríamos escuchados, gritando de nuevo:
@@ -1595,31 +1741,38 @@ y teniendo una mordaza lista en su mano para ese propósito;
 y así fuimos tratados varias veces.
 Entonces yo grité en voz alta:]
 
-John Crook: ¿Nos van a condenar sin escucharnos?
+[.discourse-part]
+__John Crook:__ ¿Nos van a condenar sin escucharnos?
 Esto es tratar con nosotros peor que lo que hizo Pilato con Cristo.
 Porque aunque él condenó a Cristo sin una razón,
 aun así no lo hizo sin haberlo escuchado hablar por Sí mismo.
 Pero ustedes nos niegan ambas cosas.
 
-Juez: Que el Señor Gray venga al estrado.
+[.discourse-part]
+__Juez:__ Que el Señor Gray venga al estrado.
 
+[.offset]
 +++[+++Al hacerse espacio, Isaac Gray fue conducido por un oficial al estrado interior,
 donde le habló al tribunal para dicho efecto:]
 
-Isaac Gray: Deseo saber, si según la ley y la práctica de este tribunal,
+[.discourse-part]
+__Isaac Gray:__ Deseo saber, si según la ley y la práctica de este tribunal,
 yo y mis compañeros de prisión tenemos libertad de poner una fianza,
 a fin de procesar nuestra defensa en las próximas sesiones.
 
-Tribunal: No, los juzgaremos en este momento.
+[.discourse-part]
+__Tribunal:__ No, los juzgaremos en este momento.
 
-Juez: ¡Cállales la boca,
+[.discourse-part]
+__Juez:__ ¡Cállales la boca,
 verdugo! +++[+++Y ese era el grito de muchos de los miembros del tribunal,
 al estar todavía en confusión. Algunos le gritaban al jurado: "`Den su veredicto,
 porque no los escucharemos a ellos;`" junto con otras
 palabras que no pudieron ser oídas debido al ruido,
 pues el tribunal estaba en desorden.]
 
-John Crook: Habría sido lo mismo que nos hubieran mandado a matar antes de llegar aquí,
+[.discourse-part]
+__John Crook:__ Habría sido lo mismo que nos hubieran mandado a matar antes de llegar aquí,
 que traernos aquí bajo el pretexto de juzgarnos y
 no darnos la libertad de hacer nuestra defensa;
 pero en lugar de eso,
@@ -1628,7 +1781,8 @@ ordenan que seamos lastimados así y que mantengamos las bocas calladas.
 ¡Qué el justo Dios juzgue entre nosotros! ¿Me escucharán?
 Ustedes a menudo han prometido que lo harían.
 
-Juez: Escúchame y te escucharemos.
+[.discourse-part]
+__Juez:__ Escúchame y te escucharemos.
 +++[+++Entonces él empezó a hablar y otros de los miembros del tribunal lo interrumpieron.
 A veces dos o tres hablaban a la misma vez,
 y había ruido entre los oficiales del tribunal.
@@ -1636,16 +1790,19 @@ Pero el juez dijo:]
 Podemos darles libertad hasta las siguientes sesiones, pero es nuestra escogencia;
 y por tanto, escogemos juzgarlos ahora.
 
-John Crook: +++[+++Le pedí a la gente:]
+[.discourse-part]
+__John Crook:__ +++[+++Le pedí a la gente:]
 Tomen nota de la promesa de ellos, que yo tendría libertad de hablar.
 +++[+++Luego hablándole a los jueces:]
 Miren, cumplan su palabra.
 
-Juez: La ley de Inglaterra no sólo es justa, sino misericordiosa; por tanto,
+[.discourse-part]
+__Juez:__ La ley de Inglaterra no sólo es justa, sino misericordiosa; por tanto,
 no serán sorprendidos ni enredados,
 sino que tendrán lo que la justicia de la ley permite.
 
-John Crook: El juez acaba de decir que la ley de Inglaterra era una ley misericordiosa,
+[.discourse-part]
+__John Crook:__ El juez acaba de decir que la ley de Inglaterra era una ley misericordiosa,
 y el tribunal dijo que ellos podrían, si estaban dispuestos,
 darnos libertad hasta las siguientes sesiones,
 pero que no lo harían. La máxima de la ley es, _Summum jus est summa injuria,_
@@ -1657,9 +1814,11 @@ y muestren que la ley de Inglaterra es una ley misericordiosa;
 y que no ejecuten la _summun jus_ +++[+++extrema justicia]
 sobre mí, y se condenen así ustedes mismos, por medio de sus propias bocas.
 
-Juez: Jurado, dé su veredicto.
+[.discourse-part]
+__Juez:__ Jurado, dé su veredicto.
 
-John Crook: Permítanme hablar primero, son sólo unas pocas palabras;
+[.discourse-part]
+__John Crook:__ Permítanme hablar primero, son sólo unas pocas palabras;
 y espero hacerlo con la brevedad y pertinencia que mi entendimiento lo permita,
 y esta ocasión requiere.
 Es con respecto a estos dos temas: Cuestión de ley, cuestión de consciencia.
@@ -1685,14 +1844,18 @@ El tribunal volvió a llamar al verdugo para que me tapara la boca,
 lo que hizo consecuentemente con un trapo sucio, como se dijo antes,
 y la mordaza en su mano.]
 
-Juez: Oigamos al jurado.
+[.discourse-part]
+__Juez:__ Oigamos al jurado.
 
+[.offset]
 +++[+++Entonces el jurado le dijo algo al juez, que se suponía era el veredicto.]
 
-Juez: ¡Pregonero, haz silencio en el tribunal! +++[+++Entonces el registrador,
+[.discourse-part]
+__Juez:__ ¡Pregonero, haz silencio en el tribunal! +++[+++Entonces el registrador,
 tomando un papel en su mano leyó:]
 
-Registrador: El jurado del rey encuentra que John Crook,
+[.discourse-part]
+__Registrador:__ El jurado del rey encuentra que John Crook,
 John Bolton e Isaac Gray son culpables de negarse a prestar el juramento de lealtad;
 por lo que incurren en la sentencia premunire,
 que es la pérdida de todos sus bienes inmuebles durante sus vidas,
@@ -1701,7 +1864,8 @@ Ahora son puestos fuera de la protección del rey,
 y estarán encarcelado durante el tiempo que él lo quiera.
 Esta es la sentencia para ustedes.
 
-John Crook: Pero todavía estamos bajo la protección de Dios.
+[.discourse-part]
+__John Crook:__ Pero todavía estamos bajo la protección de Dios.
 
 [.asterism]
 '''
@@ -1726,7 +1890,7 @@ Este tipo de procedimientos fue la porción de muchos,
 porque la intención del momento de quienes estaban
 en autoridad parecía ser la eliminación de este pueblo.
 
-or medio de estos y tratos similares,
+Por medio de estos y tratos similares,
 vemos cómo se esforzaban los perseguidores por erradicar a los Cuáqueros,
 si les hubiera sido posible; para cuya realización,
 el concejal Richard Brown hacía lo que podía,
@@ -1832,7 +1996,7 @@ quien un tiempo antes (como ha sido relatado) había tenido una conversación co
 quien en ese momento le prometió que él y sus amigos no
 sufrirían por sus opiniones o religión. Pero entonces,
 en el mes llamado Junio,
-R+++.+++ Hubberthron fue violentamente sacado de la reunión llamada Bull and Mouth,
+R+++.+++ Hubberthorn fue violentamente sacado de la reunión llamada Bull and Mouth,
 y llevado ante el concejal Richard Brown,
 quien con sus propias manos haló el sombrero de Richard sobre su cabeza con tal violencia,
 que llevó su cabeza cerca del piso, y luego lo envió a Newgate.

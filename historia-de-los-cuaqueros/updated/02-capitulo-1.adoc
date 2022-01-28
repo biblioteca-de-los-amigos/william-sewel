@@ -1,5 +1,8 @@
 == Capítulo I
 
+[.section-date]
+1415-1650
+
 Que la maravillosa obra de reforma era pequeña y de muy poca importancia en su inicio,
 y que a pesar de eso ha estado avanzado con notable progreso,
 creo que no será negado por nadie que haya leído la historia de su primer
