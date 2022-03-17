@@ -1,17 +1,29 @@
-
 == Capítulo XIV
 
+[.section-date]
 1662-1664
 
-Enfermedad y muerte de E. Burrough--Testimonio de F. Howgill sobre
-E+++.+++ Burrough--Enfermedad y muerte de W. Ames--Carta de G. Fox sobre
-la muerte de E. Burrough--G. Fox responde a la pregunta:
-"`¿Quién hizo al diablo?`"--Caza de fanáticos--Muerte espantosa del coronel Robinson--G.
-Fox y el coronel Kirby--Arresto de G. Fox--Largo interrogatorio--Cruel persecución
-en Colchester--Giles Barnardiston--Procesos contra los Amigos en Worcester--Narración
-del cambio de T. Lurting de marinero combatiente a pacífico Cuáquero--Piratas
-turcos--Esclavos Cuáqueros en Argel--La madre del autor visita Inglaterra--Relato
-sobre Stephen Crisp--Muggleton y Reeves--Caso de Oliver Atherton.
+[.chapter-synopsis]
+* Enfermedad y muerte de E. Burrough
+* Testimonio de F. Howgill sobre E. Burrough
+* Enfermedad y muerte de W. Ames
+* Carta de G. Fox sobre la muerte de E. Burrough
+* G. Fox responde a la pregunta: "`¿Quién hizo al diablo?`"
+* Caza de fanáticos
+* Muerte espantosa del coronel Robinson
+* G+++.+++ Fox y el coronel Kirby
+* Arresto de G. Fox
+* Largo interrogatorio
+* Cruel persecución en Colchester
+* Giles Barnardiston
+* Procesos contra los Amigos en Worcester
+* Narración del cambio de T. Lurting de marinero combatiente a pacífico Cuáquero
+* Piratas turcos
+* Esclavos Cuáqueros en Argel
+* La madre del autor visita Inglaterra
+* Relato sobre Stephen Crisp
+* Muggleton y Reeves
+* Caso de Oliver Atherton.
 
 Ahora llego también a la gloriosa partida de Edward Burrough, ese valiente héroe,
 de quien a menudo se ha hecho mención en esta historia.
@@ -69,8 +81,9 @@ y yo Te he amado desde mi cuna y desde mi juventud hasta hoy,
 y Te he servido fielmente en mi generación.`" Y a
 sus amigos que estaban a su alrededor les dijo:
 "`Vivan en amor y paz, y ámense unos a otros.`"
-En otro momento dijo: "`El Señor quita al justo de delante de la aflicción.^
-footnote:[Isaías 57:1]`" Y orando por sus enemigos y perseguidores dijo: "`Señor,
+En otro momento dijo: "`El Señor quita al justo de delante de la aflicción.`"^
+footnote:[Isaías 57:1]
+Y orando por sus enemigos y perseguidores dijo: "`Señor,
 perdona a Richard Brown, si puede ser perdonado.`"
 Y siendo consciente de que la muerte se aproximaba, dijo:
 "`Aunque este cuerpo de barro se vuelva polvo,
@@ -111,6 +124,9 @@ que él había predicado tan poderosa y exitosamente,
 pero hicieron una estimación errónea.
 Francis Howgill pronunció luego una especie de lamentación que, aunque escrita en prosa,
 no estaba exenta de expresiones poéticas, en la que decía lo siguiente:
+
+[.embedded-content-document.testimony]
+--
 
 ¿Podrán los días, los meses o los años desgastar tu nombre como si no hubieras existido?
 ¡Oh, no! ¿Acaso no vivirán en las generaciones por venir tus nobles y valientes actos,
@@ -238,6 +254,8 @@ porque Dios ha resucitado y le resucitara hijos a Abraham,
 de aquellos que han sido como piedras muertas.
 En efecto, Su poder es Omnipotente y Él es grande en Su pueblo en medio de sus enemigos.
 
+--
+
 Con estas sublimes expresiones lamentaba Francis
 Howgill a su entrañable amigo Edward Burrough.
 
@@ -300,6 +318,9 @@ donde escuchó del deceso de Edward Burrough.
 Y al ser consciente del gran dolor que sería su muerte para sus amigos,
 escribió las siguientes líneas:
 
+[.embedded-content-document.epistle]
+--
+
 Amigos, permanezcan quietos y tranquilos en sus propias condiciones,
 y afírmense en la Semilla de Dios que no cambia;
 para que en ella puedan sentir al querido E. B. entre ustedes, en la Semilla,
@@ -308,7 +329,10 @@ De este modo, todos pueden verlo y sentirlo en la Semilla,
 en la que está la unidad con él en la Vida; y disfrutarlo así en la Vida que no cambia,
 la cual es invisible.
 
+[.signed-section-signature]
 G+++.+++ Fox
+
+--
 
 Después de viajar por varios lugares, G. Fox llegó a Londres,
 donde tras visitar a sus amigos en sus reuniones (que eran numerosas),
@@ -1837,10 +1861,15 @@ Preston y otros pueblos que cruzaron durante el camino,
 fijaron en la cruz del mercado la siguiente inscripción,
 que también había sido puesta en su ataúd.
 
+[.embedded-content-document.paper]
+--
+
 Este es Oliver Atherton de la parroquia de Ormskirk,
 a quien la condesa de Derby persiguió hasta la muerte
 por tener una buena consciencia para con Dios y Cristo,
 al no pagarle los diezmos.
+
+--
 
 Ahora, aunque había otros tres encarcelados con Oliver por la misma causa,
 le avisaron a la condesa de esto,
