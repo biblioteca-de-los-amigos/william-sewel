@@ -3,6 +3,24 @@
 [.section-date]
 1656--1657
 
+[.chapter-synopsis]
+* "`La historia de los fanáticos`"
+* Respuesta de J. Nayler
+* Muerte de J. Nayler
+* M. Fisher y A. Austin van a Nueva Inglaterra
+* El abuso bárbaro contra ellas
+* Leyes hechas para impedir que los Cuáqueros fueran a Nueva Inglaterra
+* Entrevista entre el protector y G. Fox y E. Pyot
+* Cartas de advertencia de E. Burrough al protector
+* Notable conferencia entre C. Birkhead y una congregación inglesa en Middleburg, Zelanda
+* Viajes de W. Ames y W. Caton
+* Convencimiento de los padres del autor
+* G. Fox y el gobernador de Tenby
+* Cuáqueros excomulgados en Escocia
+* G. Fox viaja por Escocia
+* Severidades contra los Cuáqueros en Nueva Inglaterra
+* Notables incidentes de los viajes de G. Robinson a Jerusalén.
+
 Cuando el rey Carlos II había ascendido al trono,
 un hombre llamado Richard Blome publicó un libro titulado,
 [.book-title]#The Fanatic History,#footnote:[Es decir,
