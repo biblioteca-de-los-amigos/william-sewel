@@ -1,17 +1,26 @@
 == Capítulo XV
 
+[.section-date]
 1664
 
-Juicio de G. Fox en la sesión del tribunal en Lancaster--Actuación arbitraria de los
-jueces--Encarcelamiento--Crueldades contra G. Fox en la prisión--G. Fox escribe al emperador,
-a los reyes de Francia y España,
-y al papa--Juicio de F. Howgill en Appleby--Relato sobre J. Camm--Relato sobre J. Audland--Segundo
-juicio de F. Howgill y su sentencia--"`Ley para Prevenir y Suprimir los Conventículos
-Sediciosos`"--Juicio a los Cuáqueros en Hartford por asistir a una reunión--Sentencia
-de destierro--Juicio a los Cuáqueros en Heck`'s Hall bajo la Ley de Conventículos--Determinación
-de destruir a los Cuáqueros mediante la severidad del castigo--Fidelidad bajo el sufrimiento--Gran
-número de personas sacadas de las reuniones,
-juzgadas y sentenciadas--Exhortaciones a la constancia--Advertencia al rey y al Parlamento.
+[.chapter-synopsis]
+* Juicio de G. Fox en la sesión del tribunal en Lancaster
+* Actuación arbitraria de los jueces
+* Encarcelamiento--Crueldades contra G. Fox en la prisión
+* G. Fox escribe al emperador, a los reyes de Francia y España, y al papa
+* Juicio de F. Howgill en Appleby
+* Relato sobre J. Camm
+* Relato sobre J. Audland
+* Segundo juicio de F. Howgill y su sentencia
+* "`Ley para Prevenir y Suprimir los Conventículos Sediciosos`"
+* Juicio a los Cuáqueros en Hartford por asistir a una reunión
+* Sentencia de destierro
+* Juicio a los Cuáqueros en Heck`'s Hall bajo la Ley de Conventículos
+* Determinación de destruir a los Cuáqueros mediante la severidad del castigo
+* Fidelidad bajo el sufrimiento
+* Gran número de personas sacadas de las reuniones, juzgadas y sentenciadas
+* Exhortaciones a la constancia
+* Advertencia al rey y al Parlamento.
 
 El año anterior dejamos a G. Fox en la prisión de Lancaster,
 donde en las sesiones del tribunal le presentaron el juramento de lealtad y él lo rechazó,
@@ -38,10 +47,10 @@ romanas contra el Cristianismo decretadas por diez emperadores:
 Son las persecuciones de Nerón, Domiciano, Trajano, Marco Aurelio, Septimio Severo,
 Maximiano, Decio, Valeriano, Aureliano y Diocleciano.
 En realidad,
-durante todo este período el cristianismo fue religión prohibida _(religio illicita)_
+durante todo este período el cristianismo fue religión prohibida __(religio illicita)__
 y estuvo permanentemente bajo el riesgo de persecución dependiendo
 de la sensibilidad de los gobernadores provinciales del momento.`"
-Tomado de la revista, La Razón Histórica.]
+Tomado de la revista, __La Razón Histórica.__]
 al igual que algunos de los mártires en los días de la reina María,
 se negaron a jurar porque Cristo y el apóstol lo habían prohibido?
 Tú tienes suficiente experiencia de cuántos hombres han jurado primero a favor del rey,
@@ -104,8 +113,8 @@ vio una luz extraordinariamente grande, y mirando hacia arriba,
 vio a un ángel del Señor con una espada reluciente extendida hacia el sur,
 que brillaba tan intensamente, que parecía que el tribunal estaba en llamas.
 Como prueba de esto tengo lo que G. Fox dice de ello en su diario,
-y también otro pequeño libro que publicó bajo el título A Warning to England.^
-footnote:[Una Advertencia a Inglaterra.]
+y también otro pequeño libro que publicó bajo el título __A Warning to England.__^
+footnote:[__Una Advertencia a Inglaterra.__]
 No mucho después de esto, estalló una guerra entre Inglaterra y Holanda,
 después apareció la peste en Londres^
 footnote:[La Gran Peste de Londres, que duró de 1665 a 1666,
@@ -432,11 +441,13 @@ Luego dijo: "`No te molestaré ahora para que respondas a tu acusación,
 pero debo hacerlo en la siguiente sesión del tribunal.
 Mientras tanto, debes dar fianza de buen comportamiento.`"
 
+[.offset]
 A esto Francis Howgill respondió:
 "`Deseo libertad para hablar;`" lo cual le fue concedido sin interrupción,
 y dijo lo siguiente:
 
-F+++.+++ Howgill: Juez Twisden, tú sabes bien con cuán escasa,
+[.discourse-part]
+__F+++.+++ Howgill:__ Juez Twisden, tú sabes bien con cuán escasa,
 o ninguna razón fui traído delante de ti en la última sesión del tribunal,
 en la que te plació presentarme el juramento de lealtad,
 aunque creo que tanto tú como el resto del tribunal sabían,
@@ -451,12 +462,15 @@ el Señor me ha redimido a mí y a muchos más de tales cosas.
 Y viendo que estoy obligado a comparecer en la siguiente sesión del tribunal,
 deseo que no se requiera nada más de mí.
 
-Juez: Debes dar fianza durante este tiempo peligroso; por tanto, considéralo,
+[.discourse-part]
+__Juez:__ Debes dar fianza durante este tiempo peligroso; por tanto, considéralo,
 y dímelo ahora o antes de que acabe la sesión del tribunal.
 
+[.offset]
 El segundo día de la sesión del tribunal fue llamado de nuevo.
 
-F+++.+++ Howgill: Viendo que te complace dejarme responder a la acusación,
+[.discourse-part]
+__F+++.+++ Howgill:__ Viendo que te complace dejarme responder a la acusación,
 cosa que estoy dispuesto a hacer, he sido de buen comportamiento y así continuaré;
 pero me parece algo duro y lleno de severidad,
 que viéndose que estoy obligado a comparecer para
@@ -465,7 +479,11 @@ que apunta a la pérdida de mi libertad de por vida, y de mi patrimonio para sie
 espero que el tribunal no me prive también de mi
 libertad durante los próximos cinco meses.
 
-Juez Turner: No deseamos tu encarcelamiento, si eres de buen comportamiento.
+[.discourse-part]
+__Juez Turner:__ No deseamos tu encarcelamiento, si eres de buen comportamiento.
+
+[.small-break]
+'''
 
 Entonces F. Howgill pidió que no lo obligaran a dar fianza de buen comportamiento,
 sabiéndose obligado por la Verdad de tal manera que no podía portarse mal.
@@ -475,29 +493,38 @@ que había formulado otra acusación contra él por asistir a una reunión,
 se puso de pie (temiendo que la trampa de dar una
 fianza no se sostuviera) y dijo lo siguiente:
 
-D+++.+++ Flemming: Mi señor,
+[.discourse-part]
+__D+++.+++ Flemming:__ Mi señor,
 él es un gran orador y puede que los Cuáqueros no puedan seguir sin él.
 
-Juez: Que sea lo que quiera si da una fianza.
+[.discourse-part]
+__Juez:__ Que sea lo que quiera si da una fianza.
+
+[.small-break]
+'''
 
 Entonces F. Howgill dijo que no tenía nada de qué acusarse,
 porque su consciencia le daba testimonio de que amaba
 la paz y la buscaba con todos los hombres.
 
-Jueces: ¿Por qué hablas de consciencia?
+[.discourse-part]
+__Jueces:__ ¿Por qué hablas de consciencia?
 Nosotros no nos entrometemos con ella; pero ustedes desatienden las leyes,
 celebran grandes reuniones y no van a la iglesia.
 
-F+++.+++ Howgill: Hemos caído en una época triste,
+[.discourse-part]
+__F+++.+++ Howgill:__ Hemos caído en una época triste,
 si reunirnos pacíficamente sin armas ni fuerza, ni intención de hacerle daño a nadie,
 sino únicamente para adorar a Dios en Espíritu, y exhortarnos unos a otros a la justicia,
 y orar juntos en el Espíritu Santo como lo hacían los Cristianos
 de antaño--se considera una ruptura de la paz y mal comportamiento.
 
-Juez Twisden: ¿Comparas este tiempo con aquella época?
+[.discourse-part]
+__Juez Twisden:__ ¿Comparas este tiempo con aquella época?
 Ellos eran paganos que perseguían, pero nosotros somos magistrados Cristianos.
 
-F+++.+++ Howgill: Es una doctrina sostenida por nosotros siempre,
+[.discourse-part]
+__F+++.+++ Howgill:__ Es una doctrina sostenida por nosotros siempre,
 y un principio recibido en el que creemos,
 que el reino de Cristo no puede ser establecido con armas carnales,
 ni el evangelio puede propagarse por la fuerza de la armas,
@@ -505,6 +532,9 @@ ni la iglesia de Dios puede ser edificada con violencia;
 sino que debido a que el Príncipe de Paz ha sido manifestado entre nosotros,
 no nos adiestramos más para la guerra,
 sino que amamos a nuestros enemigos y perdonamos a los que nos hacen mal.
+
+[.small-break]
+'''
 
 Entonces Philip Musgrave se puso de pie y dijo: "`Mi señor,
 hemos sido negligentes con esta gente, y hemos luchado contra ellos,
@@ -522,9 +552,11 @@ y que uno de ellos había muerto en Lancaster,
 y que habían llevado el cadáver a través del condado, con ese papel sobre el ataúd:
 "`Este es el cuerpo de tal, quien fue perseguido por Daniel Flemming hasta la muerte.`"
 
-Juez: Hemos pasado mucho tiempo contigo; no discutiré más.
+[.discourse-part]
+__Juez:__ Hemos pasado mucho tiempo contigo; no discutiré más.
 
-F+++.+++ Howgill:
+[.discourse-part]
+__F+++.+++ Howgill:__
 Reconozco
 tu ecuanimidad hacia mí,
 al permitirme la libertad de hablar.
@@ -533,11 +565,16 @@ y a responder a la acusación en la próxima sesión del tribunal,
 y mientras tanto, viviré pacífica y tranquilamente, como lo he hecho,
 si eso le satisface a la corte.
 
-Juez: Debes dar fianza de que no asistirás a más reuniones.
+[.discourse-part]
+__Juez:__ Debes dar fianza de que no asistirás a más reuniones.
 
-F+++.+++ Howgill: No puedo hacer eso; si lo hiciera,
+[.discourse-part]
+__F+++.+++ Howgill:__ No puedo hacer eso; si lo hiciera,
 estaría traicionando a Dios y a mi propia consciencia,
 y el pueblo y tú me juzgarían como un hipócrita.
+
+[.small-break]
+'''
 
 Ellos estaban reacios a encerrarlo, sin embargo, al final lo hicieron.
 Esto sucedió en la última parte del mes llamado Marzo,
@@ -627,6 +664,10 @@ de una mayor bendición en un esposo tan amable y afectuoso.
 Y cuán sincera y tiernamente lo amaba,
 se puede ver en la siguiente carta que ella le escribió.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Querido esposo,
 
 Eres más querido para mí que nunca; mi amor fluye hacia ti,
@@ -668,9 +709,14 @@ Un sonido jubiloso fue para mí oír que habías sido movido a ir a Bristol.
 En esa Vida que ahora sientes, actúa y obedece para que te mantengas en guardia,
 y que tus oraciones por mí sean que me mantenga pura, fuera de toda tentación,
 para morar plenamente en la vida.
+
+[.signed-section-closing]
 Así que adiós.
 
+[.signed-section-signature]
 Anne Audland.
+
+--
 
 De esta carta se desprende,
 que había un entrañable y mutuo amor entre esta virtuosa pareja.
@@ -808,13 +854,16 @@ el juez Turner le dijo:
 "`Aquí hay una acusación contra ti por rehusarte a prestar el juramento de lealtad,
 así que debes declararte culpable o no culpable.`"
 
+[.offset]
 F+++.+++ Howgill, con el corazón ceñido de fuerza y valor dijo: "`Juez Turner,
 ¿puedo tener la libertad de hablar y hacer mi defensa,
 ya que no tengo a nadie que defienda mi causa, sino al Señor?`"
 
-Juez: Puedes.
+[.discourse-part]
+__Juez:__ Puedes.
 
-F+++.+++ Howgill: Expondré delante de ustedes el verdadero estado de mi caso,
+[.discourse-part]
+__F+++.+++ Howgill:__ Expondré delante de ustedes el verdadero estado de mi caso,
 y de los procedimientos contra mí desde el principio,
 ya que el juez Twisden no está aquí,
 y era el que tenía conocimiento de todos los procedimientos hasta ahora.
@@ -854,7 +903,8 @@ y con esas mismas palabras testificaré en una audiencia pública si se requiere
 Y dado que es la sustancia misma que la ley requiere,
 solicito que se acepte y que yo sea liberado del encarcelamiento.
 
-Juez: Yo he venido para ejecutar la ley, y la ley requiere un juramento,
+[.discourse-part]
+__Juez:__ Yo he venido para ejecutar la ley, y la ley requiere un juramento,
 y no puedo alterarla.
 ¿Acaso piensas que la ley debe ser cambiada para ti, o para unos pocos?
 Si se permitiera esto, la administración de justicia sería entorpecida,
@@ -864,7 +914,8 @@ Tus principios son completamente inconsistentes con la ley y el gobierno;
 te pido que me muestres el camino que debemos seguir,
 muéstrame alguna razón y dame algún fundamento.
 
-F+++.+++ Howgill: Lo haré,
+[.discourse-part]
+__F+++.+++ Howgill:__ Lo haré,
 "`En la boca de dos o tres testigos toda verdad es confirmada;`" y nunca
 hemos negado dar y todavía estamos dispuestos a dar evidencia al rey,
 en lo que nos concierne,
@@ -872,10 +923,12 @@ y en cualquier otro asunto para poner fin a la disputa
 entre hombre y hombre en la verdad y justicia,
 y esto responde a la sustancia de la ley.
 
-Juez: ¿Crees que esa es una buena respuesta?
+[.discourse-part]
+__Juez:__ ¿Crees que esa es una buena respuesta?
 La ley requiere un juramento.
 
-F+++.+++ Howgill: Aun así, la evidencia es y puede ser dada en la verdad,
+[.discourse-part]
+__F+++.+++ Howgill:__ Aun así, la evidencia es y puede ser dada en la verdad,
 en concordancia con la sustancia de la ley,
 de manera que no se perjudique a ninguna de las partes,
 dado que el verdadero testimonio puede darse sin un juramento.
@@ -888,31 +941,37 @@ en ternura de consciencia, por temor a quebrantar el mandamiento de Cristo,
 el Salvador del mundo; que si lo hiciéramos,
 ninguno de ustedes sería capaz de defender nuestra causa ante Él.
 
-Juez: Pero, ¿por qué no van a la iglesia,
+[.discourse-part]
+__Juez:__ Pero, ¿por qué no van a la iglesia,
 sino que se reúnen en casas y conventículos privados, lo cual prohíbe la ley?
 
-F+++.+++ Howgill:
+[.discourse-part]
+__F+++.+++ Howgill:__
 Nosotros nos reunimos sólo para adorar al Dios verdadero en Espíritu y Verdad,
 teniendo a los Cristianos primitivos como ejemplo, y para ningún otro fin,
 sino para ser edificados y Dios glorificado;
 y cuando dos o tres están reunidos en el nombre de Cristo, y Él está en medio de ellos,
 hay una iglesia.
 
-Juez: Eso es cierto.
+[.discourse-part]
+__Juez:__ Eso es cierto.
 Pero, ¿hace cuánto que no vas a la iglesia?
 O, ¿irás a la iglesia que la ley sí permite?
 Dame algunas razones por las que no vas.
 
-F+++.+++ Howgill: Tengo muchas que darte, si tienes paciencia de oírme.
+[.discourse-part]
+__F+++.+++ Howgill:__ Tengo muchas que darte, si tienes paciencia de oírme.
 Primera, Dios no habita en templos hechos por manos de hombres.
 Segunda, la casa de la parroquia ha sido un templo para ídolos, es decir,
 para sus ceremonias e imágenes; y no me atrevo a tener comunión con ídolos,
 ni adorar en templos de ídolos; porque, ¿qué tenemos que ver nosotros con ídolos,
 sus templos y adoración?
 
-Juez: ¿No había casas en las Escrituras llamadas casas de Dios y templos?
+[.discourse-part]
+__Juez:__ ¿No había casas en las Escrituras llamadas casas de Dios y templos?
 
-F+++.+++ Howgill: Sí, bajo la ley; pero los Cristianos, los que habían creído en Cristo,
+[.discourse-part]
+__F+++.+++ Howgill:__ Sí, bajo la ley; pero los Cristianos, los que habían creído en Cristo,
 se separaron de estas (y el templo fue hecho y dejado
 desolado) y de los templos gentiles también,
 y se reunían en casas, y partían el pan de casa en casa.
@@ -920,25 +979,34 @@ Y la iglesia no estaba confinada entonces en un determinado lugar, ni lo está a
 muchas más cosas tengo que decir.
 +++[+++El juez interrumpió.]
 
-Juez: ¿Responderás a tu acusación?
+[.discourse-part]
+__Juez:__ ¿Responderás a tu acusación?
 
-F+++.+++ Howgill: No sé qué es, nunca la he oído, aunque a menudo he pedido una copia.
+[.discourse-part]
+__F+++.+++ Howgill:__ No sé qué es, nunca la he oído, aunque a menudo he pedido una copia.
 
-Juez: ¡Secretario, léela!
+[.discourse-part]
+__Juez:__ ¡Secretario, léela!
 
+[.offset]
 Entonces, el secretario la leyó, declarando que F. Howgill, "`se había negado testaruda,
 obstinada y despectivamente a jurar cuando se le había presentado el juramento.`"
 
-F+++.+++ Howgill: Lo niego.
+[.discourse-part]
+__F+++.+++ Howgill:__ Lo niego.
 
-Juez: ¿Qué niegas?
+[.discourse-part]
+__Juez:__ ¿Qué niegas?
 
-F+++.+++ Howgill: La acusación.
+[.discourse-part]
+__F+++.+++ Howgill:__ La acusación.
 
-Juez: ¿No te negaste a jurar?
+[.discourse-part]
+__Juez:__ ¿No te negaste a jurar?
 La acusación te declara culpable por no haber jurado.
 
-F+++.+++ Howgill: Yo le di al tribunal la sustancia del juramento, como todos saben.
+[.discourse-part]
+__F+++.+++ Howgill:__ Yo le di al tribunal la sustancia del juramento, como todos saben.
 Segundo, les dije que no lo negaba obstinada o testarudamente,
 ni en desprecio a la ley del rey ni del gobierno;
 porque mi voluntad preferiría escoger mi libertad, que cadenas.
@@ -953,10 +1021,14 @@ y que sufriría el despojo de mi propiedad,
 y la ruina de mi esposa y mis niños por obstinación y testarudez?
 Ciertamente no.
 
-Juez: Jurado, ustedes pueden ver que él niega el juramento,
+[.discourse-part]
+__Juez:__ Jurado, ustedes pueden ver que él niega el juramento,
 y que no se declarará culpable de la acusación,
 sino que objeta contra ella por la forma de las palabras; pero pueden ver que no jura,
 y que aun así niega la acusación, y ven en qué se basa.
+
+[.small-break]
+'''
 
 Entonces llamaron al carcelero para que atestiguara
 y jurara que en la última sesión del tribunal,
@@ -970,7 +1042,8 @@ Francis fue llevado al estrado para recibir su sentencia.
 El juez se puso de pie y dijo: "`Vamos, la acusación está aprobada contra ti,
 ¿qué tienes que decir del por qué no debería ser dada la sentencia?`"
 
-F+++.+++ Howgill: Tengo muchas cosas que decir, si desean escucharlas.
+[.discourse-part]
+__F+++.+++ Howgill:__ Tengo muchas cosas que decir, si desean escucharlas.
 En primer lugar, como he dicho, no me he negado por obstinación o testarudez,
 sino que he estado dispuesto a testificar la verdad en este asunto de la obediencia,
 o en cualquier otro asunto en el que esté involucrado.
@@ -994,31 +1067,42 @@ citó a muchos antiguos padres para demostrar,
 que por los primeros trescientos años los Cristianos no juraron,
 de modo que esta no es una doctrina nueva.
 
+[.small-break]
+'''
+
 El tribunal pareció prestarle un poco de atención a esto y no dijo nada,
 sino que hablaron entre ellos, mientras Francis permanecía en silencio.
 Entonces el juez dijo:
 
-Juez: De seguro que te equivocas.
+[.discourse-part]
+__Juez:__ De seguro que te equivocas.
 
-F+++.+++ Howgill: No tengo los libros aquí.
+[.discourse-part]
+__F+++.+++ Howgill:__ No tengo los libros aquí.
 
-Juez: ¿Dices bajo tu honesta palabra que ellos negaban todo juramento?
+[.discourse-part]
+__Juez:__ ¿Dices bajo tu honesta palabra que ellos negaban todo juramento?
 
-F+++.+++ Howgill: Lo que he dicho es cierto.
+[.discourse-part]
+__F+++.+++ Howgill:__ Lo que he dicho es cierto.
 
-Juez: ¿Por qué ustedes no van a la iglesia y oyen el servicio,
+[.discourse-part]
+__Juez:__ ¿Por qué ustedes no van a la iglesia y oyen el servicio,
 y se sujetan a la ley y a cada ordenanza del hombre por causa del Señor?
 
-F+++.+++ Howgill: Nosotros estamos sujetos, y por esa causa pagamos impuestos,
+[.discourse-part]
+__F+++.+++ Howgill:__ Nosotros estamos sujetos, y por esa causa pagamos impuestos,
 tributos y rentas, y le damos al César las cosas que son del César,
 y a Dios las cosas que son de Dios, a saber, adoración, honor y obediencia;
 y si te refieres a la asamblea parroquial, honestamente te digo, que estoy persuadido,
 sobre un buen fundamento, que sus maestros no son los ministros de Cristo,
 ni su adoración la adoración de Dios.
 
-Juez: ¡Vaya, por unos pequeños desacuerdos en el servicio lo rechazan todo!
+[.discourse-part]
+__Juez:__ ¡Vaya, por unos pequeños desacuerdos en el servicio lo rechazan todo!
 
-F+++.+++ Howgill: En primer lugar, es evidente que son servidores del tiempo;^
+[.discourse-part]
+__F+++.+++ Howgill:__ En primer lugar, es evidente que son servidores del tiempo;^
 footnote:[Un "`servidor del tiempo`" es aquel que
 adapta sus opiniones y modales a los tiempos,
 o a los cambiantes poderes gobernantes.]
@@ -1029,9 +1113,11 @@ Y lo que han predicado por veinte años seguidos, lo hacen naufragar en un día;
 y más tarde lo volverán a llamar divino,
 y obligarán a todos a creer lo que ellos mismo anularon una vez.
 
-Juez: ¿Cómo, desde que el rey entró?
+[.discourse-part]
+__Juez:__ ¿Cómo, desde que el rey entró?
 
-F+++.+++ Howgill: Sí, los mismos hombres que predicaron en su contra una vez,
+[.discourse-part]
+__F+++.+++ Howgill:__ Sí, los mismos hombres que predicaron en su contra una vez,
 ahora lo recomiendan y obligan a todos a creer.
 Son tan inestables y vacilantes, que no podemos creer que sean los ministros de Cristo.
 En segundo lugar, enseñan por un salario, viven de un mantenimiento forzado,
@@ -1048,32 +1134,43 @@ encarcelamientos y destierros.
 Podría mencionar más detalles.
 +++[+++Entonces el juez interrumpió.]
 
-Juez: Bien, veo que no juran, ni se conforman, ni se sujetan,
+[.discourse-part]
+__Juez:__ Bien, veo que no juran, ni se conforman, ni se sujetan,
 y piensan que los tratamos severamente, pero si se sujetaran, no sería necesario.
 
-F+++.+++ Howgill: En efecto,
+[.discourse-part]
+__F+++.+++ Howgill:__ En efecto,
 juzgo que nos tratan con severidad por obedecer el mandamiento de Cristo.
 ¿Podrías mostrarme cómo han procedido con este estatuto,
 contra las personas para las que se hizo la ley?
 Aunque no envidio la libertad de nadie.
 
-Juez: ¡Oh,
+[.discourse-part]
+__Juez:__ ¡Oh,
 sí! Puedo citar a muchos en todo el condado que han
 sido procesados con el estatuto premunire.
 Yo mismo lo he hecho, he dictado la sentencia contra varios.
 
-F+++.+++ Howgill: ¿Contra los papistas?
+[.discourse-part]
+__F+++.+++ Howgill:__ ¿Contra los papistas?
 
-Juez: No.
+[.discourse-part]
+__Juez:__ No.
 
-F+++.+++ Howgill: ¿Contra los Cuáqueros?
+[.discourse-part]
+__F+++.+++ Howgill:__ ¿Contra los Cuáqueros?
 Sí, eso he oído. Por tanto, aunque el estatuto fue hecho contra los papistas,
 ustedes los dejan en paz y lo ejecutan contra los Cuáqueros.
 
-Juez: Bien, ustedes desean reunirse en gran número, y siguen aumentando,
+[.discourse-part]
+__Juez:__ Bien, ustedes desean reunirse en gran número, y siguen aumentando,
 pero hay un nuevo estatuto que hará que sean menos.
 
-F+++.+++ Howgill: Bien, si debemos sufrir, es por causa de Cristo y hacer el bien.
+[.discourse-part]
+__F+++.+++ Howgill:__ Bien, si debemos sufrir, es por causa de Cristo y hacer el bien.
+
+[.small-break]
+'''
 
 Estando Francis en silencio, el juez pronunció la sentencia, pero habló en voz tan baja,
 que el prisionero, aunque estaba cerca de él, apenas pudo oírla.
@@ -1081,16 +1178,20 @@ La sentencia fue: "`Quedas fuera de la protección del rey y del beneficio de la
 tus tierras son confiscadas para el rey durante todo tu vida,
 y tus bienes y pertenencias para siempre; estarás preso durante toda tu vida.`"
 
-F+++.+++ Howgill: Una sentencia dura por mi obediencia a los mandamientos de Cristo;
+[.discourse-part]
+__F+++.+++ Howgill:__ Una sentencia dura por mi obediencia a los mandamientos de Cristo;
 el Señor los perdone a todos.
 
+[.offset]
 Entonces se apartó del estrado, pero al hablar el juez, se volvió de nuevo,
 y se expresaron muchas palabras con el mismo propósito de antes.
 Al final, el juez se levantó y dijo:
 
-Juez: Bien, si todavía quisieras someterte a la ley, el rey te mostrará misericordia.
+[.discourse-part]
+__Juez:__ Bien, si todavía quisieras someterte a la ley, el rey te mostrará misericordia.
 
-F+++.+++ Howgill: El Señor ha mostrado misericordia hacia mí,
+[.discourse-part]
+__F+++.+++ Howgill:__ El Señor ha mostrado misericordia hacia mí,
 y no he hecho nada en contra del rey, ni del gobierno, ni de ningún hombre;
 ¡y bendito sea el Señor, en eso está mi paz!
 Pues es por causa de Cristo que sufro y no por hacer el mal.
@@ -1112,12 +1213,16 @@ amigos a la constancia y firmeza en la doctrina de la Verdad,
 sino también algunos libros para refutar a los que se oponían a ella.
 
 Acabamos de ver cómo el juez dijo: "`Hay un nuevo estatuto que hará que sean menos.`"
-Este estatuto llevaba el título de "`An Act to Prevent and Suppress Seditious Conventicles.^
-footnote:["`Ley para Prevenir y Suprimir los Conventículos Sediciosos.`"]`"
+Este estatuto llevaba el título de "`__An Act to Prevent and Suppress Seditious Conventicles.__`"^
+footnote:["`__Ley para Prevenir y Suprimir los Conventículos Sediciosos.__`"]
 Y aunque una ley promulgada dos años antes se extendía hasta el destierro,
 ese castigo fue renovado y expresado con más amplitud en esta nueva ley,
 un extracto de la cual es como sigue:
 
+[.embedded-content-document.legal]
+--
+
+[.letter-heading]
 Ley para Prevenir y Suprimir los Conventículos Sediciosos
 
 Para proporcionar adicionales y más rápidos remedios contra
@@ -1190,6 +1295,8 @@ quedarán habilitados y obligados por la presente a registrar
 o anotar tales negativas como una condena por el delito;
 y toda persona que infrinja de esta manera,
 sufrirá la sentencia y castigo de destierro al extranjero en la forma previamente descrita.
+
+--
 
 Un erudito en Londres, no sé de qué persuasión religiosa,
 publicó un librito en relación con esta ley,
@@ -1452,7 +1559,7 @@ La respuesta de ellos fue: "`Somos inocentes,
 y no hemos transgredido ninguna ley justa de Dios o del hombre para merecer esa sentencia.
 Dejamos todo al testigo de Dios en sus consciencias.`"
 Entonces el juez dijo:
-"`Ustedes han transgredido esta ley (con el acta de la ley
+"`Ustedes han transgredido __esta__ ley (con el acta de la ley
 delante de ellos) hecha por el rey y el Parlamento,
 y ejecutada por nosotros sus ministros subordinados.
 Si no es recta y justa, debemos responder por ello.`"
@@ -1552,8 +1659,8 @@ Pero quedó demostrado cuán doloroso había sido este caso para algunos,
 por la triste confesión de uno de los miembros del jurado,
 quien para tranquilizar su consciencia publicó de
 manera impresa un pequeño libro con el título,
-The Wounded Heart, or The Juryman`'s Offenses.^
-footnote:[El Corazón Herido, o Los Delitos del Jurado.]
+__The Wounded Heart, or The Juryman`'s Offenses.__^
+footnote:[__El Corazón Herido, o Los Delitos del Jurado.__]
 En este libro el desaprobó abiertamente la acusación que fue inducido a aceptar por temor.
 Y se informó que el secretario había dicho,
 que él habría preferido pagar veinte libras antes que haberse tomado tantas
@@ -1719,8 +1826,13 @@ Otros no dejaron de exhortar al rey y al Parlamento para
 que dejaran la persecución. Entre estos estaba William Bayly,
 quien expresó la siguiente exhortación y seria advertencia contra la persecución:
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 Para el Rey y el Parlamento, etc.
 
+[.salutation]
 Amigos,
 
 El Dios del cielo ha puesto en mi corazón escribir unas pocas palabras para ustedes,
@@ -1933,8 +2045,13 @@ Y luego (tan cierto como que Dios vive),
 las inundaciones vendrán sobre ustedes y caerán a la manera de Egipto;
 y el peso de los pavorosos juicios repentinamente los hundirán en el pozo sin fondo.
 
+[.signed-section-closing]
 Del siervo de Dios, amante del bienestar de todas sus almas,
 
-William Bayly,
+[.signed-section-signature]
+William Bayly
 
+[.signed-section-context-close]
 Escrito en el mes Diez de 1664, en Hartford.
+
+--
