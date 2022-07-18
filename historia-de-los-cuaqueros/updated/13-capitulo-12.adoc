@@ -1,7 +1,7 @@
 == Capítulo 12
 
 [.section-date]
-1662-1664
+1662--1664
 
 [.chapter-synopsis]
 * Daniel Baker en Malta y Gibraltar

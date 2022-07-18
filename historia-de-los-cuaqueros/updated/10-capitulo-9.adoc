@@ -1,7 +1,7 @@
 == Capítulo 9
 
 [.section-date]
-1659-1660
+1659--1660
 
 [.chapter-synopsis]
 * W. Caton en Holanda
