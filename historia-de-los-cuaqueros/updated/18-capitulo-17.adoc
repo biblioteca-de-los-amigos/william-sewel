@@ -3,12 +3,26 @@
 [.section-date]
 1668--1670
 
-Convencimiento de W. Penn--Qué trae la salvación--G. Fox y esquire Marsh--La infanticida
-penitente--Expresiones de T. Loe al morir--Disputa entre los Bautistas y los Amigos--"`El
-Fundamento de Arena se Tambalea`"--Circunstancias que acompañaron la muerte de J. Coale--Muerte
-de F. Howgill--Excelente consejo para las jóvenes doncellas--G. Fox en Irlanda--Solomon
-Eccles--Historia de G. Fox convertido al Presbiterianismo--Matrimonio de G. Fox--Margaret
-Fox en prisión--Segundo conventículo--Ley--Informantes--Enfermedad de G. Fox.
+[.chapter-synopsis]
+* Convencimiento de W. Penn
+* Qué trae la salvación
+* G. Fox y esquire Marsh
+* La infanticida penitente
+* Expresiones de T. Loe al morir
+* Disputa entre los Bautistas y los Amigos
+* "`El Fundamento de Arena Sacudido`"
+* Circunstancias que acompañaron la muerte de J. Coal
+* Muerte de F. Howgill
+* Excelente consejo para las jóvenes doncellas
+* G. Fox en Irlanda
+* Solomon Eccles
+* Historia de G. Fox "`convertido`" al Presbiterianismo
+* Matrimonio de G. Fox
+* Margaret Fox en prisión
+* Segundo conventículo
+* Ley
+* Informantes
+* Enfermedad de G. Fox.
 
 A principios del año 1668, William Penn, hijo del almirante sir William Penn,
 empezó a mostrarse abiertamente partidario y afirmador
@@ -72,7 +86,7 @@ y que a eso se le llame bautizar y cristianizar.`"
 
 Entonces el papista le preguntó si él no reconocía la fe Católica.
 "`Sí,`" dijo G. Fox, "`pero ni el papa ni los papistas están en la fe católica;^
-footnote:[La palabra católica significa universal.]
+footnote:[La palabra __católica__ significa universal.]
 ya que la verdadera fe obra por el amor y purifica el corazón.
 Y si ellos estuvieran en esa fe que da la victoria,
 por la que podrían tener acceso a Dios,
@@ -250,7 +264,7 @@ afectó tanto al juez que las lágrimas le corrían por el rostro, y muy entrist
 Tal vez tú, que no eres más que una joven y hablas tan piadosamente,
 como una persona que ha sido golpeada en el corazón por el arrepentimiento,
 habrías podido hacer mucho bien en el mundo.
-Pero ahora me obligas que, ex officio,^
+Pero ahora me obligas que, __ex officio__,^
 footnote:[Obligación bajo la que está alguien en virtud de su oficio.]
 pronuncie la sentencia de muerte contra ti, ya que no permites ninguna excusa.`"
 
@@ -400,15 +414,10 @@ pero en lugar de ello, Vincent planteó esta pregunta:
 Al decir Whitehead y los que estaba con él que esa no era una doctrina de las Escrituras,
 formuló este silogismo.
 
-Hay tres que dan testimonio en el cielo; el Padre, la Palabra y el Espíritu Santo:
-y estos tres son uno.
-
-Estos son, o bien tres manifestaciones, tres operaciones, tres sustancias,
-o tres algo más, además de subsistencias.
-
-Pero ellos no son tres manifestaciones, tres operaciones, tres sustancias,
-ni tres algo más, además de subsistencias.
-Ergo, ellos son tres subsistencias.
+[.syllogism]
+* Hay tres que dan testimonio en el cielo; el Padre, la Palabra y el Espíritu Santo: y estos tres son uno.
+* Estos son, o bien tres manifestaciones, tres operaciones, tres sustancias, o tres algo más, además de subsistencias.
+* Pero ellos no son tres manifestaciones, tres operaciones, tres sustancias, ni tres algo más, además de subsistencias. Ergo, ellos son tres subsistencias.
 
 G+++.+++ Whitehead rechazó esos términos porque no se encuentran en las Escrituras,
 y no se pueden deducir de 1 Juan 5:7,
@@ -440,13 +449,10 @@ Pedro y Juan podían ser tres personas y todavía ser un apóstol.
 Ante esto, un tal Maddocks, uno de los ayudantes de Vincente,
 formuló este extraño silogismo:
 
-El que con desdén y reproche compara nuestra doctrina de la bendita Trinidad del Padre,
-Hijo y Espíritu, uno en esencia pero tres en personas,
-con tres hombres finitos como Pablo, Pedro y Juan, es un blasfemo.
-
-Pero tú, George Whitehead, lo has hecho.
-
-Ergo, tú eres un blasfemo.
+[.syllogism]
+* El que con desdén y reproche compara nuestra doctrina de la bendita Trinidad del Padre, Hijo y Espíritu, uno en esencia pero tres en personas, con tres hombres finitos como Pablo, Pedro y Juan, es un blasfemo.
+* Pero tú, George Whitehead, lo has hecho.
+* Ergo, tú eres un blasfemo.
 
 Una conclusión precipitada, pero dejo que el lector juicioso determine cuán sólida es.
 No tengo interés en adentrarme más en esta disputa,
@@ -465,7 +471,7 @@ indagaran en las doctrinas de los Cuáqueros,
 y así algunos llegaron a convencerse de su veracidad.
 
 Ahora bien, como la mencionada disputa hizo un gran ruido en Londres,
-William Penn publicó un libro con el título, The Sandy Foundation Shaken,^
+William Penn publicó un libro con el título, [.book-title]#The Sandy Foundation Shaken#,^
 footnote:[El Fundamento de Arena Sacudido.]
 en el que explicaba los puntos disputados y defendía su
 posición con buenas razones y con las Sagradas Escrituras.
@@ -661,6 +667,10 @@ Por eso él llamó a su niña Abigail,
 que significa '`el gozo del padre.`' En este testamento le da las
 siguientes instrucciones para la conducta futura de su vida:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Abigail, querida hija,
 
 Esto es para que lo observes, lo guardes y le prestes atención todos los días de tu vida,
@@ -746,7 +756,7 @@ y en la medida que lo ames,
 eso también los someterá y te preservará fuera del mal para el tiempo por venir.
 
 Porque aunque tú hayas nacido en el mundo como una criatura racional,
-aun así debes nacer de nuevo y ser hecha una nueva criatura, de lo contrario,
+aun así debes nacer de nuevo y ser hecha una __nueva criatura__, de lo contrario,
 no podrás entrar en el reino de Dios.
 Debes conocer a la Semilla del reino en ti misma (de la
 que debes nacer) y ser formada de nuevo a la imagen de Dios.
@@ -887,11 +897,16 @@ Guarda mis palabras en tu corazón y hazlas; así serás feliz en esta vida y en
 Te encargo que guardes estas cosas, como expresión de mi mente,
 voluntad y consejo inalterables para ti; en testimonio de lo cual he firmado.
 
+[.signed-section-closing]
 Tu querido padre,
 
+[.signed-section-signature]
 Francis Howgill.
 
+[.signed-section-context-close]
 26 del mes Quinto de 1666
+
+--
 
 A principios de este año,
 los miembros de esta sociedad celebraron la reunión general anual en Londres,
@@ -1149,13 +1164,19 @@ para que la pusiera en libertad;
 y con dicha carta G. Fox apresuró a sus hijas hacia el condado.
 
 El Parlamento entonces reunido, promulgó una ley titulada:
-Ley para Prevenir y Suprimir los Conventículos Sediciosos, la cual es como sigue:
+__Ley para Prevenir y Suprimir los Conventículos Sediciosos__, la cual es como sigue:
+
+[.embedded-content-document.legal]
+--
 
 Para proporcionar mayores y más rápidos remedios contras las crecientes
 y peligrosas prácticas de sectas sediciosas y otras personas desleales,
 quienes bajo el pretexto de tierna consciencia,
 tienen o pueden en sus reuniones planear insurrecciones
 (como ha demostrado la experiencia reciente):
+
+[.small-break]
+'''
 
 I+++.+++ Se decreta por la excelentísima majestad del rey,
 por y con el consejo y consentimiento de los señores espirituales y temporales,
@@ -1172,15 +1193,18 @@ será legal para uno o más jueces de paz del condado levantar un acta de cada i
 y firmarlas y sellarlas respectivamente.
 Y a partir de ahí, el mencionado juez, o jueces, o magistrado en jefe,
 impondrá sobre cada ofensor así acusado,
-una multa de cinco chelines por sus primera ofensa;
+__una multa de cinco chelines por sus primera ofensa__;
 cuyo registro y condena serán certificados por dicho juez, jueces, o magistrado en jefe,
 en las siguientes reuniones trimestrales del condado o lugar donde se cometió la infracción.
+
+[.small-break]
+'''
 
 II. Se decreta además, por la autoridad antes mencionada,
 que si un transgresor así condenado,
 en algún momento vuelve a cometer el mismo delito o delitos
 en contra de esta ley y es condenado por ello,
-dicho transgresor incurrirá en la pena de diez chelines por cada infracción;
+dicho transgresor __incurrirá en la pena de diez chelines__ por cada infracción;
 dicha multa o multas serán cobradas con la incautación
 y venta de los bienes y propiedades del transgresor;
 o en caso de pobreza del transgresor,
@@ -1191,11 +1215,14 @@ de modo que la suma que se imponga a una persona
 en caso de pobreza y se le cobre a otros transgresores,
 no supere en su totalidad la suma de diez libras, en ocasión de una reunión.
 
+[.small-break]
+'''
+
 III.
 Se decreta por la autoridad antes mencionada,
 que cada persona que se encargue de predicar o enseñar en cualquiera de estas reuniones,
 asambleas o conventículos, y por esa razón sea condenada, como se ha dicho,
-perderá por su primera transgresión la suma de veinte libras,
+perderá por su primera transgresión __la suma de veinte libras__,
 que serán cobradas de la manera ya mencionada con sus bienes o propiedades.
 Y si dicho predicador o maestro es extranjero, y se desconocen su nombre y residencia,
 o ha huido, o no puede ser hallado, o a juicio del juez,
@@ -1206,17 +1233,22 @@ de cualquiera de las personas presentes en el mismo conventículo.
 Y si dicho transgresor así condenado,
 en algún momento vuelve a cometer el mismo delito o delitos en contra de esta ley,
 y es condenado por ello de la manera antes mencionada,
-entonces por cada transgresión incurrirá en la pena de cuarenta libras,
+entonces por cada transgresión __incurrirá en la pena de cuarenta libras__,
 que se cobrarán y dispondrán como se ha dicho.
+
+[.small-break]
+'''
 
 IV. Se decreta por la autoridad antes mencionada,
 que toda persona que voluntariamente permita que se celebre cualquier conventículo,
 reunión o asamblea ilícita en su casa, anexo, granero o patio,
-y es condenada por ello de la manera antes mencionada, perderá la suma de veinte libras,
+y es condenada por ello de la manera antes mencionada, __perderá la suma de veinte libras__,
 que serán cobradas de la manera ya mencionada, con sus bienes y propiedades;
 o en caso de pobreza o incapacidad,
 con los bienes y propiedades de las personas que
 sean condenadas por estar presentes en el mismo conventículo; etc.
+
+--
 
 Por esta ley muchos familias se empobrecieron,
 porque los Cuáqueros no dejaron de reunirse públicamente.
@@ -1365,7 +1397,7 @@ y siempre hemos sido encontrados pacíficos.
 Por tanto, tú harías bien en diferenciar al inocente del culpable.`"
 Entonces el alcalde dijo que la ley había sido hecha contra las reuniones,
 y contra la adoración que no estaba acorde con la liturgia.
-G+++.+++ Fox le dijo, "`acorde con no significa que tenga que ser exactamente la misma.`"
+G+++.+++ Fox le dijo, "`__acorde con__ no significa que tenga que ser __exactamente la misma__.`"
 ¿Es la liturgia acorde con las Escrituras?
 ¿Podemos no leer las Escrituras y hablar de las Escrituras?`"
 El alcalde dijo: "`Sí.`" Entonces G. Fox le dijo:
