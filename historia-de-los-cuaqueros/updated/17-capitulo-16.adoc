@@ -3,35 +3,58 @@
 [.section-date]
 1664--1667
 
-Continuación de la persecución bajo la Ley de los Conventículos--Relato
-de los padres del autor--"`Epístola a los Amigos de la Verdad`"--Seiscientos
-Amigos en las cárceles de Inglaterra--Algunos de los desterrados son desembarcados
-por los capitanes de los barcos--No se permite que los barcos naveguen
-hacia las Indias Occidentales sin llevar a los Cuáqueros desterrados--Plaga
-en Londres--Otros juicios y destierros de Cuáqueros--I. Penington,
-sobre la persecución--G. Fox y Margaret Fell de nuevo juzgados y castigados con la sentencia
-de premunire--Traslado de G. Fox al castillo de Scarborough--Interesantes entrevistas--Incidentes
-en la vida de W. Dundas--Muerte de W. Caton--Muerte de muchos Amigos desterrados a bordo
-del barco--Capturados por un corsario--G. Fox y el Dr. Cradock--G. Fox liberado--Gran
-incendio en Londres--T. Ibbitt--Epístola de S. Crisp--Persecución de W. Armorer--Muerte
-de R. Farnsworth--Robert Barclay--Perseguidores de M. Halhead.
+[.chapter-synopsis]
+* Continuación de la persecución bajo la Ley de los Conventículos
+* Relato de los padres del autor
+* Epístola a los Amigos de la Verdad
+* Seiscientos Amigos en las cárceles de Inglaterra
+* Algunos de los desterrados son desembarcados por los capitanes de los barcos
+* No se permite que los barcos naveguen hacia las Indias Occidentales sin llevar a los Cuáqueros desterrados
+* Plaga en Londres
+* Otros juicios y destierros de Cuáqueros
+* I. Penington sobre la persecución
+* G. Fox y Margaret Fell de nuevo juzgados y castigados con la sentencia de premunir
+* Traslado de G. Fox al castillo de Scarborough
+* Interesantes entrevistas
+* Incidentes en la vida de W. Dundas
+* Muerte de W. Caton
+* Muerte de muchos Amigos desterrados a bordo del barco
+* Capturados por un corsario
+* G. Fox y el Dr. Cradock
+* G. Fox liberado
+* Gran incendio en Londres
+* T. Ibbitt
+* Epístola de S. Crisp
+* Persecución de W. Armorer
+* Muerte de R. Farnsworth
+* Robert Barclay
+* Perseguidores de M. Halhead.
 
 En Diciembre, de nuevo, doce de los llamados Cuáqueros fueron condenados al destierro;
 porque se había resuelto continuar,
 a pesar de lo que George Bishop había publicado en forma impresa,
 y había hecho que se entregara al rey y a los miembros del Parlamento, lo cual decía:
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 Para el rey y ambas Cámaras del Parlamento, el Señor dice esto:
 
-"`No se entrometan con mi pueblo por causa de sus consciencias para Conmigo,
+No se entrometan con mi pueblo por causa de sus consciencias para Conmigo,
 y no los destierren de la nación por sus consciencias; porque si lo hacen,
-enviaré Mis plagas sobre ustedes, y ustedes sabrán que Yo soy el Señor.`"
+enviaré Mis plagas sobre ustedes, y ustedes sabrán que Yo soy el Señor.
 
+[.signed-section-closing]
 Escrito en obediencia al Señor, por Su siervo,
 
-George Bishop,
+[.signed-section-signature]
+George Bishop
 
+[.signed-section-context-close]
 Bristol, 29 del mes Quinto de 1664.
+
+--
 
 Veremos el cumplimiento de esta predicción,
 porque en un corto tiempo se produjo una guerra contra los Holandeses,
@@ -232,7 +255,7 @@ sino que uno de los oradores terminó la reunión con una oración.
 
 Antes de ese momento,
 ella había escrito y publicado un pequeño libro a los de su antigua sociedad,
-el cual tituló, Serious Reproof of the Flemish Baptists^
+el cual tituló, [.book-title]#Serious Reproof of the Flemish Baptists#^
 footnote:[Seria Reprensión a los Bautistas de Flandes.],
 en el que trataba muy claramente con ellos y les mostraba cómo habían apostatado.
 También escribió algunos otros tratados, todavía impresos,
@@ -268,6 +291,10 @@ Para dar un pequeño ejemplo de su verdadero celo a Dios,
 insertaré aquí la siguiente epístola que les escribió a sus amigos,
 para despertar la mente pura en ellos.
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 Epístola a los Amigos de la Iglesia
 
 Gracia y paz sean multiplicadas entre ustedes, mis queridos y muy amados Amigos,
@@ -392,7 +419,10 @@ aunque no tengan una sola palabra para defenderse, permanecerán por encima de e
 Esto es escrito en amor a ustedes, de una planta joven,
 según el don recibido del Señor. Mi saludo es para todos ustedes en la luz de la verdad.
 
+[.signed-section-signature]
 Judith Zinspenning.
+
+--
 
 En el año 1664,
 salió impreso un pequeño libro dirigido al rey y a ambas cámaras del Parlamento,
@@ -451,7 +481,7 @@ fue llevado a bordo de un barco para ser transportado a las Indias Occidentales.
 Ya hemos visto cómo los que fueron sentenciados en Hertford por el juez Orlando Bridgman,
 regresaron a casa tras haber sido puestos en tierra por el capitán del barco.
 No mucho después de esto, tres de los amigos de estos,
-estando a bordo del barco llamado The Many-Fortune de Bristol,
+estando a bordo del barco llamado _The Many-Fortune_ de Bristol,
 también fueron puestos en tierra con un certificado del capitán del barco,
 firmado por él y siete de sus hombres,
 en el que declaraban que Dios les había hablado (por así decirlo) en sus corazones:
@@ -641,6 +671,9 @@ si era posible, de continuar con la maliciosa obra de persecución. En este docu
 que contiene algunas preguntas, entre muchas expresiones de peso,
 encuentro las siguientes:
 
+[.embedded-content-document.epistle]
+--
+
 A pesar de haber hecho todo lo que han podido, es decir,
 de haber promulgado leyes tan fuertes como han podido,
 y de ponerlas en ejecución de la manera más estricta posible;
@@ -752,6 +785,8 @@ Y si no podemos vencerlos así, es decir, en paciencia de espíritu y amor hacia
 y si el Señor nuestro Dios se complace en no comparecer por nosotros,
 nos contentamos con ser vencidos por ustedes.
 ¡Qué se haga la voluntad del Señor, dice mi alma!
+
+--
 
 El autor termina con una posdata que contiene una seria exhortación a abandonar el mal.
 Además de este,
@@ -1319,7 +1354,7 @@ Al llegar y encontrar otra vez que el antes mencionado oficial le negaba la entr
 el alcalde le encargó al oficial que no le impidiera a Caton visitar a los prisioneros.
 
 Por este tiempo se promulgó una ley en Inglaterra llamada,
-An Act for Restraining Non-Conformists from Inhabiting in Corporations.^
+__An Act for Restraining Non-Conformists from Inhabiting in Corporations.__^
 footnote:[Ley para Restringir a los No-Conformistas a Residir en Sociedades.]
 Esta ley fue principalmente promulgada contra los Presbiterianos e Independientes,
 que anteriormente habían estado empleados en la iglesia pública,
@@ -1330,11 +1365,16 @@ Todos los vicarios, curas,
 conferencistas y personas de órdenes santas estaban
 obligados por esta ley a prestar el siguiente juramento:
 
+[.embedded-content-document.legal]
+--
+
 Yo, +++______+++ juro que no es lícito, bajo ningún pretexto, tomar armas contra el rey;
 y que aborrezco esa posición traicionera de tomar armas contra su persona,
 o contra aquellos que son comisionados por él, en cumplimiento de dicha comisión;
 y que en ningún momento intentaré alguna alteración del gobierno,
 ya sea en la iglesia o en el estado, etc., bajo pena de perder 40£.
+
+--
 
 Pero aunque, como se ha dicho,
 esta ley fue principalmente dirigida contra los Presbiterianos e Independientes,
@@ -1515,14 +1555,21 @@ Obtenida esta orden,
 no se tardó mucho en llevarla a Scarborough y entregarla al gobernador,
 quien al recibirla, lo liberó y le dio el siguiente pasaporte:
 
+[.embedded-content-document.legal]
+--
+
 Permítase al portador de la presente, George Fox,
 recientemente prisionero aquí y liberado por orden de su majestad,
 seguir tranquilamente con sus legítimas ocupaciones, sin ser molestado.
 Firmado en Scarborough Castle, el día 1 de Septiembre,
 
+[.signed-section-signature]
 Jordan Croslands
 
+[.signed-section-context-close]
 Gobernador de Scarborough Castle.
+
+--
 
 G+++.+++ Fox, liberado de este modo,
 le habría dado algo al gobernador por la cortesía
@@ -1548,6 +1595,7 @@ y que al pasar Cheapside,
 había gritado que Dios destruiría Londres a menos
 que se arrepintiera como lo había hecho Nínive.
 
+[.offset]
 Ahora puedo relatar otra notable predicción.
 
 Thomas Ibbitt, de Huntingdonshire,
@@ -1647,6 +1695,10 @@ de lo que se le había mostrado algunos años antes.
 Pero a pesar de este golpe en Londres, la persecución no cesó,
 lo que le dio oportunidad a Josiah Coale de escribirle estas líneas al rey:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Rey Carlos,
 
 Pon al pueblo de Dios en libertad,
@@ -1658,16 +1710,25 @@ hasta que por medio de ellos Él haya obrado la libertad
 para Su pueblo y eliminado sus opresiones.
 Y recuerda que has sido advertido una vez más,
 
+[.signed-section-closing]
 Por un siervo del Señor,
 
+[.signed-section-signature]
 Josiah Coale,
 
+[.signed-section-context-close]
 Londres, 2 de Diciembre de 1666.
+
+--
 
 Por este tiempo, o tal vez el siguiente mes,
 Stephen Crisp publicó una epístola que contenía una exhortación para sus amigos,
 y una predicción con respecto a los tiempos venideros, la cual es como sigue:
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 Amigos,
 
 Me siento persuadido en este momento a visitarlos con una epístola,
@@ -1854,7 +1915,10 @@ Todavía viviremos para alabar a Aquel que es digno de gloria, de honor y de ren
 desde que sale el sol hasta que se pone, ahora y siempre!
 Amén, Amén, dice mi alma.
 
+[.signed-section-signature]
 Stephen Crisp
+
+--
 
 Un tal William Armorer muy a menudo llegaba a la casa de Thomas Curtis, en Reading,
 para perturbar la reunión allí, y tomaba a muchas personas prisioneras;
@@ -1984,7 +2048,7 @@ que incluso los espectadores mostraban su disgusto.
 Cuando una vez por falta de buenos testigos el jurado no pudo llegar a un acuerdo,
 Amorer se levantó del estrado y compareció como testigo.
 Pero a pesar de esto,
-el jurado regresó por segunda vez y emitió un veredicto de ignoramus.
+el jurado regresó por segunda vez y emitió un veredicto de _ignoramus_.
 Al oír esto, el otro juez le dijo al jurado que el señor William Armorer,
 un honorable caballero, también había prestado juramento en este caso.
 A esto el jurado replicó, que era cierto que William Amorer era un honorable caballero,
@@ -2058,12 +2122,12 @@ que por causa de las deudas cayeron en la pobreza.
 
 Por esta época cierto autor papista,
 que no expresó su nombre más allá que con la letras A. S., publicó un libro llamado,
-The Reconciler of Religions; or, A Decider of all Controversies in Matters of Faith.^
+[.book-title]#The Reconciler of Religions; or, A Decider of all Controversies in Matters of Faith#.^
 footnote:[El Reconciliador de Religiones; o,
 Un Decisor de Todas las Controversias en Materia de Fe.]
 Josiah Coale, quien era muy celoso de la verdad y vio bien lo que pretendía este autor,
-le respondió en un libro que apareció impreso, con el título, The Whore unveiled;
-or The Mystery of the Deceit of the Church of Rome revealed.^
+le respondió en un libro que apareció impreso, con el título, [.book-title]#The Whore unveiled;
+or The Mystery of the Deceit of the Church of Rome revealed#.^
 footnote:[La Ramera Desvelada; o, El Misterio del Engaño de la Iglesia Romana Revelado.]
 Ahora bien,
 aunque el mencionado A.S. atacó principalmente a los Cuáqueros como los peores herejes,
@@ -2139,15 +2203,18 @@ y entre las muchas expresiones que señalaban su buen
 estado de ánimo y el divino consuelo que sentía,
 estaban también estas palabras que fueron tomadas por escrito desde su boca:
 
-Amigos,
+[.embedded-content-document]
+--
 
-Dios ha estado poderosamente conmigo y ha estado a mi lado en este momento.
+Amigos, Dios ha estado poderosamente conmigo y ha estado a mi lado en este momento.
 Su poder y Su presencia me han acompañado todo el tiempo,
 aunque algunos piensen que estoy bajo una nube.
 Pero Dios ha aparecido para confirmar nuestro testimonio,
 y ha irrumpido en mí como una inundación,
 y estoy lleno de Su amor más de lo que soy capaz de expresar.
 Verdaderamente Dios ha aparecido por nosotros.
+
+--
 
 Esto lo dijo poco tiempo antes de su partida,
 y exhortó a sus amigos a la fidelidad y constancia,
