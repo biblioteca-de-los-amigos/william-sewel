@@ -3,17 +3,27 @@
 [.section-date]
 1670--1674
 
-Juicio de W. Penn y W. Mead--Valor de los prisioneros y resolución del jurado--Persecución
-de T. Rudyard por denunciar la injusticia del tribunal--Registrador Howell--Juez Whaley
-y los Amigos en Nottingham--Crueldades en Warwickshire--Reunión de Horslydown--S. Eccles
-y el sacerdote en Cork--Oración de G. Fox--G. Fox en
-América--Príncipe William de Orange--G.
-Fox vuelve a Inglaterra y es encarcelado--M. Halhead y el general Lambert--Carta de
-M+++.+++ Halhead a G. Fox--Juicio de G.
-Fox y T. Lower en Worcester--G. Fox permanece encarcelado--G.
-Fox ante el tribunal del Rey--Encarcelado en Worcester--Condenado con
-la sentencia premunire--Llevado
-de nuevo ante el tribunal del Rey.
+[.chapter-synopsis]
+* Juicio de W. Penn y W. Mead
+* Valor de los prisioneros y resolución del jurado
+* Persecución de T. Rudyard por denunciar la injusticia del tribunal
+* Registrador Howell
+* Juez Whaley y los Amigos en Nottingham
+* Crueldades en Warwickshire
+* Reunión de Horslydown
+* S. Eccles y el sacerdote en Cork
+* Oración de G. Fox
+* G. Fox en América
+* Príncipe William de Orange
+* G. Fox vuelve a Inglaterra y es encarcelado
+* M. Halhead y el general Lambert
+* Carta de M+++.+++ Halhead a G. Fox
+* Juicio de G. Fox y T. Lower en Worcester
+* G. Fox permanece encarcelado
+* G. Fox ante el tribunal del Rey
+* Encarcelado en Worcester
+* Condenado con la sentencia premunire
+* Llevado de nuevo ante el tribunal del Rey.
 
 Ahora, aunque la persecución no era tan fiera en Londres como en otros lugares del país,
 a veces, incluso ahí, era muy severa,
@@ -321,14 +331,20 @@ antes de que diera un veredicto más satisfactorio,
 ellos pidieron pluma y papel y volvieron a subir.
 Y al regresar media hora después, entregaron el siguiente veredicto por escrito:
 
+[.embedded-content-document.legal]
+--
+
 Nosotros, los jurados nombrados a continuación,
 encontramos a William Penn culpable de hablar o predicar en una asamblea,
 reunida en Gracechurch-street, el 14 de Agosto pasado, de 1670;
 y que William Mead no es culpable de dicha acusación.
 
+[.signed-section-signature]
 Foreman Thomas Veer, Charles Milson, Edward Bushel, Gregory Walklet, John Hammond,
 John Baily, Henry Henly, William Lever, Henry Michel, James Damask, John Brightman,
 William Plumsted.
+
+--
 
 Este veredicto fue tan altamente resentido por el alcalde y el registrador,
 que sobrepasaron los límites de toda moderación y civismo.
@@ -553,8 +569,7 @@ a los miembros de un jurado por veredictos.
 Creo que el libro que contenía el mencionado juicio de W. Penn y W. Mead,
 fue reimpreso más de una vez, porque llegó a ser muy solicitado,
 pues en él se defendieron bien las libertades del pueblo y se controló el poder arbitrario.
-El título del libro era,
-[.book-title]#Las Antiguas y Justas Libertades del Pueblo Afirmadas;#
+El título del libro era, [.book-title]#Las Antiguas y Justas Libertades del Pueblo Afirmadas;#
 y debajo se añadió este bien conocido verso de Juvenal:
 __Sic volo, sic jubeo; stat pro ratione voluntas.__^
 footnote:[Así lo deseo, así lo ordeno, mi voluntad está en lugar de la razón.]
@@ -583,7 +598,7 @@ bajo el pretexto de que él había "`incitado a las
 personas a la desobediencia de las leyes,
 e instigado y alentado a quienes se reunían en conventículos ilegales y sediciosos,
 en contra de la última ley.`"
-Pero este caso fue llevado delante de los jueces del Tribunal de Causas Comunes,
+Pero este caso fue llevado delante de los magistrados del Tribunal de Causas Comunes,
 en Westminster, por un __habeas corpus__^
 footnote:[Es decir,
 por el derecho que protege a cualquier ciudadano ante arrestos y detenciones arbitrarias.];
@@ -648,8 +663,8 @@ la cámara estaba tan profundamente endeudada que casi era increíble.
 Ahora bien, dado que Rudyard, como abogado,
 conocía mejor que muchos otros la ilegalidad de estos
 procedimientos contra él y sus amigos,
-escribió un tratado de esos actos judiciales, que llamó
-[.book-title]#Segunda Parte de Las Antiguas y Justas Libertades del Pueblo Afirmadas.#
+escribió un tratado de esos actos judiciales, que llamó [.book-title]#Segunda Parte
+de Las Antiguas y Justas Libertades del Pueblo Afirmadas.#
 Muchos verdaderos amantes de su país estaban complacidos con esta publicación,
 porque el partido que apoyaba al papismo, y por lo tanto,
 que se esforzaba por violar los derechos del pueblo,
@@ -669,6 +684,7 @@ aunque los testigos no la habían visto, como lo exigía la ley.
 Y ser informante se puso tan de moda,
 que incluso algunos magistrados se volvieron uno de ellos.
 
+[.centered]
 __¡Quid non mortalia pectora cogis Auri sacra fames!__^
 footnote:[Maldita sed de oro.
 ¿Hay algo que un mortal no haga por ti?]
@@ -751,7 +767,7 @@ Pero si yo mencionara los malos tratos cometidos en todos los condados y lugares
 Thomas Green, un hombre serio, con quien he estado muy familiarizado,
 estando en oración en una reunión en Sawbridgeworth, en Hertforshire,
 fue jalado de sus rodillas y arrastrado.
-Y al ser llevado delante de los jueces Robert Joslin y Humphrey Gore,
+Y al ser llevado delante de los magistrados Robert Joslin y Humphrey Gore,
 estos le impusieron una multa de veinte libras por
 hablar o predicar en la mencionada reunión,
 y le otorgaron una orden judicial a los alguaciles
@@ -763,7 +779,7 @@ continuó alimentando al rebaño y edificando a la iglesia con su don,
 en el que era muy útil.
 
 En otro momento,
-los jueces Peter Soames y Thomas Mead dieron una orden judicial
+los magistrados Peter Soames y Thomas Mead dieron una orden judicial
 para confiscar el valor de veinte libras de los bienes del
 mencionado Thomas Green por predicar en una reunión en Upper-Chissel,
 en Essex.
@@ -911,6 +927,9 @@ Al principio del año 1671, G. Fox estaba en Londres,
 y aunque seguía débil después de un tiempo de fuerte enfermedad, no dejó de predicar.
 Por esta época hizo la siguiente oración al Señor, la cual puso por escrito:
 
+[.embedded-content-document.prayer]
+--
+
 ¡Oh, Señor Dios Todopoderoso!
 Prospera la Verdad y preserva la justicia y la equidad en la tierra,
 y derriba toda la injusticia e iniquidad, la opresión y falsedad,
@@ -933,9 +952,13 @@ porque tales obras llevan a las personas al infierno.
 Por Tu misericordia derriba todas estas cosas en la nación para que tu ira, oh, Dios,
 deje de venir sobre la tierra.
 
+[.signed-section-signature]
 G+++.+++ Fox
 
+[.signed-section-context-close]
 Esta oración fue escrita el 17 en la noche, del mes Dos, de 1671.
+
+--
 
 G+++.+++ Fox, que pensaba que su esposa estaba en libertad,
 comprendió entonces que los enemigos de ella, a pesar de la orden del rey de liberarla,
@@ -1288,6 +1311,10 @@ insertaré aquí una copia de una carta que él le escribió a G. Fox en el año
 quien estaba prisionero en las cárcel de Worcester.
 Dicha carta es la siguiente:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 George Fox,
 
 Tú, querido y bien amado del Señor,
@@ -1318,7 +1345,10 @@ mientras habite y permanezca fiel a Aquel que es mi luz y mi vida, mi gozo y mi 
 Dios sobre todo, bendito para siempre.
 Amén.
 
+[.signed-section-signature]
 Miles Halhead.
+
+--
 
 En el mes llamado Enero, de 1674,
 G+++.+++ Fox y Thomas Lower fueron llevados a juicio en el tribunal de Worcester,
@@ -1326,7 +1356,7 @@ el último día de las sesiones.
 Cuando ellos entraron, los que estaban en el tribunal se pusieron pálidos,
 y permanecieron un tiempo sin poder hablar, a tal punto,
 que un carnicero en la sala dijo: "`¡Qué! ¿Tienen miedo?
-¿Los jueces no se atreven a hablarles?`"
+¿Los magistrados no se atreven a hablarles?`"
 Finalmente el juez Parker,
 por cuya orden G. Fox y T. Lower habían sido enviados a prisión,
 pronunció un gran discurso,
@@ -1427,7 +1457,7 @@ que sólo llega a visitarlos para buscar su propia ganancia.`"
 Entonces el juez se echó a reír, porque el Dr. Crowder, el sacerdote del que se hablaba,
 estaba en ese momento en la habitación, sentado entre ellos, aunque Lower no lo conocía;
 pero tuvo el sentido común de refrenar su lengua y de no tratar de vindicarse.
-Pero después de que Lower se marchó, los magistrados se burlaron tanto del Dr, Crowder,
+Pero después de que Lower se marchó, los magistrados se burlaron tanto del Dr. Crowder,
 que este se avergonzó y se molestó tanto,
 que amenazó con demandar a T. Lower ante el tribunal del obispo por difamación. No obstante,
 cuando T. Lower oyó esto le envió un mensaje diciendo que podía actuar así,
@@ -1447,7 +1477,7 @@ Una vez allí, se presentó ante el tribunal del rey, donde encontró magistrado
 Ellos lo oyeron pacientemente mientras les contaba cómo
 había sido detenido en su viaje y enviado a la cárcel;
 y cómo le habían presentado el juramento de lealtad y supremacía en su juicio;
-y lo que él les había ofrecido a los jueces como declaración,
+y lo que él les había ofrecido a los magistrados como declaración,
 y que estaba dispuesto a firmar dicha declaración
 en lugar de prestar los mencionados juramentos.
 A esto, el presidente del tribunal le dijo que ellos lo considerarían más adelante.
@@ -1602,7 +1632,7 @@ y se le pidió que pagara una fianza hasta las siguientes sesiones del tribunal.
 que no se metieran, porque había una trampa en ello.
 Sin embargo, les dijo a los magistrados que él prometía comparecer,
 si el Señor le daba salud y fuerza, y estaba en libertad.
-Algunos de los jueces se mostraron afectuosos,
+Algunos de los magistrados se mostraron afectuosos,
 y se esforzaron por impedir que el resto lo condenaran o le presentaran el juramento,
 pero el presidente dijo que él debía continuar de acuerdo con la ley.
 Con todo, le fue dada la libertad a G. Fox hasta las siguientes sesiones trimestrales.
@@ -1613,6 +1643,9 @@ se presentó de nuevo delante de los magistrados del tribunal del rey,
 y les entregó la siguiente declaración,
 exponiendo lo que él estaba dispuesto a prometer en lugar
 de prestar los juramentos de lealtad y supremacía.
+
+[.embedded-content-document.legal]
+--
 
 Declaro en la verdad y en la presencia de Dios,
 que el rey Carlos II es el legítimo rey de este reino,
@@ -1634,7 +1667,10 @@ No me atrevo a prestar juramento, porque es prohibido por Cristo y Su apóstol;
 pero si quebranto mi sí o mí no,
 entonces déjenme sufrir la misma pena que sufren los que quebrantan sus juramentos.
 
+[.signed-section-signature]
 George Fox.
+
+--
 
 Esta declaración,
 que era la sustancia de lo que los juramentos de lealtad y supremacía contenían,
@@ -1685,6 +1721,10 @@ y le pidió que le diera orden al carcelero,
 de darle libertad a G. Fox de salir de la cárcel para ir a la ciudad.
 Ante lo cual, Parker le escribió la siguiente carta al carcelero.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Señor Harris,
 
 He sido muy importunado por algunos amigos de G. Fox para que te escriba.
@@ -1694,9 +1734,13 @@ para efectos de su salud, te ruego que se lo muestres.
 Supongo que la próxima vez le harán una solicitud al rey.
 Señor, soy tu atento amigo,
 
+[.signed-section-signature]
 Henry Parker.
 
+[.signed-section-context-close]
 Evesham, 8 de Octubre, de 1674
+
+--
 
 Esta carta fue una orden suficiente para que el carcelero permitiera que
 G+++.+++ Fox fuera llevado de la prisión a la casa de uno de sus amigos.
@@ -1744,7 +1788,7 @@ donde el consejero Thomas Corbet defendió su causa y se desenvolvió muy bien;
 porque inició una nueva defensa,
 y les dijo a los magistrados que por ley ellos no
 podían encarcelar a ningún hombre en premunire.
-Entonces los jueces dijeron que debían mirar sus libros y consultar los estatutos,
+Entonces los magistrados dijeron que debían mirar sus libros y consultar los estatutos,
 y se aplazó la audiencia hasta el día siguiente.
 Y como parecía que Corbet tenía razón, optaron por abstenerse de dar declaración,
 tal vez por temor a peores consecuencias.
@@ -1769,5 +1813,5 @@ por medio de una proclamación. Así fue puesto en libertad de manera honorable,
 y su consejero Corbet, que había abogado por él, obtuvo gran fama por ello;
 pues muchos otros abogados le dijeron que había sacado
 a la luz algo que no se sabía antes.
-Después del juicio, uno de los jueces le dijo:
+Después del juicio, uno de los magistrados le dijo:
 "`Has obtenido un gran honor por tu forma de defender la causa de G. Fox en el tribunal.`"
