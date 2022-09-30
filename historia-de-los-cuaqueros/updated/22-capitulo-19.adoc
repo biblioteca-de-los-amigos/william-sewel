@@ -3,14 +3,25 @@
 [.section-date]
 1674--1676
 
-Disputa con los bautistas--Jeremy Ives--Un amigo infiel--Disputa en Barbican entre J.
-Ives y los Cuáqueros--Continuación de la persecución--Crueldades practicadas en Leicestershire,
-Norfolk y Somersetshire--Terrible fin de los perseguidores--Muerte de W. Bayly--Penitencia
-de M. Hide--Muerte del sacerdote Lampitt--Uso bárbaro de E. Cooper--Insolencia
-de los informantes--Ultrajes en Hereford-- Exitosa apelación de J. Layton--Muerte
-de doscientos Cuáqueros en prisión desde la Restauración--Ley en Barbados para
-impedir que los negros asistan a las reuniones de los Amigos--R. Barclay y Adrian
-Paets--Correspondencia--Exposición de algunas de las doctrinas de los Amigos.
+[.chapter-synopsis]
+* Disputa con los bautistas
+* Jeremy Ives
+* Un amigo infiel
+* Disputa en Barbican entre J. Ives y los Cuáqueros
+* Continuación de la persecución
+* Crueldades practicadas en Leicestershire, Norfolk y Somersetshire
+* Terrible fin de los perseguidores
+* Muerte de W. Bayly
+* Penitencia de M. Hide
+* Muerte del sacerdote Lampitt
+* Uso bárbaro de E. Cooper
+* Insolencia de los informantes
+* Ultrajes en Hereford
+* Exitosa apelación de J. Layton
+* Muerte de doscientos Cuáqueros en prisión desde la Restauración
+* Ley en Barbados para impedir que los negros asistan a las reuniones de los Amigos
+* R. Barclay y Adrian Paets Correspondencia
+* Exposición de algunas de las doctrinas de los Amigos.
 
 El año estaba llegando a su final, pero antes de pasar al próximo,
 debo mencionar que los Bautistas en Inglaterra,
@@ -59,6 +70,10 @@ pero trató de disfrazar el asunto y dijo:
 para probar que algunos juramentos son lícitos, aunque no todos.`"
 Tampoco negó la antes mencionada carta, porque estaba impresa y es como sigue:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Hermano Pitman y Hermano Shewel,
 
 En este momento estoy sorprendido con una pasión santa;
@@ -107,11 +122,16 @@ ahora se dice que ustedes juraron de buena gana.
 ¡Oh, por amor al Señor, hagan algo que quite este oprobio!
 Estas son las oraciones de su hermano, que desearía denominarse,
 
+[.signed-section-closing]
 Compañero de ustedes en la tribulación,
 
+[.signed-section-signature]
 Jeremy Ives
 
+[.signed-section-context-close]
 14 de Enero de 1660.
+
+--
 
 Así de celosamente les escribió Jeremy Ives a sus compañeros maestros,
 quienes por temor humano y para evitar sufrimientos,
@@ -137,6 +157,10 @@ mientras que él, para ser liberado de la prisión,
 había prestado el juramento que le exigían. Pero, qué sabor amargo le produjo esto,
 y qué terror y horror se apoderaron de él después, lo mostrará la siguiente carta:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Mis queridos Amigos,
 
 Deseo exponer ante ustedes mi condición en esta mi caída,
@@ -166,11 +190,16 @@ Ahora sé y siento que es mejor separarse de todo lo de este mundo,
 aunque sea tan querido para uno como su mano u ojo derecho,
 que romper nuestra paz con Dios.
 
+[.signed-section-closing]
 Oren por mí, porque mis ataduras son más grandes que las de ustedes.
 
+[.signed-section-signature]
 Edward Chilton
 
+[.signed-section-context-close]
 Windsor, 22 del mes Once de 1660.
+
+--
 
 Es notable que E. Chilton en la conclusión de su carta diga
 que sus ataduras eran mayores que las de sus amigos,
@@ -241,11 +270,10 @@ Ahora pasemos a la disputa;
 ya he mencionado que se afirmaba que los Cuáqueros no eran Cristianos,
 y para mantener esto, Thomas Hicks usó el siguiente silogismo:
 
-Los que niegan a Cristo el Señor, no son Cristianos;
-
-No obstante los Cuáqueros niegan a Cristo el Señor,
-
-Por tanto, los Cuáqueros no son Cristianos.
+[.syllogism]
+* Los que niegan a Cristo el Señor, no son Cristianos;
+* No obstante los Cuáqueros niegan a Cristo el Señor,
+* Por tanto, los Cuáqueros no son Cristianos.
 
 A esto W. Penn dijo: "`Niego la menor,^
 footnote:[Un silogismo categórico consta de tres partes: una premisa mayor,
@@ -253,12 +281,10 @@ una premisa menor y una conclusión. Argumentar con silogismos era la forma
 más común de debate público entre la clase culta de la época.]
 que es, que los Cuáqueros niegan a Cristo el Señor.`" Y T. Hicks respondió:
 
-Los que niegan que Cristo es una persona distinta fuera de ellos,
-niegan a Cristo el Señor;
-
-No obstante los Cuáqueros niegan que Cristo es una persona distinta fuera de ellos;
-
-Por tanto, los Cuáqueros niegan a Cristo el Señor.
+[.syllogism]
+* Los que niegan que Cristo es una persona distinta fuera de ellos, niegan a Cristo el Señor;
+* No obstante los Cuáqueros niegan que Cristo es una persona distinta fuera de ellos;
+* Por tanto, los Cuáqueros niegan a Cristo el Señor.
 
 W+++.+++ Penn pidió entonces,
 que T. Hicks explicara lo que quería decir con el término "`persona.`"
@@ -270,12 +296,10 @@ Uno de sus escritores dice que Cristo nunca fue visto con ojos carnales,
 ni oído con oídos carnales.`"
 A esto J. Ives añadió:
 
-El que niega que Cristo nunca fue visto alguna vez con ojos carnales,
-etc. niega a Jesucristo hombre;
-
-No obstante los Cuáqueros niegan que Cristo fue visto alguna vez con ojos carnales;
-
-Por tanto, los Cuáqueros niegan a Jesucristo hombre.
+[.syllogism]
+* El que niega que Cristo nunca fue visto alguna vez con ojos carnales, etc. niega a Jesucristo hombre;
+* No obstante los Cuáqueros niegan que Cristo fue visto alguna vez con ojos carnales;
+* Por tanto, los Cuáqueros niegan a Jesucristo hombre.
 
 George Keith dijo entonces: "`Yo respondo distinguiendo lo siguiente:
 Cristo como Dios nunca fue visto con ojos carnales;
@@ -631,6 +655,8 @@ escribió un excelente testimonio de él. Y John Crook,
 en el prefacio de las obras de W. Bayly,
 dio el siguiente testimonio de él (cuya verdad conozco por mi propia experiencia):
 
+[quote]
+____
 Así como era audaz y celoso en su predicación,
 al estar dispuesto a aprovechar su tiempo (como si hubiera
 sabido que no iba a estar mucho tiempo entre nosotros),
@@ -655,6 +681,7 @@ Y después de que este perseguidor había cumplido su voluntad,
 le ordenó al carcelero que se lo llevara y lo pusiera en algún hueco apestoso
 para su abrigo y curación. Y si el Dios de Israel no hubiera sido su médico ahí,
 habría sido quitado de entre nosotros mucho tiempo antes.
+____
 
 Al principio de este año, 1676, murió en Londres un tal Matthew Hyde.
 Este hombre se había dedicado por espacio de veinte años,
@@ -965,6 +992,9 @@ que este año, en la isla de Barbados, en las Indias Occidentales,
 se promulgó una ley para evitar que los negros entraran a las reuniones de los Cuáqueros.
 Dicha ley es como sigue:
 
+[.embedded-content-document.legal]
+--
+
 Considerando que últimamente,
 a muchos negros se les ha permitido permanecer en las reuniones
 de los Cuáqueros como oyentes de sus doctrinas,
@@ -1001,9 +1031,13 @@ Leída y aprobada por el consejo el 21 de Abril de 1676,
 y autorizada por su excelencia +++[+++el gobernador]
 el mismo día.
 
+[.signed-section-signature]
 Edward Steed
 
+[.signed-section-context-close]
 Representante-secretario.
+
+--
 
 Aunque al principio de este estatuto,
 la instrucción de los negros en la doctrina de los Cuáqueros es señalada
@@ -1071,6 +1105,10 @@ porque descubrió que podían hacer una defensa razonable
 del fundamento de su religión. Con lo cual,
 R+++.+++ Barclay tradujo la mencionada carta al inglés como sigue:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Amigo mío,
 
 Si bien considero que respondí completamente a todos
@@ -1140,10 +1178,15 @@ dices que no puede haber revelación directa por la
 simple operación del Espíritu de Dios en la mente,
 a menos que también se les proponga algo a los sentidos externos.
 
+[.offset]
 Antes de continuar con una respuesta directa a este argumento,
 es necesario poner algunas premisas:
 
-Primera:
+[.numbered-group]
+====
+
+[.numbered]
+__Primera:__
 Que se supone falsamente que la esencia de la religión Cristiana
 consista en la fe y el conocimiento _histórico_ del nacimiento,
 vida, muerte, resurrección y ascensión de Jesucristo.
@@ -1153,7 +1196,8 @@ Sin embargo, es una parte integral que completa a la religión Cristiana,
 como las manos y los pies son partes integrales del hombre, sin las que, no obstante,
 puede existir, pero no como un hombre entero y completo.
 
-Segunda:
+[.numbered]
+__Segunda:__
 Si por revelación directa entiendes una revelación de Dios que engendra en nuestras
 almas la fe y el conocimiento histórico del nacimiento de Cristo en la carne,
 sin mediación de las Sagradas Escrituras,
@@ -1165,7 +1209,8 @@ sin usar las Escrituras, aun así,
 el conocimiento histórico de Cristo no se nos manifiesta comúnmente, ni a ningún otro,
 sino por las Sagradas Escrituras como medio, y eso mediante un objeto material.
 
-Tercera: No obstante, decididamente afirmamos,
+[.numbered]
+__Tercera:__ No obstante, decididamente afirmamos,
 que Dios puede manifestar a nuestras mentes las verdades
 históricas del nacimiento de Cristo,
 etc., con la mayor facilidad, claridad, y certeza cuando le plazca,
@@ -1178,7 +1223,8 @@ supieron de estos hecho por la inspiración interna de Dios, sin ningún medio e
 para la prueba de lo cual ver 1 Pedro 1:10-11. Ahora bien, eso que ha sido,
 puede seguir siendo.
 
-Cuarta: Este argumento tuyo concluye, a lo sumo,
+[.numbered]
+__Cuarta:__ Este argumento tuyo concluye, a lo sumo,
 que nosotros no podemos conocer _naturalmente_ ningún hecho,
 sino por el relato de otro fuera de nosotros,
 o por la percepción de los sentidos externos,
@@ -1191,18 +1237,25 @@ una verdad contingente mediante un conocimiento _sobrenatural,_
 en el que Dios ocupa el lugar de un relator externo; quien en realidad es tan verdadero,
 que debe ser creído, ya que Dios es la fuente de la verdad.
 
-Quinta:
+[.numbered]
+__Quinta:__
 Cuando Dios da a conocer a los hombres algún hecho por medio de la revelación
 o inspiración divina directa--Dios hablando al oído del corazón del hombre interior,
 o escribiendo en él por Su dedo--deben ser consideradas
 dos cosas en dicha revelación directa.
 
-El hecho o la cosa revelada, lo cual es contingente.
-La forma o modo en que es hecha la revelación; cuya forma es una revelación interna,
+[.numbered]
+1+++.+++ El hecho o la cosa revelada, lo cual es contingente.
+
+[.numbered]
+2+++.+++ La forma o modo en que es hecha la revelación; cuya forma es una revelación interna,
 divina y sobrenatural,
 que es la voz de Dios o discurso de Dios internamente
 hablado al oído del hombre interior o mente del hombre,
 o un escribir divino sobrenaturalmente impreso en ella.
+
+[.small-break]
+'''
 
 Ahora bien, en cuanto a la cosa y hecho revelado,
 esto es ciertamente una verdad contingente, y no se manifiesta por sí misma a la mente;
@@ -1220,7 +1273,8 @@ y eso mediante su propia y específica naturaleza o propiedad que procede de su 
 y dicho ser tiene su propia idea, por el que es distinguible de cualquier otra cosa,
 si se suscita su idea en nosotros y se nos propone claramente.
 
-Sexta: Ahora bien, así como algunos seres son naturales y otros son sobrenaturales,
+[.numbered]
+__Sexta:__ Ahora bien, así como algunos seres son naturales y otros son sobrenaturales,
 algunas ideas son naturales y otras sobrenaturales.
 Y puesto que, cuando alguna idea natural es suscitada en nosotros,
 nosotros la conocemos claramente; así también,
@@ -1238,7 +1292,8 @@ quien la había experimentado a menudo;
 y de la que nosotros también en nuestras medidas somos testigos,
 porque la voz de Dios se conoce como Suya por su virtud divina.
 
-Séptima: Los sentidos son externos o internos,
+[.numbered]
+__Séptima:__ Los sentidos son externos o internos,
 y los sentidos internos son naturales o sobrenaturales.
 Tenemos un ejemplo del sentido natural interno cuando nos enojamos o tranquilizamos,
 en el amor y en el odio, o cuando percibimos y discernimos cualquier verdad natural.
@@ -1260,6 +1315,8 @@ sino a la revelación que la propone, la cual es la poderosa voz de Dios.
 Porque cuando la voz de Dios es oída en el alma,
 el alma percibe la verdad de esa voz con tanta certeza,
 como la verdad del ser de Dios de quien procede.
+
+====
 
 Una vez establecidas estas premisas, ahora procedo a una respuesta directa.
 En cuanto a lo que has dicho,
@@ -1558,7 +1615,15 @@ que es esa Palabra salvadora de gracia a la que te encomiendo.
 Y que Dios te dé un corazón inclinado a creer y a obedecer la verdad;
 es el deseo de tu fiel amigo,
 
+[.signed-section-signature]
 Robert Barclay
+
+[.postscript]
+====
 
 Desde la prisión de Aberdeen, en Escocia,
 donde estoy confinado por causa del testimonio de Jesús. 24 de Noviembre de 1676.
+
+====
+
+--
