@@ -1,18 +1,37 @@
 == Capítulo XX
 
+[.section-date]
 1677-1684
 
-Amigos viajando por Holanda y Alemania--Princesa Elizabeth del Palatinado--Correspondencia
-entre la princesa Elizabeth y W. Penn y R. Barclay--Anna María Schurman y los Labadistas--Carta
-de W. Penn al Consejo y al Senado de Embden--Trato rudo del conde de Bruch--Disputa
-de G. Fox y W. Penn con Galenus Abraham--Más correspondencia entre la princesa Elizabeth
-y W. Penn--Continuación de la persecución bajo la Ley de Conventículos--Epístola de
-consuelo de G. Fox--Apología de Barclay y los embajadores en Nimeguen--Muerte de Isaac
-Penington--Preguntas al Papa--G. Whitehead arrestado como Jesuita--Juicio en Ware--Recuento
-de los sufrimientos de los Amigos presentado al Parlamento--Concesión de Pennsylvania--Almirante
-Penn--Persecución en Bristol--Reuniones mantenidas por los niños--Casos de excesiva
-crueldad--Setecientos Cuáqueros en prisión--Carta de consolación de W. Dewsbury--Wilkinson
-y Story--Separación--Discurso al rey--Gabriel Shad el informante--Muerte del rey Carlos.
+[.chapter-synopsis]
+* Amigos viajando por Holanda y Alemania
+* Princesa Elizabeth del Palatinado
+* Correspondencia entre la princesa Elizabeth y W. Penn y R. Barclay
+* Anna María Schurman y los Labadistas--
+* Carta de W. Penn al Consejo y al Senado de Embden
+* Trato rudo del conde de Bruch
+* Disputa de G. Fox y W. Penn con Galenus Abraham
+* Más correspondencia entre la princesa Elizabeth y W. Penn
+* Continuación de la persecución bajo la Ley de Conventículos
+* Epístola de consuelo de G. Fox
+* Apología de Barclay y los embajadores en Nimeguen
+* Muerte de Isaac Penington
+* Preguntas al Papa
+* G. Whitehead arrestado como Jesuita
+* Juicio en Ware
+* Recuento de los sufrimientos de los Amigos presentado al Parlamento
+* Concesión de Pennsylvania
+* Almirante Penn
+* Persecución en Bristol
+* Reuniones mantenidas por los niños
+* Casos de excesiva crueldad
+* Setecientos Cuáqueros en prisión
+* Carta de consolación de W. Dewsbury
+* Wilkinson y Story
+* Separación
+* Discurso al rey
+* Gabriel Shad el informante
+* Muerte del rey Carlos.
 
 Apenas había comenzado el año 1677, cuando G. Fox empezó a viajar de nuevo,
 aunque los caminos todavía estaban cubiertos por la nieve.
@@ -36,6 +55,10 @@ rey de Bohemia y hermana de Sofía, fallecida duquesa de Hanover, madre de Jorge
 rey de Gran Bretaña), William Penn le escribió también dos cartas desde Inglaterra,
 que ella respondió de la siguiente manera:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Hereford, 2 de Mayo de 1667
 
 Esta carta, amigo, te informará que tus dos cartas fueron muy aceptadas,
@@ -51,15 +74,23 @@ aunque eso me expusiera a la burla del mundo.
 Pero esto lo puede alcanzar un hombre meramente moral;
 todavía faltan las verdaderas gracias internas,
 
+[.signed-section-closing]
 Tu afectuosa amiga,
 
+[.signed-section-signature]
 Elizabeth
+
+--
 
 G+++.+++ Fox también le escribió
 una carta a esta virtuosa princesa desde Ámsterdam,
 en la que elogiaba su vida modesta y retirada,
 y la exhortaba a la piedad y a la santidad; a lo que ella respondió con esta carta:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Querido Amigo,
 
 No puedo dejar de tener un tierno amor por aquellos que aman al Señor Jesucristo,
@@ -68,11 +99,16 @@ tu carta y la visita de tus amigos,
 han sido muy bienvenidas para mí. Seguiré los consejos de ellos y los tuyos,
 hasta donde Dios me conceda luz y unción; y seguiré siendo,
 
+[.signed-section-closing]
 Tu cariñosa amiga,
 
+[.signed-section-signature]
 Elizabeth
 
+[.signed-section-context-close]
 Hereford, 30 de Agosto de 1677
+
+--
 
 Esta correspondencia les dio oportunidad a William Penn y a Robert Barclay de ir a Herford,
 un pueblo en las fronteras de Paderborn, y hacerle a la mencionada princesa una visita,
@@ -159,8 +195,13 @@ en Colonia recibió una carta de la princesa Elizabeth,
 en respuesta a la que él le había escrito desde el Palatinado.
 Dicha carta es como sigue:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Septiembre de 1677
 
+[.salutation]
 Querido amigo,
 
 He recibido tus saludos, buenos deseos y exhortaciones con mucho gozo,
@@ -176,8 +217,8 @@ para resistir las inclemencias del tiempo, como en la aceptación que tuviste en
 Frankfort y Chrisheim.
 Nada me sorprendió, sino el viejo y buen John Dury,
 en quien no esperaba tanta ingenuidad,
-habiendo escrito últimamente un libro titulado Le veritable Chretien^
-footnote:[El verdadero Cristiano.], que sí habla de otra manera.
+habiendo escrito últimamente un libro titulado [.book-title]#Le veritable Chretien#^
+footnote:[__El verdadero Cristiano__.], que sí habla de otra manera.
 Me gustaría saber qué acogida tuviste en Fredericksburg,
 y si recibes esta carta en Cleves,
 me gustaría que aprovecharas la oportunidad para ver a los dos pastores de Mulheim,
@@ -186,9 +227,13 @@ como también la condesa de allí. Sería muy útil para
 mi familia que se libraran de sus conceptos erróneos;
 pero que sea hecha la voluntad de Dios en eso y en todo lo que concierne,
 
+[.signed-section-closing]
 A tu querida amiga en el Señor Jesús,
 
+[.signed-section-signature]
 Elizabeth
+
+--
 
 Mientras William Penn hacía este viaje en Alemania,
 George Fox había ido a Hamburgo y a Frederickstadt a visitar a sus amigos allí. Penn,
@@ -275,11 +320,17 @@ y dio algunas débiles esperanzas de cambio;
 pero era suficientemente evidente que el senado no estaba aún tan dispuesto,
 pues la persecución continuó durante largo tiempo.
 
+[.offset]
 Una copia de la carta de W. Penn traducida al inglés,
 dice lo siguiente y merece la seria consideración de todos los magistrados.
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 Al Consejo y Senado de la ciudad de Embden.
 
+[.offset]
 Que el Rey de reyes y Señor de señores, quien es Dios de todas las familias de la tierra,
 incline sus corazones a la justicia, misericordia y verdad.
 
@@ -425,11 +476,16 @@ el Dios de los espíritus de toda carne que no hace acepción de rico, pobre,
 o poderoso en el juicio--les muestre misericordia en el día de Sus justos juicios.
 Amén.
 
+[.signed-section-closing]
 Su amigo en la Semilla universal de amor y verdad,
 
+[.signed-section-signature]
 W+++.+++ PENN
 
+[.signed-section-context-close]
 Londres, 14 de Diciembre de 1674
+
+--
 
 Después de pasar un tiempo en Embden, W. Penn se dirigió a Herford otra vez,
 donde fue recibido muy amablemente por la princesa Elizabeth y la condesa de Homes.
@@ -575,8 +631,13 @@ tras soportar una violenta tempestad en el mar, llegaron a salvo a Harwich.
 Pasando de ahí a Londres, W. Penn recibió la siguiente carta de la princesa Elizabeth,
 en respuesta a la de él:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Herford, 29 de Octubre, 1677
 
+[.salutation]
 Querido Amigo,
 
 Tu tierno cuidado por mi bienestar eterno me obliga mucho,
@@ -597,9 +658,14 @@ No creas que me alejo de lo que te dije la última noche;
 sólo me mantengo para hacerlo de manera responsable ante Dios y el hombre.
 No puedo decir más ahora, sino encomendarme a tus oraciones,
 
+[.signed-section-closing]
 Tu amiga verdadera,
 
+[.signed-section-signature]
 Elizabeth
+
+[.postscript]
+====
 
 P+++.+++ D. Casi olvido decirte,
 que mi hermana me escribió diciendo que se había alegrado de que
@@ -607,12 +673,21 @@ al regresar a Ámsterdam hubieras emprendido tu viaje por Osenburgh.
 También hay un Drossard de Limbourg cerca de este lugar (a quien le di una copia de
 la apología de Robert Barclay) que está muy deseoso de hablar con algunos de sus amigos.
 
+====
+
+--
+
 W+++.+++ Penn recibió aún otra carta de la mencionada princesa,
 en respuesta a una que él le escribió desde Briel, en su paso hacia Inglaterra,
 que decía:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 A la princesa Elizabeth, Salvación en la Cruz, Amén.
 
+[.salutation]
 Querida y verdaderamente respetada amiga,
 
 Mi alma fervientemente desea tu felicidad temporal y eterna,
@@ -662,19 +737,34 @@ con ese amor y respecto puro y celestial con que te escribo tan claramente.
 Me despido, mi querida amiga, y que el Señor esté contigo.
 Soy más de lo que puedo decir,
 
+[.signed-section-closing]
 Tu amigo, que te ama y respeta,
 
+[.signed-section-signature]
 W+++.+++ Penn
+
+[.postscript]
+====
 
 Te remito a los pasajes adjuntos.
 Visitamos a Gichtel y a Hooftman, y ellos a nosotros.
 Estuvieron en una o dos de las reuniones en Ámsterdam.
 _Vale in sternum._
 
+====
+
+--
+
+[.offset]
 A esta carta la princesa respondió lo siguiente.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Este 17 de Noviembre, 1677
 
+[.salutation]
 Querido Amigo,
 
 He recibido una carta tuya que parece haber sido escrita en tu viaje hacia Inglaterra,
@@ -688,9 +778,13 @@ para Él. Mi casa y mi corazón siempre estarán abiertos a los que lo aman a É
 Gichtel ha quedado muy satisfecho por la conversación entre ustedes.
 En cuanto a mis asuntos, irán como al Señor le plazca, y yo permanezco en Él
 
+[.signed-section-closing]
 Tu afectuosa amiga,
 
+[.signed-section-signature]
 Elizabeth
+
+--
 
 Ya en Londres, G. Fox recibió cartas de Nueva Inglaterra,
 con un informe de los crueles procedimientos de los magistrados contra
@@ -781,6 +875,10 @@ y dado que muchos de sus amigos en ese momento estaban
 bajo una gran persecución y en prisiones,
 les escribió la siguiente epístola:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Mis queridos Amigos,
 
 Que sufren por causa del Señor Jesús y por el testimonio de la verdad;
@@ -806,9 +904,13 @@ Por tanto, guarden la palabra de paciencia y ejerciten ese don;
 y que el Señor los fortalezca en sus sufrimientos, en Su Santo Espíritu de fe.
 Amén.
 
+[.signed-section-signature]
 George Fox
 
+[.signed-section-context-close]
 Swarthmore, día 5 del mes Doce, 1678
+
+--
 
 La persecución era entonces muy intensa en muchos lugares.
 En Bawnasse, Westmoreland,
@@ -831,8 +933,8 @@ los embajadores del rey de Francia y los de los Países Bajos Unidos,
 junto como otros varios potentados, para hablar de una paz general;
 por lo que Robert Barclay les escribió una epístola en latín,
 exhortándolos a esa buena obra.
-La epístola junto con su Apology for the true Christian Divinity,^
-footnote:[Apología de la Verdadera Divinidad Cristiana]
+La epístola junto con su [.book-title]#Apology for the true Christian Divinity#,^
+footnote:[__Apología de la Verdadera Divinidad Cristiana__]
 en latín, también fue entregada a cada uno de los mencionados embajadores;
 un libro para cada uno de ellos.
 George Fox también escribió una epístola de exhortación para ellos,
@@ -918,8 +1020,13 @@ me pidió que las tradujera al latín y las enviara a Roma al papa.
 Así lo hice, según su deseo, pero nunca recibí ni escuché alguna respuesta de ellos.
 Las preguntas fueron las siguientes:
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 A Inocencio XI, papa de Roma, S.
 
+[.salutation]
 Gran Prelado,
 
 Tal vez a primera vista te parezca extraño que se te envíe el escrito adjunto;
@@ -940,19 +1047,30 @@ tu religión ante la vista de todo la Cristiandad,
 siempre que puedas dar una respuesta clara a las objeciones, no sólo de palabra,
 sino también de hecho,
 
+[.signed-section-closing]
 Escribí esto a petición de algunos de mis amigos llamados Cuáqueros.
 
+[.signed-section-signature]
 William Sewel
 
+[.signed-section-context-close]
 Ámsterdam, día 23 del mes llamado Abril, 1679.
 
-Algunas preguntas planteadas a los papistas y al papa de Roma,
+--
 
-como cabeza suprema de su iglesia,
-y encomendadas a la consideración de ustedes por George Fox
+[.embedded-content-document.epistle]
+--
 
+[.blurb]
+=== Algunas preguntas planteadas a los papistas y al papa de Roma, como cabeza suprema de su iglesia, y encomendadas a la consideración de ustedes por George Fox
+
+[.salutation]
 Amigos,
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ ¿Por qué el papa y los cardenales no les conceden
 a los Protestantes que viven en España,
 Italia y Roma la libertad de reunirse para celebrar la adoración divina,
@@ -979,6 +1097,7 @@ perseguía al que nació según el Espíritu.`"
 ¿Así pues, no han mostrado abiertamente los papistas el nacimiento carnal en sí mismos,
 el cual es contrario a la razón, a la ley y al evangelio?
 
+[.numbered]
 2+++.+++ ¿Dónde ordenaron Cristo o Sus apóstoles que los hombres se inclinaran ante imágenes,
 las adoraran y guardaran días santos?
 ¿Dónde ordenaron que se señalaran días santos en memoria de ellos mismos y que se honraran?
@@ -989,6 +1108,7 @@ Digo, ¿dónde dieron Cristo o Sus apóstoles el mandamiento de azotar,
 colgar o quemar a los hombres; o incluso,
 encarcelar a los hombres porque disentían de ellos y no podían unirse a su religión?
 
+[.numbered]
 3+++.+++ ¿Dónde ordenaron Cristo o Sus apóstoles a las iglesias primitivas
 que encendieran velas al mediodía? Muéstrennos dónde está escrito,
 si en los evangelios, o en las epístolas.
@@ -997,6 +1117,7 @@ si en los evangelios, o en las epístolas.
 ¿No se ha rebelado de esa pureza y virginidad en la que anteriormente
 experimentó a Cristo como la cabeza de Sus iglesias?
 
+[.numbered]
 4+++.+++ ¿Acaso las iglesias de la antigüedad escogieron a un hombre
 en particular y lo consideraron la cabeza de la iglesia universal?
 ¿Dónde ordenó la iglesia primitiva que se rociaran a los niños con agua?
@@ -1008,6 +1129,7 @@ y por la que tenemos entrada a Dios y en la que Él se complace?
 ¿No se han degenerado ustedes de la luz, verdad, gracia,
 poder y espíritu en el que estaban los apóstoles?
 
+[.numbered]
 5+++.+++ ¿No se han degenerado de la antigua iglesia,
 porque no le permiten a las personas leer las sagradas
 Escrituras en su propia lengua materna?
@@ -1071,7 +1193,8 @@ de hecho,
 ustedes han matado a multitudes del pueblo de Dios
 y derramado mucha sangre por este motivo.
 
-7+++.+++ Además, ¿dónde les hablaron Cristo o Sus apóstoles a los santos de un purgatorio,
+[.numbered]
+6+++.+++ Además, ¿dónde les hablaron Cristo o Sus apóstoles a los santos de un purgatorio,
 en el que los hombres serían purgados de sus pecados después de la muerte?
 Muéstrennos donde está escrito eso en el Nuevo Testamento.
 Por tanto,
@@ -1082,7 +1205,8 @@ que las purificará del pecado después de la muerte,
 de la circuncisión espiritual,
 y de la fe en Cristo que purifica del pecado en esta vida y da la victoria?
 
-8+++.+++ ¿No les respondió Cristo a unos que querían que descendiera
+[.numbered]
+7+++.+++ ¿No les respondió Cristo a unos que querían que descendiera
 fuego del cielo y consumiera a los que no lo recibían a Él:
 "`Vosotros no sabéis de qué espíritu sois,`" y los reprendió diciendo
 que Él no había "`venido para perder las almas de los hombres,
@@ -1123,8 +1247,17 @@ que usaron los apóstoles y los Cristianos primitivos al decir:
 sino poderosas en Dios,`" es decir, espirituales.
 2 Corintios 10:4
 
+====
+
+[.signed-section-signature]
 G+++.+++ Fox
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 A Inocencio XI, papa de Roma, S
 
 He aquí, gran prelado,
@@ -1139,11 +1272,16 @@ satisfará el deseo del autor y eliminará una duda
 o escrúpulo de las mentes de muchas personas.
 Me despido.
 
+[.signed-section-closing]
 Esto ha sido escrito en el nombre de algunos de mis amigos llamados Cuáqueros.
 
+[.signed-section-signature]
 William Sewel
 
+[.signed-section-context-close]
 Ámsterdam, 24 del mes llamado Julio, 1679.
+
+--
 
 Este año hubo una gran conmoción en Inglaterra por un complot
 llevado a cabo por los papistas contra la vida del rey,
@@ -1164,7 +1302,7 @@ y como le respondieron que no podían prestar juramentos por causa de sus consci
 él dijo, que si ellos no pagaban la multa, ni prestaban juramento,
 los enviaría a la cárcel.
 Al demostrar ellos que no eran vagabundos, sino hombres bien conocidos,
-de buena posición y con residencia fija, Bacon dijo: __De non apparentibus,
+de buena posición y con residencia fija, Bacon dijo: __"`De non apparentibus,
 et non existentibus eadem est ratio,`"__ +++[+++en español:
 Lo que no se ve es lo mismo que lo que no existe]; es decir,
 que aunque G. Whitehead tenía un patrimonio en Londres y T. Burr vivía en Ware,
@@ -1274,6 +1412,9 @@ puesto que algunos Episcopales malintencionados estaban
 muy deseosos de colocar a los Cuáqueros entre los conspiradores,
 G+++.+++ Fox hizo la siguiente declaración al Parlamento:
 
+[.embedded-content-document.epistle]
+--
+
 Es nuestro principio y testimonio negar y renunciar
 a todos los planes y conspiraciones contra el rey,
 o cualquiera de sus súbditos, porque tenemos al Espíritu de Cristo;
@@ -1294,7 +1435,10 @@ las cuales hemos sufrido tanto y por tanto tiempo, por no hacerlas.
 Porque si nos obligan, harán nuestros sufrimientos y ataduras más fuertes,
 en lugar de aliviarnos.
 
+[.signed-section-signature]
 George Fox
+
+--
 
 No mucho después de esto,
 también les escribió un documento a todos los gobernantes y magistrados en Inglaterra,
@@ -1303,10 +1447,15 @@ para disuadirlos de la persecución por religión.
 Su labor no pareció del todo ineficaz con el Parlamento,
 ya que al inicio del año 1681, la Casa de los Comunes decidió lo siguiente:
 
+[.embedded-content-document.paper]
+--
+
 "`Es la opinión de la casa,
 que la persecución de los disidentes Protestantes basada en las leyes penales,
 es en este momento grave para los súbditos; es un debilitamiento del interés Protestante,
 un estímulo al papismo, y peligrosa para la paz de este reino.`"
+
+--
 
 Pero aunque la Casa de los Comunes llegó a esta resolución, no se detuvo la persecución,
 porque mientras las leyes por las que perseguían no fueran derogadas
@@ -1757,6 +1906,10 @@ footnote:[William Dewsbury estuvo preso por diecinueve años en la cárcel de Wa
 les escribió una epístola de consolación a sus sufridos amigos, la cual,
 se consideró conveniente reimprimir, y es como sigue:
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 Queridos hermanos y hermanas,
 
 Escuchen la palabra del Señor. Así dice el Señor:
@@ -1858,7 +2011,10 @@ fieles y sufrientes del Todopoderoso Dios,
 en quien sigo siendo el hermano y compañero de ustedes en
 la tribulación y reino de paciencia en el Señor Jesucristo.
 
+[.signed-section-signature]
 William Desbury
+
+--
 
 Mientras la persecución era intensa en Inglaterra,
 se produjo una división entre los llamados Cuáqueros,
@@ -1988,13 +2144,20 @@ Este plan, cualquiera que fuera, costó la vida de varias personas,
 entre quienes estaba el conde de Essex, quien desafortunadamente pereció en la Torre,
 y lord Russel, al que se le obligó inclinarse ante el hacha.
 
+[.offset]
 Ahora bien, como la persecución continuó con cierta pretensión de justicia,
 los llamados Cuáqueros le redactaron el siguiente escrito al rey:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Al rey
 
+[.letter-heading]
 El humilde escrito del pueblo comúnmente llamado Cuáqueros
 
+[.salutation]
 Oh, rey,
 
 Que el Rey de reyes y Señor de toda la tierra,
@@ -2075,6 +2238,8 @@ y en sus conductas honran verdaderamente al rey.
 No permitas que la ruina de los que son tranquilos en la tierra,
 viudas y huérfanos por sus consciencias pacíficas,
 esté a la puerta de un príncipe que profesa la tierna y compasiva religión de Cristo.
+
+--
 
 Este escrito le fue presentado al rey en Windsor,
 el 8 del mes llamado Agosto de este año, por George Whitehead, Alexander Parker,
