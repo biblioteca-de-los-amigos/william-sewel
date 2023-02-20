@@ -3,22 +3,38 @@
 [.section-date]
 1685-1688
 
-Petición al Parlamento de libertad de consciencia--Solicitud al Rey--Declaración
-de los sufrimientos de los Amigos--Proclamación del rey favoreciendo a los disidentes--Alto
-a la persecución--Crueldad de un Cuáquero apóstata--Duque de Monmouth--Juez Jeffries--Los
-magistrados de Emden invitan a los Amigos a establecerse en esa ciudad--Correspondencia
-posterior--El rey pone en libertad a la mayoría de los Amigos encarcelados--Muerte
-de David Barclay--Muerte de Anne Whitehead--Libertad de consciencia concedida--Cartas
-al rey Jacobo--Orden del rey de eximir a los Amigos de prestar juramentos--Transgresiones
-del rey a favor del papado--Encarcelamiento de los obispos--Carta de la Junta
-Anual--Firmeza y fidelidad de Theophila Townsend--Sufrimiento y liberación de
-Theophilus Green--William Penn y el rey Jacobo--Convencimiento,
-sufrimientos y muerte de William Dewsbury--William, príncipe de Orange,
-desembarca en Inglaterra.
+[.chapter-synopsis]
+* Petición al Parlamento de libertad de consciencia
+* Solicitud al Rey
+* Declaración de los sufrimientos de los Amigos
+* Proclamación del rey favoreciendo a los disidentes
+* Alto a la persecución
+* Crueldad de un Cuáquero apóstata
+* Duque de Monmouth
+* Juez Jeffries
+* Los magistrados de Emden invitan a los Amigos a establecerse en esa ciudad
+* Correspondencia posterior
+* El rey pone en libertad a la mayoría de los Amigos encarcelados
+* Muerte de David Barclay
+* Muerte de Anne Whitehead
+* Libertad de consciencia concedida
+* Cartas al rey Jacobo
+* Orden del rey de eximir a los Amigos de prestar juramentos
+* Transgresiones del rey a favor del papado
+* Encarcelamiento de los obispos
+* Carta de la Junta Anual
+* Firmeza y fidelidad de Theophila Townsend
+* Sufrimiento y liberación de Theophilus Green
+* William Penn y el rey Jacobo
+* Convencimiento, sufrimientos y muerte de William Dewsbury
+* William, príncipe de Orange, desembarca en Inglaterra.
 
 El rey Jacobo no llevaba mucho tiempo al mando del gobierno,
 cuando los disidentes le solicitaron libertad de culto,
 y entre ellos estaban también los Cuáqueros, que hicieron la siguiente petición:
+
+[.embedded-content-document.letter]
+--
 
 Al rey y ambas cámaras del Parlamento:
 Humildemente se presenta la sufrida condición del pacífico pueblo llamado Cuáqueros,
@@ -75,29 +91,21 @@ para forzarnos a una conformidad sin convicción interna,
 o satisfacción de nuestras consciencias tiernas,
 en lo que concierne a nuestra paz con Dios.
 
+[.offset]
 Los estatutos por los que nosotros, el citado pueblo, sufrimos prisión,
 angustia y saqueo son los siguientes:
 
-Año quinto de Elizabeth, capítulo 23. De Excommunicato Capiendo.
-
-Año 23 de Elizabeth, capítulo 1, por veinte libras al mes.
-
-Año 29 de Elizabeth, capítulo 6, por continuar.
-
-Año 35 de Elizabeth, capítulo 1, por renunciar al reino bajo pena de muerte.
-
-Año 1 de Elizabeth, capítulo 2, por doce peniques el Domingo.
-
-Año 3 del rey Jacobo I, capítulo 4, por Premunire,
-encarcelamiento de por vida y confiscación de propiedades.
-
-Año 13 y 14 del rey Carlos II contra los Cuáqueros, etc., por destierro.
-
-Año 22 del rey Carlos II, capítulo 1, contra conventículos sediciosos.
-
-Año 17 del rey Carlos II, capítulo 2, contra los no conformistas.
-
-Año 27 del rey Enrique VIII, capítulo 20, algunos sufren inmediatamente.
+[.syllogism]
+* Año quinto de Elizabeth, capítulo 23. __De Excommunicato Capiendo.__
+* Año 23 de Elizabeth, capítulo 1, por veinte libras al mes.
+* Año 29 de Elizabeth, capítulo 6, por continuar.
+* Año 35 de Elizabeth, capítulo 1, por renunciar al reino bajo pena de muerte.
+* Año 1 de Elizabeth, capítulo 2, por doce peniques el Domingo.
+* Año 3 del rey Jacobo I, capítulo 4, por __Premunire,__ encarcelamiento de por vida y confiscación de propiedades.
+* Año 13 y 14 del rey Carlos II contra los Cuáqueros, etc., por destierro.
+* Año 22 del rey Carlos II, capítulo 1, contra conventículos sediciosos.
+* Año 17 del rey Carlos II, capítulo 2, contra los no conformistas.
+* Año 27 del rey Enrique VIII, capítulo 20, algunos sufren inmediatamente.
 
 Basados en el derecho común,
 por las alegadas e incriminatorias acusaciones contra
@@ -123,7 +131,7 @@ al no haberse cometido,
 amenazado o pretendido ninguna violencia o daño contra la persona o propiedad de nadie.
 
 Los largos y tediosos encarcelamientos se deben principalmente
-a los mandatos judiciales de excommunicatu capiendo^
+a los mandatos judiciales de __excommunicatu capiendo__^
 footnote:[Un escrito que ordena el encarcelamiento de una
 persona excomulgada hasta que se someta a la iglesia nacional.],
 sentencia de premunire, o multas que se dice que son para el rey.
@@ -131,8 +139,8 @@ sentencia de premunire, o multas que se dice que son para el rey.
 Los grandes despojos y excesivas aflicciones y decomisos
 se deben principalmente a la ley de conventículos,
 a la ley de multas de veinte libras al mes,
-a la de dos terceras partes de las propiedades, y a la orden de qui tam.^
-footnote:[Un mandato judicial qui tam,
+a la de dos terceras partes de las propiedades, y a la orden de __qui tam__.^
+footnote:[Un mandato judicial __qui tam__,
 es cuando una parte privada presenta una demanda
 contra un individuo en nombre del rey o del gobierno.]
 En algunos condados muchos han sufrido decomisos y aflicciones desde hace ocho años,
@@ -235,10 +243,18 @@ sin reflexiones personales, nosotros, en humildad Cristiana y por Cristo,
 les rogamos que consideren tierna y caritativamente los argumentos,
 y encuentren alguna manera eficaz para nuestro alivio de las prisiones, saqueos y ruina.
 
+--
+
+[.offset]
 También se presentó la siguiente solicitud.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Al Rey Jacobo II
 
+[.salutation]
 Humilde solicitud del pueblo llamado Cuáqueros.
 
 Considerando que le ha placido al Dios Todopoderoso, por quien reinan los reyes,
@@ -255,6 +271,8 @@ y a un pueblo consciente que verdaderamente teme y sirve a Dios,
 humildemente esperamos que la ternura del rey se manifieste
 y se extienda con su poder para expresar lo mismo,
 encomendando a su generosa clemencia el caso de nuestros sufrientes amigos aquí adjuntos.
+
+--
 
 La lista anexada, con la petición anteriormente mencionada al rey y al Parlamento,
 no fue completamente ineficaz,
@@ -279,8 +297,13 @@ los papistas (que entonces tenían un rey de su propia
 persuasión) se hicieran demasiado poderosos.
 Mientras tanto, el rey publicó la siguiente proclama:
 
+[.embedded-content-document.legal]
+--
+
+[.signed-section-context-open]
 Jacobo R.
 
+[.salutation]
 A todos los arzobispos y obispos, a sus cancilleres y comisionados,
 y a todos los archidiáconos y a sus oficiales,
 y a todos los otros ordinarios y personas que ejercen la jurisdicción eclesiástica.
@@ -302,7 +325,7 @@ es nuestra voluntad y complacencia ahora,
 que ustedes hagan que todos los procedimientos contra las
 mencionadas personas sean completamente suspendidos y anulados.
 Y si algunas de estas personas son decretadas o declaradas excomulgadas,
-o han sido certificadas, o están en prisión bajo la ley de excommunicato capiendo,
+o han sido certificadas, o están en prisión bajo la ley de __excommunicato capiendo__,
 por alguna de las causas anteriormente dichas,
 es nuestra voluntad que las absuelvan y hagan que
 a tales personas se les levanten los cargos,
@@ -314,9 +337,13 @@ hasta que nuestra voluntad se manifieste de nuevo.
 Dado en nuestra Corte de Whitehall, este 18 de Abril de 1685,
 en el primer año de nuestro reinado.
 
+[.signed-section-closing]
 Por orden de su majestad,
 
+[.signed-section-signature]
 Sunderland
+
+--
 
 Este fue el primer paso del rey hacia la libertad de consciencia,
 tanto para los papistas como también para las personas de otras persuasiones,
@@ -471,6 +498,10 @@ en los términos tal cual estaban prescritos.
 No obstante, decidieron reconocer la buena intención de los magistrados de Embden,
 redactando la siguiente carta y enviándola a ellos.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 A los señores, burgomaestres, consejeros y gobernantes de la ciudad de Embden.
 
 La presente es para comunicarles, con el debido respeto, que el plan de ustedes,
@@ -556,12 +587,17 @@ para que el Señor Dios se complazca en guardarlos,
 y hacer que continúen en un propósito tan bueno, sano y bien fundado.
 Somos y permanecemos como,
 
+[.signed-section-closing]
 Sus verdaderos amigos y simpatizantes,
 
+[.signed-section-signature]
 Barent Van Tongeren, William Sewel, Jacob Claus, Stephen Crisp, John Roelofs, John Claus,
 Peter Hendriksz.
 
+[.signed-section-context-close]
 Ámsterdam, 9 del mes Tres, alias Marzo, 1686
+
+--
 
 En respuesta a esto,
 el senado envió la siguiente declaración a los firmantes de la mencionada carta, siendo,
@@ -569,6 +605,10 @@ como parece por el contenido,
 el decreto del senado según quedó asentado en sus registros,
 del que una auténtica copia firmada por el secretario de la ciudad está en mi poder.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Lunes 15 de Marzo, 1686
 
 Recibimos una carta el 12 de este mes, escrita en Ámsterdam el 9 del mismo mes,
@@ -584,9 +624,13 @@ que nuestra palabra efectivamente se mantendrá con
 los firmantes y con todos los demás de su persuasión,
 y que la protección prometida se cumplirá realmente.
 
+[.signed-section-closing]
 Ad mandatum senatus speciale,
 
+[.signed-section-signature]
 O+++.+++ Hillings, Sec.
+
+--
 
 De este modo,
 el senado de Embden tuvo a bien concederles a los
@@ -628,6 +672,9 @@ en las Indias Occidentales,
 eran muy molestados porque por razones de consciencia no podían llevar armas,
 les ordenó a algunos miembros de su consejo escribir la siguiente carta:
 
+[.embedded-content-document.letter]
+--
+
 Después de nuestras sinceras recomendaciones,
 le ha placido a su majestad remitirnos la petición de los Cuáqueros que habitan en Barbados,
 y hemos considerado conveniente solicitarles y requerirles por la presente,
@@ -640,9 +687,13 @@ en la medida que sea consistente con la seguridad de la isla,
 la preservación de la milicia, y en concordancia con la intención de la mencionada ley.
 Nos despedimos de corazón. Sus afectuosos amigos,
 
+[.signed-section-signature]
 Jefferies, Craven, Albemarle, Middleton.
-De la cámara del Consejo, Whitehall,
-23 de Julio de 1686.
+
+[.signed-section-context-close]
+De la cámara del Consejo, Whitehall, 23 de Julio de 1686.
+
+--
 
 De esta carta se desprende claramente,
 que el rey se esforzó por aliviar a los Cuáqueros de la
@@ -652,11 +703,16 @@ escrita por el conde de Sunderland, entonces presidente del consejo privado,
 al conde de Huntington, para detener la persecución en Leicestershire y Nottinghamshire,
 donde un tal John Smith había actuado de forma muy grave.
 
+[.embedded-content-document.legal]
+--
+
+[.signed-section-context-open]
 Whitehall, 7 de Diciembre de 1686
 
 Al honorable conde de Huntingdon, miembro del honorable consejo privado del rey,
 registrador principal del Leicester, encargado de los registros del condado de Leicester.
 
+[.salutation]
 Mi señor,
 
 Al ser informado el rey de que un tal John Smith, un informante común,
@@ -670,14 +726,21 @@ ni a su persecución contra los Cuáqueros.
 Mi señor, soy por su gracia el duque de Newcastle,
 miembro del honorable consejo privado del rey, etc.
 
+[.signed-section-closing]
 Tu más fiel y humilde siervo,
 
+[.signed-section-signature]
 Sunderland, P.
+
+--
 
 Estando inclinado así el rey a darle libertad a los
 prisioneros que estaban en custodia por la religión,
 no descuidó ninguna oportunidad de obtenerla,
 de lo que la siguiente petición es evidencia.
+
+[.embedded-content-document.letter]
+--
 
 Al presidente del Tribunal Herbert y al juez Wright,
 asignados para celebrar la sesión del tribunal y
@@ -745,6 +808,8 @@ corazones a amar la misericordia y hacer justicia,
 y les conceda la recompensa correspondiente, lo cual es, en verdad,
 nuestro deseo y oración.
 
+--
+
 Esta petición fue firmada por dieciséis personas,
 algunas de las cuales habían estado en prisión quince, otras diez y algunas menos años;
 y junto con la duración de sus encarcelamientos,
@@ -764,6 +829,10 @@ además de cumplir con su deber de palabra.
 Y para que el descuido no se infiltrara, debido a la libertad que entonces se disfrutaba,
 les escribió la siguiente epístola a sus amigos.
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 Amigos,
 
 El Señor, mediante Su poder eterno,
@@ -805,9 +874,13 @@ y es hoy la roca de nuestra época; roca y fundamento de Dios que permanece firm
 Que el Señor Dios establezca sobre ésta a todo Su pueblo.
 Amén.
 
+[.signed-section-signature]
 George Fox.
 
+[.signed-section-context-close]
 Londres, 25 del mes Siete de 1686.
+
+--
 
 Este año murió David Barclay en Ury, Escocia.
 Antes de su partida pronunció muchas expresiones maravillosas,
@@ -928,6 +1001,9 @@ en el año 1687 escribió el siguiente documento con respecto a la oración,
 sin temor a contradecir abiertamente lo que él juzgaba ser superstición,
 aunque el rey mismo era de la religión papista.
 
+[.embedded-content-document.epistle]
+--
+
 Jesucristo, cuando enseñó a Sus discípulos a orar les dijo: "`Cuando oren, digan:
 Padre nuestro, que estás en el cielo, santificado sea Tu nombre,`" etc.
 Cristo no dice que oren a María madre de Cristo;
@@ -962,7 +1038,10 @@ y no de mí; para cobijarse con cubierta, y no de mi Espíritu,
 añadiendo pecado a pecado!`"
 Isaías 30:1.
 
+[.signed-section-signature]
 George Fox
+
+--
 
 El 20 del mes llamado Marzo, murió Robert Widders,
 uno de los primeros predicadores entre los llamados Cuáqueros.
@@ -998,12 +1077,17 @@ agradecimiento por su declaración de libertad de consciencia,
 pensaron que era conveniente redactar una carta también y presentársela al rey,
 la cual es como sigue:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Al rey Jacobo II, sobre Inglaterra, etc.
 
 Las humildes y agradecidas declaraciones de varios de los súbditos del rey,
 comúnmente llamados Cuáqueros, en y alrededores de la ciudad de Londres,
 en nombre propio y de los de su comunión.
 
+[.salutation]
 Que esto complazca al rey,
 
 Aunque no somos los primeros en presentarnos de esta manera,
@@ -1048,7 +1132,10 @@ Y le oramos a Dios que bendiga con gracia y paz al rey, a su familia real y a su
 y que después de un largo y próspero reinado aquí,
 reciba una mejor corona entre los bienaventurados.
 
+[.signed-section-closing]
 La cual es la oración de, etc.
+
+--
 
 Esta carta fue recibida favorablemente, y por tanto,
 algunos representantes de la reunión anual (que fue celebrada
@@ -1057,6 +1144,10 @@ y fueron a Windsor donde estaba entonces la corte.
 William Penn, que fue uno de los escogidos para presentar la carta,
 pronunció el siguiente discurso ante el rey:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Que esto complazca al rey,
 
 Fue el dicho de nuestro bendito Señor a los judíos insidiosos con respecto al tributo:
@@ -1090,10 +1181,16 @@ nos ha designado para esperar al rey con nuestros humildes agradecimientos,
 y a mí para entregárselos.
 Esto lo hago mediante este discurso, con todo el afecto y respeto de un súbdito obediente.
 
+--
+
 Después de que W. Peen habló, presentó la carta al rey,
 quien después de recibirla amablemente,
 se la dio de nuevo a William Penn para que la leyera, que era como sigue:
 
+[.embedded-content-document.address]
+--
+
+[.salutation]
 Al rey Jacobo II de Inglaterra, etc.
 
 El humilde y agradecido reconocimiento de sus pacíficos súbditos llamados Cuáqueros,
@@ -1129,10 +1226,18 @@ por lo que esperamos que los buenos efectos de dicha obra en la paz,
 comercio y prosperidad del reino produzcan tal acuerdo en el Parlamento,
 que los asegure a nuestro posteridad en los tiempos venideros.
 
+[.signed-section-closing]
 Sus pacíficos, afectuosos y fieles súbditos,
 
+--
+
+[.offset]
 Después de que William Penn leyó la mencionada carta, el rey habló como sigue:
 
+[.embedded-content-document.address]
+--
+
+[.salutation]
 Caballeros,
 
 Les agradezco de corazón su carta.
@@ -1142,6 +1247,8 @@ y que todos los hombres deben tener la libertad de sus consciencias.
 Y lo que he prometido en mi declaración, lo continuaré realizando mientras viva;
 y espero establecerlo antes de morir,
 de modo que en las edades venideras no haya razón para alterarlo.
+
+--
 
 Aquí vemos que lo que el rey declaró era su intención, pero, tal vez no consideró,
 que si tal libertad general hubiera sido conseguida,
@@ -1169,6 +1276,10 @@ cargos sin tener que prestar los juramentos requeridos.
 No obstante, en la siguiente orden al alcalde de Londres,
 se ve que él liberó a los Cuáqueros de algunos juramentos:
 
+[.embedded-content-document.legal]
+--
+
+[.salutation]
 Señor alcalde,
 
 Se le ha informado al rey que Edward Brooker, Henry Jefferson y Joseph Tomlinson,
@@ -1186,9 +1297,13 @@ mencionados cargos sin prestar ningún juramento,
 o bien, que no sean multados ni molestados de ninguna forma por ese motivo;
 y su majestad desea que des la orden correspondiente.
 
+[.signed-section-closing]
 Soy, mi señor, el más humilde servidor de su señoría,
 
+[.signed-section-signature]
 Sunderland.
+
+--
 
 Ahora bien,
 considerando que en algunos lugares los bienes que se les
@@ -1197,8 +1312,13 @@ el rey ordenó que esos bienes les fueran devueltos,
 como puede verse por la siguiente carta escrita al alcalde y a los concejales de Leeds,
 en Yorkshire:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Whitehall, 14 de Diciembre de 1687.
 
+[.salutation]
 Caballeros,
 
 Al ser informado el rey de que algunos de los bienes que pertenecen a John Wales,
@@ -1216,9 +1336,13 @@ que fueron confiscados hasta ahora por motivos de su adoración religiosa,
 y no están vendidos, y permanecen en manos de cualquiera,
 sean inmediatamente devueltos a los respectivos propietarios sin cargo alguno.
 
+[.signed-section-closing]
 Soy, caballeros, su afectivo amigo y servidor,
 
+[.signed-section-signature]
 Sunderland
+
+--
 
 Por estos medios algunos recibieron de vuelta los bienes
 que habían sido tomados por motivos de su adoración religiosa;
@@ -1357,8 +1481,13 @@ redactar de nuevo una carta al rey y ponerlo al corriente
 de una cosa más que continuaba siendo un problema para ellos.
 La carta que le presentaron es como sigue:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Al rey Jacobo II sobre Inglaterra, etc.
 
+[.offset]
 La humilde carta del pueblo llamado Cuáqueros, de su Reunión Anual en Londres,
 el día 6 del mes llamado Junio de 1688.
 
@@ -1400,6 +1529,8 @@ dejar que el mundo vea que podemos apoyar honestamente y de corazón la libertad
 y aun así, ser enteramente fieles a nuestra propia religión,
 cualquiera que sea la locura o malicia de algunos hombres que puedan sugerir lo contrario.
 
+--
+
 Esta carta presentada al rey fue bien recibida.
 Algunos han pensado que la última parte de esta carta se refería al oficio de magistrado,
 oficio que, según se cree,
@@ -1436,10 +1567,16 @@ Había entonces en Norwich casi cuarenta personas del pueblo llamado Cuáqueros,
 quienes habiéndole pedido al rey que se complaciera en hacerlos hombres libres,
 obtuvieron la siguiente orden de él:
 
+[.embedded-content-document.legal]
+--
+
+[.signed-section-context-open]
 A nuestro fiel y estimado Procurador General.
 
+[.signed-section-context-open]
 Jacobo R.
 
+[.salutation]
 Fiel y estimado, te saludamos cordialmente:
 
 Considerando que hemos recibido un buen informe de
@@ -1463,7 +1600,10 @@ Dado en nuestra corte en Whitehall, el día 13 de Julio de 1688,
 el cuarto año de nuestro reinado.
 Por orden de su majestad.
 
+[.signed-section-signature]
 Sunderland.
+
+--
 
 Muchos decían entonces que el rey no tenía derecho a hacer esto;
 y aquellos que les negaban a los Cuáqueros esta libertad,
@@ -1670,7 +1810,7 @@ que si nosotros se lo quitábamos de nuevo,
 él no nos lo impediría. Esto es todo lo que tenemos que decir.`"
 Algunos de los miembros del gran jurado conocían muy bien a Theophilus,
 y la causa también, lo que no favorecía mucho al juez; y en cuanto a la acusación,
-la declararon ignoramus.^
+la declararon __ignoramus__.^
 footnote:[La decisión de un gran jurado de que no hay pruebas que respalden los cargos,
 en virtud de la cual se suspenden todos los procedimientos y el acusado queda en libertad.]
 Así, Theophilus fue absuelto por proclamación, y sir Richard How,
@@ -1701,6 +1841,9 @@ había tenido al servicio del rey cuando todavía era
 el duque de York y alto almirante de Inglaterra;
 y también, por su favor al liberarlo de la torre de Londres en 1669.
 A esto añadió:
+
+[.embedded-content-document.letter]
+--
 
 La humilde solicitud que mi padre le hizo en su lecho de muerte fue,
 que me protegiera de las inconveniencias y dificultades
@@ -1740,6 +1883,8 @@ Ni una sola vez he pensado en promover algún tipo de libertad de consciencia,
 para alguien que no preserve el reino Protestante
 común y los antiguos derechos del gobierno;
 porque a decir verdad, uno no puede mantenerse sin el otro.
+
+--
 
 De este pequeño extracto de la defensa de William Penn,
 se desprende suficientemente qué tipo de libertad defendía;
@@ -1794,12 +1939,19 @@ Pero una vez liberado,
 llegó a Londres en el mes llamado Mayo y predicó allí un sermón con respecto a la regeneración,
 el cual fue tomado de su boca en taquigrafía y publicado después como sigue.
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 Sermón predicado por William Dewsbury en Gracechurch Street,
 
+[.signed-section-context-open]
 el 16 del mes Tres de 1688
 
+[.salutation]
 Mis Amigos,
 
+[.offset]
 A menos que sean regenerados y nazcan de nuevo, no pueden heredar el reino de Dios.
 
 Esta es la palabra del Señor Dios para todos los hombres hoy.
@@ -2228,11 +2380,16 @@ dice el Señor.`" Esta es la porción del pueblo pobre, que se postra delante de
 para que Él los levante y sea todo en todo para ellos.
 Y en Su bendita presencia tengan gozo y ríos de delicias a Su diestra para siempre.
 
+--
+
 Su intención era asistir a la reunión anual de sus amigos,
 pero una enfermedad se lo impidió, por lo que antes de empeorar, regresó a Warwick,
 donde vivía. Después de llegar allí, su enfermedad se agravó,
 y estando muy enfermo en cama y rodeado por algunos de sus amigos que lo visitaban,
 les dijo en gran debilidad de cuerpo, lo siguiente:
+
+[.embedded-content-document.address]
+--
 
 Mi Dios puso en mi corazón dar testimonio de Su nombre y de Su bendita verdad.
 No podré olvidar jamás el día de Su gran poder y bendita aparición,
@@ -2265,6 +2422,8 @@ y den un testimonio fiel y vivo de Él en sus días.
 El Señor prosperará Su obra en sus manos,
 y hará que Su verdad florezca y se extienda por todas partes.
 Porque la verdad tendrá la victoria y ninguna arma forjada contra ella prosperará.
+
+--
 
 Así de ferviente en espíritu estaba William Dewsbury en su final.
 Oró a Dios muy vehementemente por todos sus amigos,
