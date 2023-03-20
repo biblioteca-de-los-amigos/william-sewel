@@ -1,15 +1,25 @@
 == Capítulo XXII
 
+[.section-date]
 1689--1694
 
-Revolución en Inglaterra--El Parlamento confirma la libertad de consciencia--Declaración
-de fidelidad de los Amigos--Amigos de Barbados aliviados--Muerte de R. Barclay--Epístola
-de S. Crisp a todas las iglesias de Cristo--Enfermedad y muerte de G. Fox--Carácter
-de G. Fox--Epístola de G. Fox a todos los hijos de Dios en todas partes--Apostasía
-de G. Keith--G. Keith tergiversa los principios de los Amigos--Declaración de
-la doctrina Cristiana de los Cuáqueros--Francis Bugg--Petición al Parlamento
-de una declaración en lugar de un juramento--Estado
-del caso por T. Ecclestone--Muerte de la reina María.
+[.chapter-synopsis]
+* Revolución en Inglaterra
+* El Parlamento confirma la libertad de consciencia
+* Declaración de fidelidad de los Amigos
+* Amigos de Barbados aliviados
+* Muerte de R. Barclay
+* Epístola de S. Crisp a todas las iglesias de Cristo
+* Enfermedad y muerte de G. Fox
+* Carácter de G. Fox
+* Epístola de G. Fox a todos los hijos de Dios en todas partes
+* Apostasía de G. Keith
+* G. Keith tergiversa los principios de los Amigos
+* Declaración de la doctrina Cristiana de los Cuáqueros
+* Francis Bugg
+* Petición al Parlamento de una declaración en lugar de un juramento
+* Estado del caso por T. Ecclestone
+* Muerte de la reina María
 
 Paso ahora al año 1689,
 al principio del cual los aristócratas del reino le ofrecieron
@@ -85,6 +95,9 @@ Sin embargo, para cumplir con el pueblo llamado Cuáqueros,
 quienes por un asunto de consciencia se negaban a prestar juramento,
 esta ley demandaba que subscribieran la siguiente declaración:
 
+[.embedded-content-document.legal]
+--
+
 Yo+++_______+++, prometo sinceramente y declaro solemnemente, ante Dios y el mundo,
 que seré fiel y leal al rey William y a la reina Mary; y profeso y declaro solemnemente,
 que de todo corazón aborrezco, detesto y renuncio, como impía y herética,
@@ -95,14 +108,22 @@ Y declaro que ningún príncipe, persona, prelado, estado o potentado extranjero
 tiene o debe tener ningún poder, jurisdicción, superioridad, preeminencia o autoridad,
 eclesial o espiritual, dentro de este reino.
 
+--
+
+[.offset]
 Además de esto, estaban obligados a subscribirse a otra también,
 con respecto a su ortodoxia, y para excluir el Socianismo.^
 footnote:[Ver nota de pie de página, capítulo 18.]
+
+[.embedded-content-document.legal]
+--
 
 Yo+++_______+++, profeso fe en Dios Padre y en Jesucristo su Hijo eterno, el verdadero Dios,
 y en el Espíritu Santo, un solo Dios, bendito para siempre;
 y reconozco que las Sagradas Escrituras del Antiguo
 y Nuevo Testamento fueron dadas por inspiración divina.
+
+--
 
 Y para que ningún papista hiciera uso de esta declaración,
 se requerían suficientes testigos Protestantes para
@@ -144,8 +165,13 @@ enviaron una petición al rey en la que exponían cómo eran molestados,
 y le solicitaban ayuda.
 Esto tuvo tal efecto, que el rey emitió la siguiente orden:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 En el Consejo en Whitehall, 12 de Diciembre, 1689
 
+[.salutation]
 En atención a la excelentísima majestad el rey en el consejo.
 
 Tras leer una petición de las personas llamadas Cuáqueros,
@@ -161,7 +187,10 @@ quien deberá darles a los peticionarios alivio con respecto a la milicia,
 según le parezca justo y razonable responder a sus circunstancias particulares,
 y luego informar de ello a su majestad.
 
+[.signed-section-signature]
 Richard Colling.
+
+--
 
 Este año murió Alexander Parker, algunas veces mencionado en esta historia,
 al ser un hombre no sólo de una vida y conducta piadosas,
@@ -189,8 +218,13 @@ en la que las exhortaba muy especialmente a la caridad.
 Y ya que en ella se exponen y recomiendan varios deberes importantes,
 no puedo dejar de insertar aquí una copia de ella, que es como sigue:
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 Queridos amigos y hermanos,
-reunidos fuera del mundo por el brazo y poder eternos del poderoso Dios,
+
+Reunidos fuera del mundo por el brazo y poder eternos del poderoso Dios,
 para llevar Su santo nombre en la generación de ustedes;
 mi amor y vida en la comunión del Espíritu universal los saluda a todos,
 y oro a Dios que sean mantenidos firmes e inconmovibles en la gracia de Dios,
@@ -749,11 +783,16 @@ el Señor de los ejércitos, el Rey de los santos, a quien sea toda la gloria,
 el honor y el renombre, en ésta y todas las generaciones por los siglos de los siglos.
 Amén.
 
+[.signed-section-closing]
 De su amigo y hermano, en la comunión y hermandad del evangelio de paz y pureza,
 
+[.signed-section-signature]
 Stephen Crisp
 
+[.signed-section-context-close]
 Londres, el 15 del mes Siete de 1690.
+
+--
 
 Paso de largo otros asuntos de este año, y llego al siguiente, al año 1691,
 a comienzos del cual partió de esta vida G. Fox,
@@ -827,6 +866,9 @@ son ampliamente expuestas por Thomas Ellwood,
 un eminente autor, que habiendo estado mucho con él,
 dio la siguiente descripción de su carácter.
 
+[.embedded-content-document.testimony]
+--
+
 Él era, en verdad, un hombre de mente celestial, celoso del nombre del Señor,
 que prefería el honor de Dios antes que todas las cosas.
 Era valiente en la verdad, audaz al afirmarla, paciente al sufrir por ella,
@@ -852,6 +894,8 @@ y estaba lleno de amor fraternal y cuidado paternal, pues, en efecto,
 el cuidado de las iglesias de Cristo estaba diariamente sobre él,
 cuya prosperidad y paz buscaba diligentemente.
 
+--
+
 Thomas Ellwood y otros han dicho muchos elogios más de él,
 pero no detendré más a mi lector con ello.
 Su esposa, unos seis meses antes de su muerte, había ido a verlo a Londres,
@@ -866,9 +910,14 @@ Qué significaba esto, parecía un enigma; pero habiendo muerto,
 se juzgó que era el tiempo de abrir la carta, la cual estaba dirigida a sus amigos,
 y es como sigue:
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 Para la reunión anual y del segundo-día en Londres,
 y para todos los hijos de Dios en todas partes del mundo.
 
+[.offset.centered]
 Por y de G. Fox.
 
 Esto es para todos los hijos de Dios en todas partes,
@@ -964,7 +1013,11 @@ Cristo dice: "`En Mi tienen paz.`"
 hay dificultades.
 Por tanto, manténganse en Cristo y caminen en Él. Amén.
 
+[.signed-section-signature]
 G+++.+++ Fox
+
+[.postscript]
+====
 
 P+++.+++ S. Jerusalén era la madre de todos los verdaderos Cristianos antes de la apostasía;
 y desde entonces,
@@ -972,9 +1025,15 @@ los Cristianos externos están divididos en muchas sectas y han tenido muchas ma
 Pero todos los que han salido de la apostasía por el poder y Espíritu de Cristo,
 tienen por madre a la Jerusalén de arriba, quien alimenta a todos sus hijos espirituales.
 
+====
+
+[.signed-section-signature]
 G+++.+++ Fox
 
+[.signed-section-context-close]
 Leída en la Reunión Anual en Londres, 1691
+
+--
 
 Encuentro que William Goodbridge de Banwell, en Somersetshire,
 fue liberado de prisión este año,
@@ -1141,9 +1200,11 @@ que su creencia era realmente ortodoxa y en concordancia con las Sagradas Escrit
 Esto lo hicieron mediante el siguiente tratado,
 que en el año 1693 salió por la prensa en Londres como sigue:
 
-La Doctrina Cristiana y de la Sociedad del Pueblo Llamado Cuáqueros
+[.embedded-content-document.paper]
+--
 
-Absuelta de todo Reproche, etc.
+[.letter-heading]
+La Doctrina Cristiana y de la Sociedad del Pueblo Llamado Cuáqueros Absuelta de todo Reproche, etc.
 
 Considerando que últimamente se han publicado por la prensa varios relatos sobre algunas
 divisiones y disputas recientes entre personas bajo el nombre de Cuáqueros en Pennsylvania,
@@ -1169,6 +1230,7 @@ solemne y sinceramente declaramos lo que nuestra creencia y profesión Cristiana
 y sigue siendo, con respecto a Jesucristo el unigénito Hijo de Dios, Su sufrimiento,
 muerte, resurrección, gloria, luz, poder y gran día de juicio, etc.
 
+[.offset]
 Nosotros sinceramente profesamos:
 
 Fe en Dios por Su unigénito Hijo Jesucristo, quien es nuestra luz y vida,
@@ -1457,7 +1519,8 @@ lo que las Sagradas Escrituras claramente declaran y testifican de estos asuntos
 habiendo estado siempre listos a abrazar los testimonios
 y profecías de Cristo y Sus apóstoles.
 
-2+++.+++ En cuanto a la doctrina de la resurrección:
+[.offset]
+1+++.+++ En cuanto a la doctrina de la resurrección:
 
 "`Si en esta vida solamente tenemos esperanza en Cristo,
 los más miserables somos de todos los hombres`" (1
@@ -1491,6 +1554,7 @@ estimamos muy innecesario disputar o cuestionar cómo resucitarán los muertos,
 o con qué cuerpos vendrán;
 sino que sometemos esas cosas a la sabiduría y beneplácito del Todopoderoso Dios.
 
+[.offset]
 2+++.+++ En cuanto a la doctrina del juicio eterno:
 
 Dios ha encomendado todo juicio a Su Hijo Jesucristo;
@@ -1543,6 +1607,7 @@ Mateo 25:30. No nos corresponde a nosotros determinar
 o disputar la manera cómo ellos serán guardados,
 sino que lo dejamos a Dios; porque Él sabe cómo.
 
+[.letter-heading]
 Posdata relativa a la doctrina de la Resurrección y del Juicio eterno
 
 A la final trompeta de Dios y a la voz del arcángel,
@@ -1573,10 +1638,14 @@ y cierran los registros o libros de dichas convicciones y juicios en sus propias
 según sus obras.
 Apocalipsis 20:12-15.
 
+[.signed-section-closing]
 Firmado en nombre de nuestra profesión Cristiana y del pueblo mencionado por,
 
+[.signed-section-signature]
 George Whitehead, Charles Marshall, Ambrose Rigge, John Bowater, William Fallowfield,
 John Vaughton, James Parke, William Bingley.
+
+--
 
 Este documento fue en general satisfactorio y bien recibido en Holanda también,
 donde después de traducirlo al holandés, logré publicarlo.
@@ -1587,26 +1656,40 @@ en Diciembre se presentó al Parlamento la siguiente
 confesión de fe (firmada por treinta y un personas,
 de las que G. Whitehead era una):
 
+[.embedded-content-document.paper]
+--
+
+[.offset]
 Sea conocido para todos que nosotros sinceramente creemos y confesamos:
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ Que Jesús de Nazaret, quien nació de la virgen María, es el verdadero Mesías,
 el mismo Cristo, el Hijo del Dios vivo, de quien todos los profetas dieron testimonio;
 y que nosotros valoramos altamente Su muerte, sufrimientos, obras,
 oficios y méritos para la redención de la humanidad, junto con Sus leyes,
 doctrina y ministerio.
 
+[.numbered]
 II. Que este mismo Cristo de Dios,
 quien es el Cordero de Dios que quita los pecados del mundo, fue inmolado,
 estuvo muerto y está vivo, y vive para siempre en Su divina y eterna gloria,
 dominio y poder con el Padre.
 
-III.
-Que las sagradas Escrituras del Antiguo y Nuevo Testamento, son de autoridad divina,
+[.numbered]
+III. Que las sagradas Escrituras del Antiguo y Nuevo Testamento, son de autoridad divina,
 al haber sido dadas por la inspiración de Dios.
 
+[.numbered]
 IV. Que la magistratura o gobierno civil es ordenanza de Dios,
 siendo sus buenos fines el castigo de los malhechores
 y la alabanza de los que hacen bien.
+
+====
+
+--
 
 Por medio de este y escritos similares,
 los ojos de algunos que estaban en el timón empezaron a abrirse más,
@@ -1627,6 +1710,9 @@ exponiendo los grandes sufrimientos que habían soportado porque
 su solemne declaración no había sido aceptada en lugar del juramento.
 Esta petición concluía así:
 
+[.embedded-content-document.paper]
+--
+
 Por tanto, nosotros encarecida y humildemente solicitamos,
 que tengan a bien darnos permiso de presentar un proyecto de ley,
 que permita que nuestra solemne respuesta, afirmativa o negativa,
@@ -1638,22 +1724,37 @@ y es debidamente condenado por ello,
 que tal persona sea sometida a los dolores y penas que están
 previstas contra las personas que cometen perjurio.
 
+[.signed-section-signature]
 William Mead, William Bingley, George Whitehead, Samuel Waldenfield, William Crouch,
 John Staploe, Walter Rental, William Macker, Thomas Hart, Joseph Wright,
 Jr. Michael Russet, Theodore Ecclestone.
 
+--
+
+[.offset]
 Después de leída la petición en la Cámara de los Comunes,
 se llegó a la siguiente resolución:
+
+[.embedded-content-document.legal]
+--
 
 Una petición del pueblo llamado Cuáqueros fue leída. Se resolvió,
 que la consideración de dicha petición se referiría a una comisión,
 y que ellos informarán a la Cámara sus opiniones al respecto.
 
+--
+
+[.offset]
 En consecuencia, se constituyó una comisión, que se reunió y dictaminó lo siguiente:
+
+[.embedded-content-document.legal]
+--
 
 En general,
 es la opinión de esta comisión que los Cuáqueros
 sean liberados según lo solicitado en su petición.
+
+--
 
 Sin embargo, no se consiguió nada durante esa sesión,
 ya que sus enemigos eran todavía lo suficientemente poderosos en el Parlamento,
@@ -1666,8 +1767,11 @@ Por lo tanto, el 22 de Diciembre del año 1694,
 se entregó a los miembros del Parlamento una representación de su caso de no jurar,
 firmada en nombre de ellos por Theodore Ecclestone, que decía lo siguiente:
 
-Una breve declaración del por qué los Cuáqueros no juran, y por qué podrían haber sido,
-y aún pueden ser aliviados de esto por el Parlamento
+[.embedded-content-document.paper]
+--
+
+[.centered]
+=== Una breve declaración del por qué los Cuáqueros no juran, y por qué podrían haber sido, y aún pueden ser aliviados de esto por el Parlamento
 
 Es una verdad cierta, que entre los Cristianos, y especialmente entre los Protestantes,
 hay varias cosas en particular en religión que por
@@ -1719,18 +1823,28 @@ Viendo, pues, que su alivio es tan necesario para ellos,
 tan inofensivo para todos y tan útil para el gobierno y sus vecinos,
 consideremos un poco las objeciones comunes, que pueden resumirse así:
 
-Primera objeción: ¿Cómo podemos estar seguros de que dicen la verdad?
+[.numbered-group]
+====
 
-Segunda: ¿Por qué hay que modificar las leyes para ellos?
+[.numbered]
+__Primera objeción:__ ¿Cómo podemos estar seguros de que dicen la verdad?
 
-Tercera: Esto sería derribar viejos cimientos.
+[.numbered]
+__Segunda:__ ¿Por qué hay que modificar las leyes para ellos?
 
-Cuarta: Les permitiría entrar en el gobierno.
+[.numbered]
+__Tercera:__ Esto sería derribar viejos cimientos.
 
+[.numbered]
+__Cuarta:__ Les permitiría entrar en el gobierno.
+
+====
+
+[.offset]
 Es de esperar que no resulte difícil responder a estas preguntas una por una,
 y que sea razonablemente satisfactorio.
 
-En cuanto a la primera, es decir, la duda de certeza:
+__En cuanto a la primera, es decir, la duda de certeza:__
 Puede afirmarse racionalmente que quien está obligado a decir la verdad,
 especialmente en contra de su propio interés (que
 es donde radica principalmente la tentación,
@@ -1747,7 +1861,10 @@ respuestas falsas tanto sin juramento como con juramento,
 entonces serían igualmente eficaces y obligatorias tanto para los
 que dan respuestas sin juramento como para los que juran.
 
-En cuanto a la segunda objeción, que sería una alteración de la ley:
+[.small-break]
+'''
+
+__En cuanto a la segunda objeción, que sería una alteración de la ley:__
 No sería una alteración de la sustancia de la ley, sino sólo de una circunstancia;
 y si el cambio no tiene ninguna desventaja, sino que es realmente una enmienda,
 y es una conveniencia para un pueblo honesto y laborioso, ¿por qué no habría de hacerse?
@@ -1762,12 +1879,15 @@ Si nuestros pobres en casa necesitan seda para trabajar,
 mientras se niega por tanto tiempo el alivio de consciencia,
 sabiendo que el escrúpulo de este pueblo proviene de un mandato positivo de Cristo?
 
-Y para la tercera objeción, que esto es derribar viejos cimientos: Respondo que no;
+[.small-break]
+'''
+
+__Y para la tercera objeción, que esto es derribar viejos cimientos:__ Respondo que no;
 que es más bien repararlos, lo cual es el trabajo propio del Parlamento.
 
 ¿No derogó el Parlamento el papismo, con todas sus pretensiones de antigüedad?
-¿No promulgó un Parlamento la ley de Habeas Corpus^
-footnote:[El acto de Habeas Corpus otorgaba a las personas privadas de
+¿No promulgó un Parlamento la ley de __Habeas Corpus__^
+footnote:[El acto de __Habeas Corpus__ otorgaba a las personas privadas de
 libertad el derecho a impugnar la legalidad de su arresto o detención.]
 contra la pretensión de prerrogativa real?
 ¿Era más razonable proteger a un súbdito del encarcelamiento de por vida por un rey,
@@ -1784,7 +1904,10 @@ Y por lo tanto,
 el alivio de ellos es un caso apropiado en el Parlamento
 para ser tomado tiernamente en cuenta y acordado.
 
-En cuanto a la cuarta objeción, que tenderá a permitirles entrar en el gobierno:
+[.small-break]
+'''
+
+__En cuanto a la cuarta objeción, que tenderá a permitirles entrar en el gobierno:__
 En respuesta a esto digo, que ustedes pueden impedirlo de la manera que les plazca;
 sólo que no permitan que esta preocupación,
 (de la que pueden ser eximidos tan fácilmente y de tan buena gana) sea un obstáculo
@@ -1797,7 +1920,7 @@ las Escrituras que ellos consideran claro y positivo a su favor,
 y del que no se atreven a apartarse.
 Y en esto tienen el acuerdo de muchos antiguos padres y mártires,
 y más recientemente de los Menonitas y del difunto Francis Osbourne (esquire),
-en sus Reflexiones Políticas, 7a edición, p. 319, quien hablando de casos judiciales,
+en sus [.book-title]#Reflexiones Políticas#, 7a edición, p. 319, quien hablando de casos judiciales,
 llama al no jurar "`rendir sincera y fiel obediencia al precepto de nuestro Salvador,
 '`no juréis en ninguna manera.`'`" "`Lo cual,`" dice él,
 "`las glosas corruptas de nuestros expositores se esfuerzan mucho por eludir,
@@ -1835,11 +1958,16 @@ por cuya ayuda están sinceramente agradecidos, tengan a bien añadir a esa bond
 su alivio en materia de juramentos entre ellos y otros súbditos,
 así como entre el gobierno y ellos.
 
+[.signed-section-closing]
 Firmado en nombre del mencionado pueblo por,
 
+[.signed-section-signature]
 Theodore Ecclestone.
 
+[.signed-section-context-close]
 Londres, 22 de Diciembre de 1694.
+
+--
 
 Aunque después de entregar esta declaración,
 el Parlamento no llegó este año a una resolución plena para alivio de ellos,
@@ -1876,5 +2004,5 @@ Muchas plumas se afanaron en celebrar sus alabanzas y lamentar su muerte;
 y tal vez ninguna reina haya sido más amada que ella en muchas edades.
 Pero me detengo; otros han dado cuenta de sus excelentes cualidades y carácter al mundo,
 y puede que ninguno mejor que el de Gilbert Burnet, obispo de Salisbury,
-en un tratado titulado, An Essay on the Memory of the late Queen.^
+en un tratado titulado, [.book-title]#An Essay on the Memory of the late Queen#.^
 footnote:[Ensayo en Memoria de la Difunta Reina.]
