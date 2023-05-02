@@ -3,17 +3,31 @@
 [.section-date]
 1695--1702
 
-Sufrimientos de los Amigos en Barbados--Final desastroso de varios perseguidores--Penitencia
-de J. Batt--Coronel Ruddock--Ley que les permite a los Cuáqueros hacer una afirmación
-en lugar de un juramento--G. Keith vuelve a denunciar a los Amigos--G. Keith se hace
-Episcopal--"`Declaración`" de la Cámara de los Comunes--Testimonio de los Cuáqueros
-relativo a la "`Declaración`"--Muerte y carácter de R. Haddock--Carta de los Cuáqueros
-a Guillermo III sobre la firma de la paz--Ley para restringir la prensa--"`Serpiente
-en la hierba`"--Relato de J. Crook--Carta de los Amigos al Rey sobre la decisión de
-la sucesión--Muerte del rey Guillermo--Proclamación de la reina Ana--Epístola de G.
-Fox sobre su primera misión--Los frutos de la misión de G. Fox--Relato de I. Penington
-sobre sí mismo--Carta de J. Crook a I. Penington--Caso de Susanna Withrow--Convencimientos
-singulares--Aumento de la Sociedad de los Amigos.
+[.chapter-synopsis]
+* Sufrimientos de los Amigos en Barbados
+* Final desastroso de varios perseguidores
+* Penitencia de J. Batt
+* Coronel Ruddock
+* Ley que les permite a los Cuáqueros hacer una afirmación en lugar de un juramento
+* G. Keith vuelve a denunciar a los Amigos
+* G. Keith se hace Episcopal
+* "`Declaración`" de la Cámara de los Comunes
+* Testimonio de los Cuáqueros relativo a la "`Declaración`"
+* Muerte y carácter de R. Haddock
+* Carta de los Cuáqueros a Guillermo III sobre la firma de la paz
+* Ley para restringir la prensa
+* "`Serpiente en la hierba`"
+* Relato de J. Crook
+* Carta de los Amigos al Rey sobre la decisión de la sucesión
+* Muerte del rey Guillermo
+* Proclamación de la reina Ana
+* Epístola de G. Fox sobre su primera misión
+* Los frutos de la misión de G. Fox
+* Relato de I. Penington sobre sí mismo
+* Carta de J. Crook a I. Penington
+* Caso de Susanna Withrow
+* Convencimientos singulares
+* Aumento de la Sociedad de los Amigos.
 
 Ahora regreso al caso y asuntos de los Cuáqueros.
 Dado que los de Barbados en América seguían siendo muy molestados por no tomar las armas,
@@ -118,6 +132,9 @@ Pero en su lecho de muerte, unos años antes de esto (1679),
 fue tan sensiblemente tocado por el arrepentimiento,
 que hizo que se escribiera el siguiente documento y lo firmó.
 
+[.embedded-content-document.address]
+--
+
 Yo, John Batt el más joven, de la isla de Barbados,
 fui recientemente comisionado por el coronel Thornhill,
 mariscal de su regimiento de infantería;
@@ -136,9 +153,13 @@ y creo que ningún hombre que practique tales cosas
 contra dicho pueblo será jamás bendecido o prosperado.
 En testimonio de lo cual firmo este décimo día de Mayo de 1679.
 
+[.signed-section-signature]
 John Batt, Jr.
 
+[.signed-section-context-close]
 Testigo William Howard, Antrobus.
+
+--
 
 Bien hubieran hecho otros, si hubieran tomado ejemplo de esto;
 pero no fue en vano lo que nuestro Salvador en la parábola del rico y Lázaro,
@@ -229,8 +250,11 @@ que la solemne afirmación y declaración del pueblo llamado Cuáqueros
 sería aceptada en lugar de un juramento en la forma habitual,
 como se desprende de la siguiente ley:
 
-Ley para que la Afirmación y Declaración Solemne del Pueblo Llamado Cuáqueros,
-Sea Aceptada en Lugar de un Juramento en la Forma Habitual.
+[.embedded-content-document.legal]
+--
+
+[.blurb]
+=== Ley para que la Afirmación y Declaración Solemne del Pueblo Llamado Cuáqueros, Sea Aceptada en Lugar de un Juramento en la Forma Habitual.
 
 Considerando que varios disidentes, comúnmente llamados Cuáqueros,
 se niegan a prestar juramento en los tribunales de justicia y en otros lugares,
@@ -247,9 +271,14 @@ en cualquier ocasión legal y en cualquier caso en que la ley requiera un jurame
 en lugar de la forma habitual se le permitirá a ella o a él hacer
 su afirmación solemne o declaración con las siguientes palabras:
 
+[.offset]
 "`Yo+++_____+++, declaro en presencia del Todopoderoso Dios,
 que es testigo de la verdad de lo que digo, etc.`"
 
+[.numbered-group]
+====
+
+[.numbered]
 II. Esta solemne afirmación o declaración será pronunciada y tomada;
 y por la presente se promulga y declara que tiene la misma fuerza y efecto,
 para todos los propósitos, en todos los tribunales de justicia y en otros lugares,
@@ -257,6 +286,7 @@ dondequiera que se requiera un juramento por ley dentro
 de este reino de Inglaterra y el dominio de Gales,
 como si dicho Cuáquero hubiera prestado juramento en la forma habitual.
 
+[.numbered]
 III.
 Se promulga además por la autoridad antes mencionada, que si algún Cuáquero,
 al hacer tal afirmación o declaración solemne,
@@ -267,15 +297,21 @@ todo Cuáquero que así transgreda incurrirá en las mismas penas
 y confiscaciones que las leyes y estatutos de este reino establecen
 contra las personas condenadas por perjurio voluntario.
 
+[.numbered]
 IV. Se promulga, que ningún Cuáquero, o reputado Cuáquero,
 en virtud de esta ley estará calificado o se le permitirá
 dar testimonio en alguna causa penal,
 o servir en algún jurado,
 o desempeñar algún oficio o posición de beneficio para el gobierno.
 
+[.numbered]
 V+++.+++ Se dispone, que esta ley continuará en vigor por un período de siete años,
 y a partir de ese momento hasta el final de la siguiente sesión del Parlamento,
 y no por más tiempo.
+
+====
+
+--
 
 De este modo fueron dispensados y liberados los Cuáqueros de esa
 pesada carga por la que habían sido oprimidos por tantos años.
@@ -316,6 +352,9 @@ se reunirían y causarían un disturbio peligroso.
 Por tanto, declinaron presentarse y dieron las siguientes razones de su negativa,
 las cuales fueron leídas en la citada reunión y después publicadas en la prensa:
 
+[.embedded-content-document.paper]
+--
+
 Considerando que George Keith, según su habitual manera irregular y revoltosa,
 ha desafiado a varios de nosotros a defendernos contra las
 acusaciones que él desea presentar contra nosotros en Turner`'s-hall;
@@ -323,7 +362,11 @@ lo siguiente es para certificar las razones por las
 que declinamos cualquier reunión de este tipo,
 ante todos aquellos que les interese:
 
-Primera:
+[.numbered-group]
+====
+
+[.numbered]
+__Primera:__
 Porque el citado G. Keith nos ha dado frecuentes pruebas de su muy apasionado y abusivo
 comportamiento en las muchas reuniones privadas que hemos tenido con él,
 ante toda manera de dulzura,
@@ -331,14 +374,16 @@ longanimidad y paciencia de nuestra parte para satisfacerlo y preservarlo de est
 de modo que no podemos esperar ahora una mejor acogida,
 ni que la reunión tenga el éxito deseable.
 
-Segunda: Declinamos reunirnos porque no es una reunión acordada por ambas partes,
+[.numbered]
+__Segunda:__ Declinamos reunirnos porque no es una reunión acordada por ambas partes,
 como debería haber sido.
 Y donde esto no es posible, la prensa es la siguiente manera justa y expedita,
 que de hecho él ha comenzado, pero que ahora parece declinar;
 ni nos ha enviado alguna copia de sus cargos o acusaciones contra nosotros,
 lo que también debió haber hecho.
 
-Tercera:
+[.numbered]
+__Tercera:__
 Él tiene dos de nuestros libros que nos defienden
 a nosotros y a nuestras doctrinas de sus acusaciones,
 y que él no ha respondido aún;
@@ -346,7 +391,8 @@ de modo que no está en igualdad de condiciones con nosotros.
 Por tanto, nosotros creemos que su desafío, reunión y convocatoria son injustos,
 y creemos que todos los que no son parciales serán de la misma opinión de nosotros.
 
-Cuarta:
+[.numbered]
+__Cuarta:__
 Tales reuniones públicas y descontroladas son muy a menudo acompañadas con pasión,
 ligereza y confusión, y no responden al fin deseado por hombres sobrios e inquisitivos.
 Además de esto,
@@ -354,12 +400,14 @@ puede establecer una práctica que las autoridades
 pueden juzgar como un abuso de nuestra libertad,
 y hacer que parezca que no somos amigos de la paz civil.
 
-Quinta: Nosotros no sabemos a qué religión o persuasión pertenece este hombre vacilante,
+[.numbered]
+__Quinta:__ Nosotros no sabemos a qué religión o persuasión pertenece este hombre vacilante,
 ni a qué iglesia o pueblo está unido,
 ni quién le recibirá o reconocerá con sus vanas especulaciones,
 o quién será responsable ante nosotros de él y de sus irregularidades y abusos.
 
-Sexta y última: Por tanto, sea sabido por todos,
+[.numbered]
+__Sexta y última:__ Por tanto, sea sabido por todos,
 que por el bien de la verdadera religión,
 la libertad que se nos ha concedido y la paz civil, declinamos reunirnos con él;
 y no por ningún temor que tengamos de sus habilidades,
@@ -379,6 +427,10 @@ encuentre la remisión de su gran pecado de envidia,
 y del perverso trato al pueblo y camino de Dios que nosotros profesamos,
 y que él también--el citado G. Keith--ha profesado por mucho tiempo,
 incluso recientemente, y celosamente defendido como tal.
+
+====
+
+--
 
 Como se ha dicho,
 estas razones fueron publicadas por los Cuáqueros para demostrarle al mundo,
@@ -569,7 +621,7 @@ porque mediante su astucia se esforzó por poner falsos
 colores sobre cosas que eran realmente buenas,
 y así introducirse en el favor del partido Episcopal.^
 footnote:["`Esto lo escribí unos años antes de saber que G. Keith había fallecido.`"
---Guillermo Sewel]
+--William Sewel]
 Porque entonces,
 el viejo cuento de que había emisarios papistas entre
 los Cuáqueros fue revivido y divulgado otra vez.
@@ -586,6 +638,9 @@ También se descubrió un complot en Inglaterra contra el rey Guillermo,
 lo que le dio ocasión a la Cámara de los Comunes de redactar una
 especie de declaración que debían firmar todos sus miembros,
 que dice:
+
+[.embedded-content-document.legal]
+--
 
 Considerando que ha habido una horrible y detestable conspiración,
 formada y llevada a cabo por papistas y otras personas perversas y traidoras,
@@ -609,6 +664,8 @@ and settling the succession of the Crown.`"__^
 footnote:[Ley por la que se declaran los derechos y libertades
 de los súbditos y se establece la sucesión de la corona.]
 
+--
+
 Una declaración fue firmada también por los lores, y ambas fueron presentadas al rey,
 y fueron seguidas por todas las casas en Inglaterra.^
 footnote:[Ver [.book-title]#La Vida del Rey Guillermo,# vol. III]
@@ -619,8 +676,11 @@ de ninguna manera podían entrar en tal coalición. Sin embargo,
 para demostrar que eran leales y fieles al rey,
 redactaron la siguiente declaración y la publicaron en la prensa:
 
-El antiguo testimonio y principio del pueblo llamado Cuáqueros renovado,
-con respecto al rey y al gobierno, y tocante a la reciente declaración:
+[.embedded-content-document.paper]
+--
+
+[.blurb]
+=== El antiguo testimonio y principio del pueblo llamado Cuáqueros renovado, con respecto al rey y al gobierno, y tocante a la reciente declaración:
 
 Nosotros, el citado pueblo, declaramos solemne y sinceramente,
 que ha sido nuestro juicio y principio desde el primer día que fuimos llamados
@@ -660,7 +720,10 @@ Y por esto, nosotros y toda la nación,
 tenemos grandes motivos para humildemente estar agradecidos,
 y orar por la continuación de Sus misericordias para con ellos y para con nosotros.
 
+[.signed-section-closing]
 De la reunión del citado pueblo en Londres, el 23 del primer mes, llamado Marzo, de 1669.
+
+--
 
 Este año Roger Haddock murió de fiebre en su casa en Penketh, Lancashire,
 a los casi cincuenta y tres años. Él había estado en Holanda el año anterior,
@@ -672,6 +735,9 @@ estaba más que ordinariamente lleno de materia valiosa en su predicación,
 su muerte fue muy lamentada entre las iglesias en
 Inglaterra donde había trabajado más en el evangelio.
 Su esposa Eleanor, en su testimonio con respecto a él dijo lo siguiente:
+
+[.embedded-content-document.testimony]
+--
 
 Mi espíritu ha estado y está doblegado,
 bajo un profundo sentido de mi gran pérdida y prueba por la partida de mi querido esposo,
@@ -690,6 +756,8 @@ para que los vivos vean Sus maravillas y magnifiquen Su poder en todo,
 a través de todo y sobre todo, quien es Dios eterno, bendito para siempre.
 Amén.
 
+--
+
 Luego en su testimonio da cuenta de la vida de él, y de cómo en su juventud,
 él había sido para ella un fiel instructor en la piedad,
 y finalmente se había convertido en su esposo.
@@ -699,6 +767,9 @@ dice también, que aunque su amor por ella estaba por encima de las cosas visibl
 como el mejor de los placeres que él tenía en este mundo, aun así,
 ella no era demasiado querida para él como para renunciar a servir a la verdad de Dios.
 Por tanto, dice,
+
+[.embedded-content-document.testimony]
+--
 
 Yo fui hecha una bendición para él, cada día más agradable que el anterior.
 Él a menudo lo expresaba; y él verdaderamente fue así para mí cada día,
@@ -726,6 +797,8 @@ Y aunque mi porción sea estar por un tiempo en este mundo de aflicciones,
 aun así tengo esperanza en la inmortalidad y en la bienaventuranza eterna,
 cuando mi tiempo en este mundo se acabe.
 
+--
+
 Así escribió; pero para evitar la redundancia, aquí me interrumpo.
 Luego, dando ella cuenta de la vida y ministerio de su esposo, menciona,
 que por estar lejos de casa no había estado presente en su muerte;
@@ -749,18 +822,22 @@ footnote:[Composición poética o estrofa de dos versos que expresan un concepto
 falso fue una evidencia, que al ser enviado desde Flandes por un clérigo de Gante,
 a Holanda, cayó primero en mis manos:
 
+[verse]
+____
 Prospicimus modo quod durabunt Fcedera longo
-
 Tempore, nee nobis pax cito diffugiet.
+____
 
 Que puede traducirse al español así:
 "`Prevemos ahora que la confederación durará mucho tiempo,
 y que la paz no se nos escapará rápidamente.`"
 Sin embargo, si uno lee este dístico al revés queda así:
 
+[verse]
+____
 Diffugiet cito pax nobis, nee tempore longo
-
 Fcedera durabunt, quod modo prospicimus.
+____
 
 Y tiene un sentido totalmente contrario, a saber: "`La paz pronto volará de nosotros,
 y el pacto no durará mucho; lo cual ya prevemos.`"
@@ -774,11 +851,16 @@ y personas de todas las sociedades y persuasiones se dirigieron al rey,
 los Cuáqueros también redactaron una carta que le presentaron al rey,
 y que era como sigue:
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 Al rey Guillermo III sobre Inglaterra, etc.
 
-El reconocimiento agradecido del pueblo comúnmente llamado Cuáqueros,
-humildemente presenta:
+[.blurb]
+=== El reconocimiento agradecido del pueblo comúnmente llamado Cuáqueros, humildemente presenta:
 
+[.salutation]
 Sea de complacencia al rey,
 
 Que viendo que el altísimo Dios,
@@ -805,7 +887,10 @@ a llevar adelante todas sus justas y buenas inclinaciones,
 para que sus días aquí sean felices y pacíficos,
 y en la otra vida participe de una corona duradera que nunca se desvanecerá.
 
+[.signed-section-closing]
 Londres, 7 del mes once llamado Enero de 1697.
+
+--
 
 Esta carta que fue firmada y presentada al rey por George Whitehead, Thomas Lower,
 Daniel Quare, John Vaughton, John Edge y Gilbert Latey,
@@ -822,8 +907,11 @@ que se presentó en el Parlamento un proyecto de ley para restringir la libertad
 y como los llamados Cuáqueros percibieron que esto podría ser perjudicial,
 redactaron las siguientes observaciones y las entregaron a los miembros del Parlamento:
 
-Algunas observaciones humildemente ofrecidas por el pueblo llamado Cuáqueros,
-en relación con el proyecto de ley para restringir la libertad de prensa.
+[.embedded-content-document.address]
+--
+
+[.blurb]
+=== Algunas observaciones humildemente ofrecidas por el pueblo llamado Cuáqueros, en relación con el proyecto de ley para restringir la libertad de prensa.
 
 Impedir la impresión y publicación de libros sediciosos o de traición contra el gobierno,
 o panfletos escandalosos que se inclinan al vicio y a la inmoralidad,
@@ -867,6 +955,8 @@ Por lo tanto,
 humildemente esperamos que no se promulgue una ley que reduzca la tolerancia,
 la cual nosotros agradecidamente disfrutamos bajo el favor de este gobierno,
 así como del anterior.
+
+--
 
 Estas observaciones, junto con otras que se ofrecieron,
 tuvieron tal efecto que el proyecto de ley fue retirado.
@@ -929,6 +1019,10 @@ puesto que él partió de esta vida en el año 1699.
 Dejó por escrito la siguiente exhortación o advertencia a sus hijos y nietos,
 escrita apenas dos meses antes de su muerte:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Queridos hijos,
 
 Debo dejarlos en una época perversa,
@@ -1045,11 +1139,16 @@ por medio de este consejo muestro mi verdadero amor por todos ustedes,
 deseando que Dios ponga Su bendición sobre él, a quien los encomiendo a todos,
 mis queridos hijos, y así termino mis días,
 
+[.signed-section-closing]
 Vuestro amoroso padre y abuelo,
 
+[.signed-section-signature]
 John Crook.
 
+[.signed-section-context-close]
 Hertford, el primero del primer mes de 1699.
+
+--
 
 La aguda aflicción de la que él habla en este escrito era más que un sola enfermedad;
 porque las piedras en los riñones, la gota y los cólicos lo atacaban a veces duramente,
@@ -1139,10 +1238,16 @@ con un reconocimiento agradecido por sus favores.
 Así lo hicieron, con una carta presentada al rey en Diciembre, por George Whitehead,
 Guillermo Mead y Francis Camfield.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Al rey Guillermo III sobre Inglaterra, etc.
 
-Carta humildemente presentada por el pueblo comúnmente llamado Cuáqueros:
+[.blurb]
+=== Carta humildemente presentada por el pueblo comúnmente llamado Cuáqueros:
 
+[.salutation]
 Sea de complacencia al rey,
 
 Que nosotros, tus fieles súbditos,
@@ -1178,6 +1283,8 @@ Esta es, y será, la ferviente oración de nosotros, tus sinceros y fieles súbd
 
 Firmada en nombre y por designación del citado pueblo, en una reunión en Londres,
 el octavo mes de 1701.
+
+--
 
 Después de que esta carta le fue leída al rey, fue favorablemente recibida,
 y él les agradeció a los que la habían presentado y les respondió: "`Yo los he protegido,
@@ -1331,6 +1438,9 @@ Y remontándonos un poco antes de esta fecha,
 podemos ver lo mismo en un testimonio de George Fox que se publicó después de su muerte,
 en la colección de sus epístolas:
 
+[.embedded-content-document.epistle]
+--
+
 Cuando el Señor me envió por primera vez en el año 1643,
 fui enviado como un cordero inocente y joven en años,
 entre hombres en la naturaleza de lobos, perros, osos, leones y tigres,
@@ -1381,7 +1491,10 @@ porque el Señor los destruyó o los redujo a nada,
 y Su verdad floreció y Su pueblo en ella, para alabanza de Dios,
 quien es el vengador de Sus escogidos.
 
+[.signed-section-signature]
 G+++.+++ Fox
+
+--
 
 G+++.+++ Fox entonces,
 habiendo sido el primero de los Cuáqueros que predicó y proclamó
@@ -1429,6 +1542,9 @@ Isaac Penington (mencionado más de una vez en esta historia) es un ejemplo nota
 como puede verse en un relato de sí mismo, escrito de su puño y letra,
 y hallado entre sus documentos después de su muerte,
 en el que habla de la siguiente manera:
+
+[.embedded-content-document.paper]
+--
 
 Yo he sido un hombre de tristeza y aflicción desde mi infancia,
 uno que ha sentido necesidad del Señor y ha llorado
@@ -1609,9 +1725,13 @@ absolutamente no, sino porque esta mañana sentí que se me requería,
 y en sumisión y sujeción a mi Dios me entregué a la tarea,
 dejándole el éxito y servicio de esto a Él.
 
+[.signed-section-signature]
 I+++.+++ Penington.
 
+[.signed-section-context-close]
 Aylesbury, 10 del mes tercero, 1667.
+
+--
 
 Por la manera en que concluye podemos ver la humildad de la mente de este amigo,
 quien cuando escribió esto, ya estaba muy avanzado en el camino de piedad,
@@ -1649,6 +1769,10 @@ en general podemos descubrir muy claramente su estado
 interno y también sus cualidades externas.
 Esta carta es como sigue:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Querido Amigo,
 
 Mi dulce y tierno amor te saluda, en ese amor del que tuve mi ser,
@@ -1739,7 +1863,10 @@ y que mi Dios y Padre te guarde en los brazos de amor eterno, por encima de todo
 hasta el fin y para Su alabanza.
 Amén.
 
-John Crook.
+[.signed-section-signature]
+John Crook
+
+--
 
 John Crook había sido un hombre notable en el mundo,
 no sólo porque había sido juez de paz, como se ha dicho en su debido lugar,
@@ -1802,6 +1929,9 @@ prevalecerá.`" Continuando en este conflicto,
 al fin concibió algunas esperanzas de perdón,
 y siendo así fortalecida por la misericordia, le dijo al Señor:
 
+[.embedded-content-document.prayer]
+--
+
 ¡Oh, ¿qué puede decir mi alma de Tu poder?! Te busqué, pero no te encontré;
 toqué fuerte la puerta, pero nadie me abrió. Porque mis pecados se erguían como montañas,
 de modo que no podía acercarme a Ti. Yo quería orar fervientemente ante Ti,
@@ -1816,6 +1946,8 @@ y el espíritu de oración y súplica fue derramado sobre mí. Y ahora
 puedo cantar como cantó David de la misericordia y del juicio:
 "`A Ti, oh Señor, cantaré con un corazón desgarrado,
 y con mi boca en el polvo Te cantaré alabanzas, mi bendito Salvador.`"
+
+--
 
 Ella se esforzó por continuar en este estado, y una vez oró por su padre, Robert Withrow,
 parte de cuya oración fue: "`Señor, no te acuerdes de sus ofensas,
