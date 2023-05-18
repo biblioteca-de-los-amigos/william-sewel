@@ -7,7 +7,7 @@
 * Amigos viajando por Holanda y Alemania
 * Princesa Elizabeth del Palatinado
 * Correspondencia entre la princesa Elizabeth y W. Penn y R. Barclay
-* Anna María Schurman y los Labadistas--
+* Anna Mary Schurman y los Labadistas--
 * Carta de W. Penn al Consejo y al Senado de Embden
 * Trato rudo del conde de Bruch
 * Disputa de G. Fox y W. Penn con Galenus Abraham
@@ -51,7 +51,7 @@ fue a Holanda para ver a sus amigos y para edificarlos con su don.
 William Penn y Robert Barclay viajaron a Alemania,
 y como R. Barclay el año anterior había hablado con
 la princesa Elizabeth del Palatinado (hija de Frederick,
-rey de Bohemia y hermana de Sofía, fallecida duquesa de Hanover, madre de Jorge,
+rey de Bohemia y hermana de Sofía, fallecida duquesa de Hanover, madre de George,
 rey de Gran Bretaña), William Penn le escribió también dos cartas desde Inglaterra,
 que ella respondió de la siguiente manera:
 
@@ -112,7 +112,7 @@ Hereford, 30 de Agosto de 1677
 
 Esta correspondencia les dio oportunidad a William Penn y a Robert Barclay de ir a Herford,
 un pueblo en las fronteras de Paderborn, y hacerle a la mencionada princesa una visita,
-pues ella residía ahí. Con ella vivía Anna María, condesa de Homes;
+pues ella residía ahí. Con ella vivía Anna Mary, condesa de Homes;
 y William Penn y Robert Barclay tuvieron una reunión con la princesa,
 la condesa y algunos otros, en una de las estancias de la princesa,
 para gran satisfacción de ellos.
@@ -167,7 +167,7 @@ les escribió una epístola de exhortación^
 footnote:[Ver Penn`'s Travels in Holland, etc.
 // lint-disable invalid-characters `º`
 3º impresión, p. 77. t Ibid. p. 84.]
-a Elizabeth, princesa de Palatinado, y a Anna María, condesa de Homes.
+a Elizabeth, princesa de Palatinado, y a Anna Mary, condesa de Homes.
 Luego se fue a Heidelberg, la principal ciudad de Palatinado,
 para hablar con el príncipe elector, Charles Ludowick,
 hermano de la citada princesa Elizabeth,
@@ -855,7 +855,7 @@ trece años (y casi siempre mientras estaba en prisión),
 hasta que sus duros sufrimientos acabaron con su vida.
 
 Fue también en este año que William III, príncipe de Orange,
-llegó de Holanda a Inglaterra, y ahí se casó con la princesa María,
+llegó de Holanda a Inglaterra, y ahí se casó con la princesa Mary,
 la hija mayor del duque de York,
 lo que con el paso del tiempo le abrió el camino para ascender
 al trono de Gran Bretaña. Él contrajo matrimonio el 4 de Noviembre,
@@ -1494,7 +1494,7 @@ establecer magistrados, hacer leyes que no fueran contrarias a las leyes de Ingl
 y poder para perdonar delitos.
 En esta patente, el rey declaraba que esa extensión de tierra debía llevar en adelante,
 el nombre de Pensilvania.
-Este favor del rey, William Penn se lo debía principalmente, creo, a Jacobo,
+Este favor del rey, William Penn se lo debía principalmente, creo, a James,
 entonces duque de York.
 Porque sir William Penn, siendo almirante en jefe de Inglaterra,
 en su lecho de muerte le había pedido al duque proteger a su hijo contra sus enemigos,
@@ -2319,7 +2319,7 @@ y no mucho después, hacia principios del año 1685, murió.
 Por esta época,
 el rey sufrió violentas convulsiones y también murió el mes llamado Febrero.
 Al quedar vacante el trono por su muerte,
-fue ocupado de nuevo por su hermano Jacobo II que le sucedió,
+fue ocupado de nuevo por su hermano James II que le sucedió,
 y que fue proclamado rey el mismo día. No puedo dejar de apuntar,
 que la persecución continuó hasta la muerte del rey Carlos,
 y que hasta ese mismo instante era muy intensa.
