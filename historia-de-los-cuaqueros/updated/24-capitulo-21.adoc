@@ -18,18 +18,18 @@
 * Muerte de David Barclay
 * Muerte de Anne Whitehead
 * Libertad de consciencia concedida
-* Cartas al rey Jacobo
+* Cartas al rey James
 * Orden del rey de eximir a los Amigos de prestar juramentos
 * Transgresiones del rey a favor del papado
 * Encarcelamiento de los obispos
 * Carta de la Junta Anual
 * Firmeza y fidelidad de Theophila Townsend
 * Sufrimiento y liberación de Theophilus Green
-* William Penn y el rey Jacobo
+* William Penn y el rey James
 * Convencimiento, sufrimientos y muerte de William Dewsbury
 * William, príncipe de Orange, desembarca en Inglaterra.
 
-El rey Jacobo no llevaba mucho tiempo al mando del gobierno,
+El rey James no llevaba mucho tiempo al mando del gobierno,
 cuando los disidentes le solicitaron libertad de culto,
 y entre ellos estaban también los Cuáqueros, que hicieron la siguiente petición:
 
@@ -101,7 +101,7 @@ angustia y saqueo son los siguientes:
 * Año 29 de Elizabeth, capítulo 6, por continuar.
 * Año 35 de Elizabeth, capítulo 1, por renunciar al reino bajo pena de muerte.
 * Año 1 de Elizabeth, capítulo 2, por doce peniques el Domingo.
-* Año 3 del rey Jacobo I, capítulo 4, por __Premunire,__ encarcelamiento de por vida y confiscación de propiedades.
+* Año 3 del rey James I, capítulo 4, por __Premunire,__ encarcelamiento de por vida y confiscación de propiedades.
 * Año 13 y 14 del rey Carlos II contra los Cuáqueros, etc., por destierro.
 * Año 22 del rey Carlos II, capítulo 1, contra conventículos sediciosos.
 * Año 17 del rey Carlos II, capítulo 2, contra los no conformistas.
@@ -252,7 +252,7 @@ También se presentó la siguiente solicitud.
 --
 
 [.letter-heading]
-Al Rey Jacobo II
+Al Rey James II
 
 [.salutation]
 Humilde solicitud del pueblo llamado Cuáqueros.
@@ -301,7 +301,7 @@ Mientras tanto, el rey publicó la siguiente proclama:
 --
 
 [.signed-section-context-open]
-Jacobo R.
+James R.
 
 [.salutation]
 A todos los arzobispos y obispos, a sus cancilleres y comisionados,
@@ -405,10 +405,10 @@ quien tras la muerte de su padre el rey Carlos II, se fue a Bruselas.
 Después de pasar de ahí a Holanda,
 fue instigado tan vigorosamente por algunos extremistas ingleses,
 que tras recibir dinero y ayuda de varios que estaban descontentos,
-emitió una fiera declaración contra el rey Jacobo (que fue escrita,
+emitió una fiera declaración contra el rey James (que fue escrita,
 según se me ha dicho de manera creíble, por el violento Robert Ferguson^
 footnote:[Robert Ferguson (1637-1714) fue un ministro Presbiteriano escocés,
-conspirador contra Carlos II y Jacobo II,
+conspirador contra Carlos II y James II,
 y un célebre escritor de violentos panfletos contra el gobierno.]),
 y se fue a Inglaterra con tres buques de guerra y algunas tropas.
 Cuando Monmouth desembarcó con sus fuerzas al oeste de Inglaterra, cerca de Lime,
@@ -444,7 +444,7 @@ es posible que mediante el verdadero arrepentimiento
 no sólo haya obtenido perdón de Dios,
 sino que también haya tenido plena seguridad de él.
 
-No le fue mejor al conde de Argyle, quien se rebeló contra el rey Jacobo en Escocia.
+No le fue mejor al conde de Argyle, quien se rebeló contra el rey James en Escocia.
 Pero no detendré a mi lector con esto,
 ni con el relato de la funesta ejecución de muchos,
 que habiendo sido hallados culpables de alta traición (fuera por rebelión real,
@@ -753,7 +753,7 @@ en nombre de sí mismos y de muchos otros de dicho pueblo, en humildad presentan
 
 Dado que el sabio Dispensador de todas las cosas ha ordenado el empleo de ustedes
 en este honorable servicio para aliviar al oprimido y liberar a los cautivos;
-y dado que el rey Jacobo II les ha dado en custodia parte de su clemencia,
+y dado que el rey James II les ha dado en custodia parte de su clemencia,
 para que la distribuyan según incline el Señor su corazón;
 y habiendo tomado especial nota de nuestros sufrimientos
 y manifestado su voluntad y beneplácito de que nosotros,
@@ -1081,7 +1081,7 @@ la cual es como sigue:
 --
 
 [.letter-heading]
-Al rey Jacobo II, sobre Inglaterra, etc.
+Al rey James II, sobre Inglaterra, etc.
 
 Las humildes y agradecidas declaraciones de varios de los súbditos del rey,
 comúnmente llamados Cuáqueros, en y alrededores de la ciudad de Londres,
@@ -1191,7 +1191,7 @@ se la dio de nuevo a William Penn para que la leyera, que era como sigue:
 --
 
 [.salutation]
-Al rey Jacobo II de Inglaterra, etc.
+Al rey James II de Inglaterra, etc.
 
 El humilde y agradecido reconocimiento de sus pacíficos súbditos llamados Cuáqueros,
 en este reino, de su habitual reunión anual en Londres, el día 19 del tercer mes,
@@ -1261,7 +1261,7 @@ En efecto, muchos que no eran de su persuasión creían que su intención era si
 y entre estos estaban los que pensaban que la libertad de
 consciencia podría haberse establecido de modo tal,
 que no quedara al alcance de los papistas romperla.
-Pero el tiempo ha demostrado que el rey Jacobo no iba a ser el
+Pero el tiempo ha demostrado que el rey James no iba a ser el
 instrumento para establecer tal libertad de consciencia,
 y que la derogación de las leyes penales estaba reservada para otro príncipe.
 Sin embargo,
@@ -1485,7 +1485,7 @@ La carta que le presentaron es como sigue:
 --
 
 [.letter-heading]
-Al rey Jacobo II sobre Inglaterra, etc.
+Al rey James II sobre Inglaterra, etc.
 
 [.offset]
 La humilde carta del pueblo llamado Cuáqueros, de su Reunión Anual en Londres,
@@ -1574,7 +1574,7 @@ obtuvieron la siguiente orden de él:
 A nuestro fiel y estimado Procurador General.
 
 [.signed-section-context-open]
-Jacobo R.
+James R.
 
 [.salutation]
 Fiel y estimado, te saludamos cordialmente:
@@ -1655,7 +1655,7 @@ Luego, se pusieron por escrito los nombres de los que se habían reunido,
 y fue un tiempo después de esto, que ella, aunque anciana y débil,
 fue conducida durante el invierno por cuatro o seis kilómetros a través de la nieve,
 y encarcelada en Gloucester, donde permaneció tres años y cuatro meses,
-y luego fue liberada por el rey Jacobo.
+y luego fue liberada por el rey James.
 
 Después ella publicó un libro, como se ha dicho,
 en el que relata cómo algunos de sus amigos habían sido golpeados,
@@ -2451,11 +2451,11 @@ y así entró piadosamente al descanso eterno.
 
 En cuanto a los asuntos de estado, se produjo entonces una gran agitación en Inglaterra,
 ya que se informó que la reina^
-footnote:[María de Módena, segunda esposa de Jacobo II.]
+footnote:[Mary de Módena, segunda esposa de James II.]
 estaba esperando un niño. Los esfuerzos del rey por introducir el papismo,
 junto con su usurpación de algunos derechos y privilegios, habían causado tal revuelo,
 que los Protestantes ingleses le pidieron e invitaron a William III,^
-footnote:[William III era el sobrino Protestante y yerno del rey Jacobo II.]
+footnote:[William III era el sobrino Protestante y yerno del rey James II.]
 príncipe de Orange y señor representante de Holanda, etc., acudir en su ayuda.
 Él finalmente lo hizo, llegando con una flota y un número considerable de tropas.
 
@@ -2467,7 +2467,7 @@ y al tener muchos partidarios allí,
 hizo que el rey (a quien muchas de sus fuerzas lo
 habían abandonado) resolviera irse a Francia,
 donde la reina se había ido un poco antes con el pequeño niño de ambos.
-De esta manera llegó Jacobo a Francia, donde fue bien recibido por Luis XIV,
+De esta manera llegó James a Francia, donde fue bien recibido por Luis XIV,
 quien le proveyó una corte en St. Germain.
 Mientras tanto,
 el príncipe de Orange llegó a Londres y fue saludado
@@ -2495,8 +2495,8 @@ Nunca pude averiguar quién escribió la mencionada carta,
 pero estoy completamente convencido de que no era Cuáquero;
 porque nunca ha sido costumbre de ellos ridiculizar príncipes,
 ni caracterizarlos con denominaciones ridículas,
-como encontramos en dicha carta mencionado a Jacobo de Gran Bretaña, María Módena,
-William de Orange y María de Inglaterra, su esposa.
+como encontramos en dicha carta mencionado a James de Gran Bretaña, Mary Módena,
+William de Orange y Mary de Inglaterra, su esposa.
 Tal lenguaje insensato se traiciona a sí mismo,
 y sirve como evidencia palpable de que no procedía de la
 pluma de ninguna persona del pueblo llamado Cuáqueros.

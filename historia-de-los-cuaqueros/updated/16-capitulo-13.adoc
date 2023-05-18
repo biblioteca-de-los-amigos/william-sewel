@@ -1060,7 +1060,7 @@ __John Crook:__ ¿Según qué ley tienen poder para presentarme el juramento?
 y pasando las páginas, respondieron:]
 
 [.discourse-part]
-__Juez:__ Por la tercera del rey Jacobo.
+__Juez:__ Por la tercera del rey James.
 
 [.discourse-part]
 __John Crook:__ Deseo que sea leído el estatuto;
@@ -1848,7 +1848,7 @@ Con respecto a la cuestión de ley, tengo que decir lo siguiente: Primero,
 en cuanto al estatuto mismo, fue hecho contra los papistas,
 ocasionado por la '`conspiración de la pólvora`'^
 footnote:[La _conspiración de la pólvora_ fue un intento
-fallido de hacer estallar al rey Jacobo I y al Parlamento,
+fallido de hacer estallar al rey James I y al Parlamento,
 el 5 de Noviembre de 1605, dirigido por Robert Catesby,
 quien trató de restaurar la monarquía católica.]
 y se titula, "`Para el mejor descubrimiento y supresión de los papistas recusantes.^
