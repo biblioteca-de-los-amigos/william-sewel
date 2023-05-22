@@ -3,19 +3,27 @@
 [.section-date]
 1702-1717
 
-Carta de los Amigos a la reina cuando subió al trono--Carta de la Reunión Anual
-a la reina cuando declaró que mantendría el Ley de Tolerancia--Relato de la vida
-y muerte de Margaret Fox--G. Keith y los frutos de la apostasía--Doctrina de
-los Amigos sobre la Luz y algunos relatos de sus testimonios--Muerte y carácter
-de Anne Camm--Unión de Inglaterra y Escocia--Carta de la Reunión Anual a propósito
-de la unión--G. Whitehead y la reina--Carta de Samuel Crisp,
-clérigo convertido en Cuáquero--Evan Jevan relata
-su cambio--Carta de los Cuáqueros en Londres,
-a propósito de la renovada promesa de la reina de mantener la tolerancia--Manifestación
-contra un proyecto de ley para impedir el crecimiento del cisma--Muerte de la
-reina--Proclamación del rey George--Carta de los Cuáqueros al rey--Discursos
-de G. Whitehead al rey y al príncipe--El rey George favorable a los Amigos--Carta
-de la Reunión Anual en Londres en 1717--Conclusión.
+[.chapter-synopsis]
+* Carta de los Amigos a la reina cuando subió al trono
+* Carta de la Reunión Anual a la reina cuando declaró que mantendría el Ley de Tolerancia
+* Relato de la vida y muerte de Margaret Fox
+* G. Keith y los frutos de la apostasía
+* Doctrina de los Amigos sobre la Luz y algunos relatos de sus testimonios
+* Muerte y carácter de Anne Camm
+* Unión de Inglaterra y Escocia
+* Carta de la Reunión Anual a propósito de la unión
+* G. Whitehead y la reina
+* Carta de Samuel Crisp, clérigo convertido en Cuáquero
+* Evan Jevan relata su cambio
+* Carta de los Cuáqueros en Londres, a propósito de la renovada promesa de la reina de mantener la tolerancia
+* Manifestación contra un proyecto de ley para impedir el crecimiento del cisma
+* Muerte de la reina
+* Proclamación del rey George
+* Carta de los Cuáqueros al rey
+* Discursos de G. Whitehead al rey y al príncipe
+* El rey George favorable a los Amigos
+* Carta de la Reunión Anual en Londres en 1717
+* Conclusión.
 
 La reina Anne,^
 footnote:[La reina Anne, (1665-1714), hija de James II y hermana menor de la reina Mary,
@@ -31,6 +39,10 @@ uno) fueron a presentarla el 11 del mes llamado Abril,
 fueron presentados por el duque de Marlborough y el duque de Ormond.
 La carta era la siguiente:
 
+[.embedded-content-document.address]
+--
+
+[.salutation]
 Sea de complacencia para la reina,
 
 Nosotros, tus pacíficos súbditos,
@@ -63,8 +75,11 @@ paz y caridad, para la gloria de Dios y beneficio de estas naciones.
 Qué el Rey de reyes haga largo y glorioso tu reino,
 y además de estas bendiciones temporales, oramos también por tu felicidad eterna.
 
+[.signed-section-signature]
 Firmado en nombre y por designación del pueblo antes mencionado,
 en la reunión en Londres, el 10 del segundo mes de 1702.
+
+--
 
 Esta carta fue muy favorablemente recibida por la reina, y después de que le fue leída,
 ella respondió: "`Les agradezco la carta y les aseguro mi protección.`"
@@ -78,11 +93,16 @@ en la que se consideró oportuno agradecerle a la reina su declaración
 de que mantendría la ley de tolerancia en favor de los disidentes.
 Por tanto, dicha asamblea redactó una carta, la cual es como sigue:
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 A la reina Anne, sobre Inglaterra, etc.
 
-El humilde y agradecido reconocimiento del pueblo comúnmente llamado Cuáqueros,
-de su Reunión Anual en Londres, el 30 del tercer mes llamado Mayo de 1702
+[.blurb]
+=== El humilde y agradecido reconocimiento del pueblo comúnmente llamado Cuáqueros, de su Reunión Anual en Londres, el 30 del tercer mes llamado Mayo de 1702
 
+[.salutation]
 Sea de complacencia para la reina,
 
 Nosotros, tus súbditos pacíficos y obedientes,
@@ -103,7 +123,10 @@ que dirija todos tus consejos y acciones, para que la rectitud que exalta a una 
 y la misericordia y la justicia que establecen un reino, sea el carácter de tu reinado,
 y las bendiciones de estos reinos bajo él.
 
+[.signed-section-signature]
 Firmado por el designio y en nombre de la mencionada reunión.
+
+--
 
 De los que presentaron esta carta, William Penn fue el que la entregó,
 y a la reina le plació hablar con él de manera muy amable,
@@ -945,10 +968,14 @@ y los llamados Cuáqueros también se consideraron
 obligados a testificar su afecto a la princesa,
 como lo hicieron con la siguiente carta:
 
-A Anne, reina de Gran Bretaña, etc.
+[.embedded-content-document.address]
+--
 
-La agradecida y humilde carta del pueblo comúnmente llamado Cuáqueros,
-de su Reunión Anual en Londres, este día 28 del tercer mes, llamado Mayo, de 1708.
+[.letter-heading]
+A Anne, Reina de Gran Bretaña, etc.
+
+[.blurb]
+=== La agradecida y humilde carta del pueblo comúnmente llamado Cuáqueros, de su Reunión Anual en Londres, este día 28 del tercer mes, llamado Mayo, de 1708.
 
 Nosotros,
 teniendo buenas razones para conmemorar las múltiples misericordias
@@ -972,6 +999,8 @@ probaremos con toda fidelidad ser súbditos fieles y obedientes a la reina.
 Como tal, concluimos con oraciones fervientes al Señor de los ejércitos,
 que tras un reinado en esta vida próspero, seguro y largo, tú, oh, reina,
 seas bendecida con una corona de gloria eterna.
+
+--
 
 Esta carta fue firmada por catorce miembros en nombre de la reunión,
 a quienes también se les comisionó presentarla.
@@ -1035,6 +1064,10 @@ puede mostrarse por dos cartas que insertaré aquí;
 la primera es de Samuel Crisp, un clérigo de la iglesia Episcopal,
 quien hizo el siguiente relato de su cambio a uno de sus parientes más cercanos.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Mi querido Amigo,
 
 La semana pasada recibí una carta tuya enviada por tu tío Bolton;
@@ -1360,11 +1393,19 @@ Recordemos orar unos por otros con todo fervor,
 para que podamos mantenernos perfectos en toda la voluntad de Dios.
 Mi alma dice, Amén.
 
+[.signed-section-closing]
 Tu más afectuoso amigo y siervo en Jesús,
 
+[.signed-section-signature]
 Samuel Crisp
 
+--
+
+[.offset]
 Es también notable la siguiente carta, o relato de un tal Evan Jevans.
+
+[.embedded-content-document.letter]
+--
 
 Ya que le ha placido a la divina bondad dotarme de razón,
 le doy gracias de corazón a la excelentísima Majestad,
@@ -1465,6 +1506,8 @@ Porque lo que yo necesitaba era paz con Dios mi hacedor, y misericordia para mi 
 y habiendo encontrado finalmente la perla de gran precio,
 me separé de todo para comprarla.
 
+--
+
 De este relato se desprende que, con su cambio de persuasión religiosa,
 el escritor no pretendía nada más que la tranquilidad
 de su mente y la salvación de su alma.
@@ -1476,11 +1519,14 @@ y el pueblo llamado Cuáqueros también estimó su deber
 mostrar su agradecido reconocimiento por este favor,
 lo que hicieron mediante la siguiente carta.
 
-A la reina Anne de Gran Bretaña, etc.
+[.embedded-content-document.address]
+--
 
-La humilde y agradecida carta del pueblo llamado Cuáqueros,
-en y alrededor de la ciudad de Londres,
-en nombre de sí mismos y del resto de los de su persuasión.
+[.letter-heading]
+A la Reina Anne de Gran Bretaña, etc.
+
+[.blurb]
+=== La humilde y agradecida carta del pueblo llamado Cuáqueros, en y alrededor de la ciudad de Londres, en nombre de sí mismos y del resto de los de su persuasión.
 
 Cuando consideramos el interés real de la reina de proteger nuestra libertad religiosa,
 y la renovada seguridad del trono de su resolución Cristiana de mantener
@@ -1499,6 +1545,8 @@ se esfuercen por superarse unos a otros en virtud y amor universal.
 Que el Dios Todopoderoso misericordiosamente se complazca en defenderte y bendecirte, oh,
 reina, y te guíe mediante Su consejo en un largo y próspero reinado aquí,
 para después recibirte en la gloria, es la sincera oración de tus fieles súbditos.
+
+--
 
 A esta carta la reina le plació responder: "`Les agradezco su carta,
 y pueden contar con mi protección.`" La animosidad mencionada en esta carta hacía
@@ -1595,10 +1643,16 @@ Al presentársela al rey, G. Whitehead dijo: "`Uno de nosotros puede leerla para
 Con lo cual, la recibió de nuevo y la entregó a Joseph Wyeth,
 quien leyó en voz alta de la siguiente manera:
 
-A George rey de Gran Bretaña, etc.
+[.embedded-content-document.address]
+--
 
-La humilde carta del pueblo comúnmente llamado Cuáqueros.
+[.letter-heading]
+A George Rey de Gran Bretaña, etc.
 
+[.blurb]
+=== La humilde carta del pueblo comúnmente llamado Cuáqueros.
+
+[.salutation]
 Gran Príncipe,
 
 Habiéndole placido al Todopoderoso Dios privar a
@@ -1626,6 +1680,8 @@ guíe al rey por medio de Su divina sabiduría; lo proteja mediante Su poder;
 le dé salud y largura de días aquí, y eterna felicidad en la otra vida.
 Qué Él bendiga a su descendencia real,
 para que nunca deje de adornar el trono con un sucesor dotado de piedad y virtud!
+
+--
 
 Al rey le plació dar esta bondadosa respuesta a la carta:
 "`Estoy muy satisfecho con las expresiones de deber que declaran en su carta,
@@ -1669,6 +1725,7 @@ Y será como la luz de la mañana cuando sale el sol, la mañana sin nubes;
 como el resplandor tras la lluvia que hace brotar la hierba de la tierra.`'`"^
 footnote:[2 Samuel 23:3-4]
 
+[.offset]
 Este discurso fue favorablemente escuchado por el príncipe.
 
 No mucho después de la llegada del rey, murió el Dr. Gilbert Burnet, obispo de Salisbury,
@@ -1716,6 +1773,9 @@ no dejaron de reconocer con agradecimiento su bondad,
 como se desprende de la epístola general de su asamblea anual,
 donde expresan su gratitud con las siguientes palabras:
 
+[.embedded-content-document.address]
+--
+
 El Señor nuestro Dios, quien por amor a Su heredad,
 a menudo ha reprendido y limitado las embravecidas olas del mar, bendito sea Su nombre,
 ha dispersado misericordiosamente la nube que amenazaba tormenta,
@@ -1726,6 +1786,8 @@ es motivo de verdadero agradecimiento a Él. Y humildemente orar al Todopoderoso
 Dios por la seguridad y defensa del rey y de los que están en autoridad,
 es ciertamente nuestro deber Cristiano, así como también,
 caminar inofensivamente como y pueblo agradecido.
+
+--
 
 De esta manera manifestaron su agradecimiento por el favor que disfrutaban;
 y como este pueblo ahora disfrutaba tanto de libertad como de tranquilidad,
@@ -1774,13 +1836,11 @@ Y como en esta historia ya se han mencionado varias veces
 las epístolas de la asamblea anual a sus iglesias en particular,
 he pensado adecuado insertar aquí la del año 1717, que es como sigue:
 
-Epístola de la Reunión Anual en Londres,
+[.embedded-content-document.epistle]
+--
 
-Celebrada del Día 10 al Día 14 del Mes Cuatro, de 1717.
-
-Para las Reuniones Mensuales y Trimestrales de los Amigos en Gran Bretaña,
-
-y en Otros Lugares.
+[.blurb]
+=== Epístola de la Reunión Anual en Londres, Celebrada del Día 10 al Día 14 del Mes Cuatro, de 1717. Para las Reuniones Mensuales y Trimestrales de los Amigos en Gran Bretaña, y en Otros Lugares.
 
 Nuestro saludo, en el amor de Cristo Jesús nuestro bendito Señor,
 se extiende libremente a ustedes,
@@ -1883,12 +1943,17 @@ por el favor que Él nos ha concedido ante los ojos del rey y del gobierno civil
 en el disfrute pacífico de nuestras libertades religiosas y Cristianas bajo ellos;
 y confiamos que el Dios de paz estará con ustedes hasta el fin.
 
+[.signed-section-closing]
 La gracia de nuestros Señor Jesucristo sea con sus espíritus.
 Amén.
 
+[.signed-section-closing]
 Firmado por, en nombre y por orden de esta reunión,
 
+[.signed-section-signature]
 Benjamin Bealing
+
+--
 
 Por esta epístola,
 mis lectores pueden juzgar algo de las otras epístolas que son
