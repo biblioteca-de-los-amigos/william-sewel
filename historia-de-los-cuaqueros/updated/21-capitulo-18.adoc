@@ -28,10 +28,10 @@
 Ahora, aunque la persecución no era tan fiera en Londres como en otros lugares del país,
 a veces, incluso ahí, era muy severa,
 como puede verse en el caso de William Penn y William Mead,
-quienes fueron sacados de una reunión, encarcelados y juzgados en el mes de Septiembre.
+quienes fueron sacados de una reunión, encarcelados y juzgados en el mes de septiembre.
 
 La acusación decía que William Penn y William Mead, junto con otras personas,
-hasta un número de trescientas, habían tenido una reunión tumultuosa el 15 de Agosto,
+hasta un número de trescientas, habían tenido una reunión tumultuosa el 15 de agosto,
 por la fuerza y con armas, en Gracechurch-street, Londres; y que William Penn,
 en acuerdo con William Mead, había predicado ahí en la calle pública,
 causando con esto una gran concurrencia y tumulto de personas, etc.
@@ -336,7 +336,7 @@ Y al regresar media hora después, entregaron el siguiente veredicto por escrito
 
 Nosotros, los jurados nombrados a continuación,
 encontramos a William Penn culpable de hablar o predicar en una asamblea,
-reunida en Gracechurch-street, el 14 de Agosto pasado, de 1670;
+reunida en Gracechurch-street, el 14 de agosto pasado, de 1670;
 y que William Mead no es culpable de dicha acusación.
 
 [.signed-section-signature]
@@ -552,7 +552,7 @@ sino también lo absurdo de la acusación,
 la ilegalidad de los procedimientos del tribunal, y cómo, según la Carta Magna,
 los prisioneros habían sido tratados de forma contraria a la ley.
 También se menciona el caso del presidente del tribunal lord Keeling,
-quien por haberle puesto restricciones a los jurados, el 11 de Diciembre de 1667,
+quien por haberle puesto restricciones a los jurados, el 11 de diciembre de 1667,
 un comité del Parlamento llegó a la resolución,
 de que sus procedimientos habían sido innovaciones
 en un juicio de hombres por sus vidas y libertades;
@@ -563,7 +563,7 @@ Además, que él había infravalorado,
 desacreditado y condenado la Carta Magna en un tribunal de justicia, y que por eso,
 debía ser llevado a juicio a fin de recibir el castigo,
 de la manera que la Casa juzgara la más conveniente y necesaria.
-Dos días después, el 13 de Diciembre, se resolvió que eran ilegales,
+Dos días después, el 13 de diciembre, se resolvió que eran ilegales,
 los precedentes y la práctica de multar o encarcelar
 a los miembros de un jurado por veredictos.
 Creo que el libro que contenía el mencionado juicio de W. Penn y W. Mead,
@@ -651,7 +651,7 @@ Y la propuesta fue tan aceptada,
 que el tribunal consintió en pagarle cien libras por el mencionado servicio,
 a través del administrador de Londres.
 Como esto era bien conocido por T. Rudyard,
-mencionó el día de dicha orden--el 8 de Octubre, 1670--en un libro que publicó,
+mencionó el día de dicha orden--el 8 de octubre, 1670--en un libro que publicó,
 y en el que mostraba que se le habían dado otras órdenes
 por doscientas libras en los últimos ocho meses.
 Y con el fin de reprender tales actos de manera satírica,
@@ -694,7 +694,7 @@ si pudiera encontrar tiempo para ello; sin embargo,
 de vez en cuando mencionaré algunos ejemplos,
 por medio de los cuales el lector pueda suponer el resto.
 
-Este año en Alford, en Somersetshire, en el mes llamado Agosto,
+Este año en Alford, en Somersetshire, en el mes llamado agosto,
 fue enterrado el cuerpo de un tal Samuel Clothier,
 y aunque todos se mantuvieron en silencio en el cementerio, el juez, un tal Robert Hunt,
 multó a algunos de los que habían estado en el entierro
@@ -829,7 +829,7 @@ hasta que fueron liberados por la _Ley de Gracia_ del rey.
 
 Las reuniones de los llamados Cuáqueros eran miserablemente perturbadas en Horslydown,
 en el condado de Surry.
-El 25 de Septiembre varios mosqueteros entraron en la casa de reunión,
+El 25 de septiembre varios mosqueteros entraron en la casa de reunión,
 y después de arrastrar a la calle a los que estaban presentes,
 los soldados arremetieron con violencia cabalgando entre ellos, golpeándolos,
 lastimándolos y empujándolos con sus carabinas^
@@ -841,7 +841,7 @@ que una partida de jinetes intentó cabalgar sobre estas personas indefensas,
 pero los caballos, siendo más misericordiosos que los jinetes, no avanzaron;
 entonces con las riendas los hicieron girar y retroceder,
 esforzándose por hacer cualquier maldad que pudieran.
-El 2 de Octubre, este pacífico pueblo impedido de entrar en su lugar de reunión,
+El 2 de octubre, este pacífico pueblo impedido de entrar en su lugar de reunión,
 adonde llegó una partida de infantería y una de caballería,
 fue lastimado con no menos violencia que la semana anterior; de manera tal,
 que golpeándolos y aporreándolos quebraron varios de sus mosquetes, picas y una carabina,
@@ -1181,7 +1181,7 @@ ella pareció (no sin razón) afligida por la noticia.
 No mucho después de esto G. Fox realizó una reunión en Armscot,
 en la parroquia de Tredington, y después de que terminó la reunión, él y Thomas Lower,
 sentados en el salón y conversando con algunos amigos,
-fueron tomados prisioneros el 17 de Diciembre y enviados
+fueron tomados prisioneros el 17 de diciembre y enviados
 a la cárcel de Worcester por el juez Henry Parker,
 bajo el pretexto de que habían celebrado grandes reuniones
 que podrían ser perjudiciales para la paz pública.
@@ -1350,7 +1350,7 @@ Miles Halhead.
 
 --
 
-En el mes llamado Enero, de 1674,
+En el mes llamado enero, de 1674,
 G+++.+++ Fox y Thomas Lower fueron llevados a juicio en el tribunal de Worcester,
 el último día de las sesiones.
 Cuando ellos entraron, los que estaban en el tribunal se pusieron pálidos,
@@ -1513,7 +1513,7 @@ G+++.+++ Fox descubrió que no lo podía evitar, por mucho que dijera en su defe
 y sólo se le concedió este favor, que podía regresar por su propia cuenta y a su paso,
 siempre y cuando estuviera ahí y sin falta,
 para el momento de las sesiones del tribunal que
-tenían que iniciar el 2 del mes llamado Abril.
+tenían que iniciar el 2 del mes llamado abril.
 
 Por tanto, después de una estadía en Londres, G. Fox regresó tranquilamente,
 y cuando llegó a Worcester,
@@ -1680,7 +1680,7 @@ no estuvieron dispuestos a meterse en el asunto,
 y sólo la remitieron a las siguientes sesiones trimestrales en Worcester.
 
 Una vez finalizada la Reunión Anual, regresó a Worcester,
-donde las sesiones se celebraban en el mes llamado Julio.
+donde las sesiones se celebraban en el mes llamado julio.
 G+++.+++ Fox fue llamado al estrado, la acusación fue leída,
 el juez Street hizo que se leyeran también los juramentos, y se los presentaron otra vez.
 Entonces G. Fox les dijo que él había llegado para objetar la acusación. Pero cuando
@@ -1738,7 +1738,7 @@ Señor, soy tu atento amigo,
 Henry Parker.
 
 [.signed-section-context-close]
-Evesham, 8 de Octubre, de 1674
+Evesham, 8 de octubre, de 1674
 
 --
 
