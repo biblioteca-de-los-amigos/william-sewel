@@ -701,7 +701,7 @@ sólo por declarar contra las maldiciones y perversidades de la gente tosca y ru
 y contra los que permitían tal impiedad y no trataban de suprimirla.
 
 Este era el contenido principal del documento,
-que ellos adjuntaron a un carta para el presidente
+que ellos adjuntaron a una carta para el presidente
 de la Cámara de los Comunes con estas palabras:
 
 [.embedded-content-document.letter]
@@ -1387,7 +1387,7 @@ que cumplirán lo que dicen?
 __R+++.+++ Hubberthorn:__ Probándonos; porque no se sabe si los que juran son leales,
 excepto probándolos.
 Y así nosotros,
-porque aquellos que nos han probado han encontrado que somos más fieles en nuestra promesas,
+porque aquellos que nos han probado han encontrado que somos más fieles en nuestras promesas,
 que otros en sus juramentos; y a los que todavía nos probarán, les pareceremos igual.
 
 [.discourse-part]
@@ -1735,9 +1735,9 @@ y para no mencionar a otros,
 sólo diré que un tal Robert Huntington entró una
 vez a la '`casa del campanario`' en Brough,
 cerca de Carlisle, envuelto en una sábana blanca y con una soga al cuello,
-para mostrarles a los Presbiterianos e Independientes de allí, que el sobrepelliz^
+para mostrarles a los Presbiterianos e Independientes de allí, que la sobrepelliz^
 footnote:[La vestimenta litúrgica blanca usada por la Iglesia Anglicana.]
-iba a ser introducido de nuevo, y que algunos de ellos no escaparían de la soga.
+iba a ser introducida de nuevo, y que algunos de ellos no escaparían de la soga.
 Por muy descabellado que se dijera entonces que había sido este acto,
 el tiempo probó que había sido una predicción del
 inminente desastre de los crueles perseguidores,
@@ -2133,7 +2133,7 @@ iba a ser instalada como jefa de estado católica.]
 Por lo tanto, para reprimir a estas malvadas personas y descubrirlas mejor,
 en el tercer año del reinado de James I se promulgó una ley,
 en la que se incluía el siguiente juramento,
-que debían hacer los papista no-conformistas:
+que debían hacer los papistas no-conformistas:
 
 [.embedded-content-document.legal]
 --
