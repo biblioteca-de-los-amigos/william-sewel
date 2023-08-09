@@ -100,7 +100,7 @@ angustia y saqueo son los siguientes:
 * Año 23 de Elizabeth, capítulo 1, por veinte libras al mes.
 * Año 29 de Elizabeth, capítulo 6, por continuar.
 * Año 35 de Elizabeth, capítulo 1, por renunciar al reino bajo pena de muerte.
-* Año 1 de Elizabeth, capítulo 2, por doce peniques el Domingo.
+* Año 1 de Elizabeth, capítulo 2, por doce peniques el domingo.
 * Año 3 del rey James I, capítulo 4, por __Premunire,__ encarcelamiento de por vida y confiscación de propiedades.
 * Año 13 y 14 del rey Carlos II contra los Cuáqueros, etc., por destierro.
 * Año 22 del rey Carlos II, capítulo 1, contra conventículos sediciosos.
@@ -1224,7 +1224,7 @@ y te aseguramos que estas cosas son bien recibidas
 en todos los condados de los que venimos;
 por lo que esperamos que los buenos efectos de dicha obra en la paz,
 comercio y prosperidad del reino produzcan tal acuerdo en el Parlamento,
-que los asegure a nuestro posteridad en los tiempos venideros.
+que los asegure a nuestra posteridad en los tiempos venideros.
 
 [.signed-section-closing]
 Sus pacíficos, afectuosos y fieles súbditos,
